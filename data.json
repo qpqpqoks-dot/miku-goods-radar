@@ -1,0 +1,57 @@
+{
+ "updated": "(샘플 데이터)",
+ "count": 5,
+ "sample": true,
+ "items": [
+  {
+   "title": "[샘플] 편의점 × 하츠네 미쿠 콜라보 캠페인 시작 — 한정 클리어파일 증정",
+   "link": "#",
+   "source": "샘플",
+   "region": "jp",
+   "category": "goods",
+   "thumb": null,
+   "date": "2026-06-10",
+   "ts": 0
+  },
+  {
+   "title": "[샘플] 初音未来 1/7 스케일 피규어 신작 예약 개시",
+   "link": "#",
+   "source": "샘플",
+   "region": "cn",
+   "category": "figure",
+   "thumb": null,
+   "date": "2026-06-09",
+   "ts": 0
+  },
+  {
+   "title": "[샘플] Snow Miku 2027 디자인 공모 결과 발표, 굿즈 라인업 공개",
+   "link": "#",
+   "source": "샘플",
+   "region": "global",
+   "category": "goods",
+   "thumb": null,
+   "date": "2026-06-08",
+   "ts": 0
+  },
+  {
+   "title": "[샘플] 하츠네 미쿠 팝업스토어 서울 개최 — 한정 굿즈 판매",
+   "link": "#",
+   "source": "샘플",
+   "region": "kr",
+   "category": "goods",
+   "thumb": null,
+   "date": "2026-06-07",
+   "ts": 0
+  },
+  {
+   "title": "[샘플] ねんどろいど 하츠네 미쿠 신작 예약 개시",
+   "link": "#",
+   "source": "샘플",
+   "region": "jp",
+   "category": "figure",
+   "thumb": null,
+   "date": "2026-06-06",
+   "ts": 0
+  }
+ ]
+}

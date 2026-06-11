@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MIKU GOODS RADAR — 미쿠 굿즈 레이더</title>
+<meta property="og:title" content="MIKU GOODS RADAR ♪">
+<meta property="og:description" content="일본·중국·한국·글로벌 하츠네 미쿠 굿즈/콜라보/피규어 소식 자동 수집">
+<meta property="og:image" content="https://qpqpqoks-dot.github.io/miku-goods-radar/og-image.png">
+<meta property="og:type" content="website">
+<style>
+:root{
+  --miku:#39C5BB; --miku-deep:#1FA29A; --miku-soft:#CFF2EF;
+  --pink:#FF7BAC; --ink:#163438; --ink-soft:#4E7176;
+  --paper:#F6FDFC; --card:#ffffff;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  font-family:'Pretendard','Apple SD Gothic Neo','Segoe UI','Malgun Gothic',sans-serif;
+  background:radial-gradient(800px 400px at 90% -5%, rgba(57,197,187,.14), transparent 60%),var(--paper);
+  color:var(--ink); min-height:100vh; padding-bottom:70px;
+}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px}
+header{padding:42px 0 8px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+header img.mascot{width:84px;flex-shrink:0;filter:drop-shadow(0 6px 14px rgba(31,162,154,.3))}
+header h1{font-size:clamp(25px,5vw,34px);font-weight:900;letter-spacing:-1px}
+header h1 b{color:var(--miku)}
+header .sub{margin-top:5px;font-size:13.5px;color:var(--ink-soft)}
+.updated{
+  display:inline-flex;align-items:center;gap:7px;margin-top:9px;
+  font-size:12px;font-weight:700;color:var(--miku-deep);
+  background:#fff;border:1.5px solid var(--miku-soft);border-radius:99px;padding:5px 13px;
+}
+.updated .dot{width:7px;height:7px;border-radius:50%;background:var(--miku);animation:pulse 1.8s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.head-actions{margin-left:auto;display:flex;flex-direction:column;gap:7px;align-items:flex-end}
+#updBtn{
+  border:0;background:linear-gradient(120deg,var(--miku),var(--miku-deep));color:#fff;
+  font-weight:800;font-size:14px;border-radius:99px;padding:12px 22px;cursor:pointer;
+  box-shadow:0 8px 20px rgba(57,197,187,.35);transition:.15s;font-family:inherit;
+}
+#updBtn:hover{transform:translateY(-2px)}
+#updBtn:disabled{opacity:.55;cursor:default;transform:none}
+#updMsg{font-size:11.5px;color:var(--ink-soft);min-height:15px;text-align:right}
+#tokenBtn{border:0;background:none;color:var(--ink-soft);font-size:11px;cursor:pointer;text-decoration:underline;font-family:inherit}
+#sampleBanner{
+  display:none;margin:16px 0 0;padding:11px 16px;border-radius:12px;font-size:13px;font-weight:600;
+  background:#FFF6E5;border:1.5px solid #F4D38C;color:#8a6410;
+}
+/* store quick links */
+.stores{margin:20px 0 4px;background:#fff;border:1.5px solid var(--miku-soft);border-radius:16px;padding:14px 18px}
+.stores .lab{font-size:12px;font-weight:800;letter-spacing:1px;color:var(--ink-soft);margin-bottom:10px}
+.stores .lab small{font-weight:600;letter-spacing:0;margin-left:6px;color:#8FB5B1}
+.stores .row{display:flex;gap:9px;flex-wrap:wrap}
+.store-btn{
+  display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+  font-size:13px;font-weight:800;border-radius:11px;padding:9px 15px;transition:.15s;
+  border:1.5px solid transparent;
+}
+.store-btn:hover{transform:translateY(-2px)}
+.store-btn.moeyu{background:#EAF7F6;color:var(--miku-deep);border-color:var(--miku-soft)}
+.store-btn.bili{background:#FDEEF4;color:#D14B7F;border-color:#F7CFDF}
+.store-btn.tao{background:#FFF3E8;color:#C66A1E;border-color:#F5D9BC}
+/* controls */
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 14px;align-items:center}
+.chip{
+  border:1.5px solid var(--miku-soft);background:#fff;color:var(--ink-soft);
+  font-weight:700;font-size:13px;border-radius:99px;padding:8px 15px;cursor:pointer;transition:.15s;font-family:inherit;
+}
+.chip:hover{border-color:var(--miku)}
+.chip.on{background:var(--miku);border-color:var(--miku);color:#fff;box-shadow:0 5px 14px rgba(57,197,187,.32)}
+.chip.cat.on{background:var(--pink);border-color:var(--pink);box-shadow:0 5px 14px rgba(255,123,172,.32)}
+.sep{width:1.5px;height:22px;background:var(--miku-soft);margin:0 3px}
+#q{
+  margin-left:auto;border:1.5px solid var(--miku-soft);border-radius:99px;
+  padding:9px 16px;font-size:13.5px;font-family:inherit;outline:none;width:190px;color:var(--ink);background:#fff;
+}
+#q:focus{border-color:var(--miku)}
+/* list */
+#list{display:flex;flex-direction:column;gap:10px}
+.item{
+  display:flex;align-items:center;gap:14px;background:var(--card);
+  border:1.5px solid #E7F6F4;border-radius:15px;padding:11px 15px;
+  text-decoration:none;color:inherit;transition:.16s;
+}
+.item:hover{border-color:var(--miku);transform:translateX(5px);box-shadow:0 8px 20px rgba(31,162,154,.12)}
+.thumb{
+  width:74px;height:74px;border-radius:11px;flex-shrink:0;object-fit:cover;
+  background:linear-gradient(135deg,var(--miku-soft),#fff);border:1px solid #E7F6F4;
+}
+.thumb.ph{display:flex;align-items:center;justify-content:center;font-size:26px;color:var(--miku);font-weight:900}
+.meta{flex:1;min-width:0}
+.meta .top{display:flex;align-items:center;gap:8px;margin-bottom:5px}
+.badge{font-size:10.5px;font-weight:800;letter-spacing:.5px;border-radius:6px;padding:3px 8px;color:#fff}
+.badge.jp{background:#E8556D}.badge.cn{background:#E0A23C}
+.badge.kr{background:#4D7DD6}.badge.global{background:var(--miku-deep)}
+.cat-tag{font-size:10.5px;font-weight:800;border-radius:6px;padding:3px 8px;background:#FDEEF4;color:#D14B7F}
+.meta .date{font-family:Consolas,monospace;font-size:11.5px;color:var(--ink-soft)}
+.meta .ti{font-size:14.5px;font-weight:700;line-height:1.5;display:block}
+.meta .src{font-size:11px;color:var(--ink-soft);margin-top:4px}
+#empty{display:none;text-align:center;padding:60px 0;color:var(--ink-soft);font-size:14px;font-weight:600}
+footer{margin-top:46px;text-align:center;font-size:12px;color:var(--ink-soft);line-height:1.9}
+footer b{color:var(--miku-deep)}
+@media(max-width:640px){
+  .head-actions{margin-left:0;align-items:flex-start;width:100%}
+  #updMsg{text-align:left}
+  #q{width:100%;margin-left:0}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <img class="mascot" src="data:image/webp;base64,UklGRogKAABXRUJQVlA4IHwKAAAQMACdASq0AH4APm00lUekIyIhJ7Q6MIANiWUA1ijuE6Sn+W6IK9k+96VeMA94fmA83f0f/4D0gOo73lP+52B7+s8O/Jf7ilS3FfVbFzyWYBHsn/U722AT9B/s/YUesGlo0BP0n6Megv6x9hD9eet4V2gAWXzyhmIfHhGgtA3A4wIdgjny1yHa+xa9asXQYDNKCYYb0q364e68r7BCI2COoUNFdFmEApCqexUn+CvtwZYG3XxDTw8nOyqQR2Yvr0ChFairxi4ddgkQ0AsmvTs2IFRGubyCw0yAUbDswCM1vY3V7DxJeDveOoUCud+P2egrNyrEFbs2/Y6adAjhBC/n66ZknNLtqEIynsudC60vgIgnoT6hhlFmLPQr6+vaAbBOB6e0dw/GgaG0M8l1Nj9zovLENhUTShNHK8eJufjHHTMIVqtPuhQy5nNcWaEKdxhz6P1YV9dQV5U9CWBQeLiO+tgJuLA5buQG/6SO9PJIY3eldr21jdWIFboJ8Vz5LT8HH+xre6EOL+AA/vyoAEkTq3cAZNJdSdQXsH+R0VzM70bjXfk72bbPAFY9CXOvGHxD/nrRU7KoSG6xVplNs7txi/dRujD8CEeyb0Zg3iiq9ToL3J83rozQCTAGRYGTyNuVgKIRvS5Da1dTbtZuqdEm8oyxOT9+FNdaTd+pY7u8VguxFTVUREct0RmQSNzHaRfKpi9Q7U9tc2S/qpTuVe3zQaBNg5F5W78wxDGcSp1fBiTJLvUK7DlbGGPuqaH6XlWzgFdW+dpQ3hXxKSyQorxkyo0H8F0yWtXummaCaBVc9Tj2p+/Q+yyKGOP8CD9XvrIk/L/Jm2tzL93C4Fi22Bt+E3JAqVK7uvjMqRyZxcTublI3CbDKvyzzY1NyniupxbW1q6AEfo51kH4aun97vMYXmXmq7ItCheNeM0kfyR+32csUnmbUzTA1v/Gkt4fRxxmMOq6vQW/D1cOetPEwMfJ/b4n2VcMrR/+ynyj7eLyC8MlwYP6/0trxMJa7Qzo8vZT/cod5u7o7DpUqoQaTz83Kofp/6Npe/h5hFslDaVx6fhCONALP71dH2CkswRETdJcZKDNleoPsQC8IN+/OjPNIbBfgUsWYVZ93A6OChpZXRKFlb91at3NV4fLthpXrQvtUYxugw1JPIV6KNh9KoTp8IacF7eoi+Y+f0EfPVfglLe1p9TqHwrCVH7w/3zIKcdL4dE+C7RuAwT8FRy+/HjhIJpWK07A9/yPX5eDyWtIg2xB602XonYw0F5Z/si1TpcDyhthNKVQUDyZL/GQcr7ouAEz0LAVRX1tkm5Rpip5L2whASZ+N6t2b3i9uY/zBv0wl0GDmUttWEtZBP5plQBpSsqLN7rxa5k8M8GSQJCAtIBFYw20X5NJaMQpuPFmgXAKXrFu85d/bNF/a6FRWjlamKBnvqrXGU/+rRh5CHAR40QWNz4B3vqbnKy0K/C9+2pQ2Y8NU7L7hkSlCKMrHO17GBqj4Dr/VOfWaaJWmelD/P/Pe7KJSWGGR3aRhU7Gy7e/0S9cf8rbmJxLzhkEZwyDHVVRCeQlvvnwhcfZyfNFRND4RWal8zojrmTI8qb3VLkKyStuqogVcLOuOHu5VoMqKeddqvx/YXD2ZG62lUWWwrYGu/P3BBVT6x2+fcEMF9qFe62J5j/CXk2Mq9M3S53EHYoLg1vsgvPZ1fouzM/fEZOAokUav36Jlwl7xIpV83g6eXOJ3VmxUXTp7b30u8Anmo/Zh3bIPcZ3fErijbABLQuZiPIj7FJJzVGPsNKc11lL3kWYYtUojlElZ1T+kjqxx17jPZZahAjq4PAOkJHYgBZxvv7Mk18+25IXK+tIwWxV6boQ87iMZ39EEnXMGBeq4cLs0objLDQ86V1qrQ+CyRxzOQ4PvisgSMVHMOg7vJRUG4IOxiCtTdSTfbU83gzploS96IiuAYKuojW3wesHw4bv5YK5gaQkEeVoeIE29ira7rPMP4Nc6TiQpMJXOOGxSgty+MJHTaHu98yE926mSvycm6VeWYjJumHjufSYkfcWo6q+3Pycxk3xKAAjcs1CKjGOHtZdauxlcy/0/Un/0obrsCqCc5DqIPq703Nq1GKq3L2jyxCMH7JTokXq4aLV9SgCdzcViDbUaWkEXnu7404XHsJjw3dV4a3fMBGN/dJPeAbN/aUS+3ke+jXPkNkxn8GvHhAxDTxdKnQ68pKw85NPFT0n3Td06qjlrEkI9cRVaL0sKY36USaXs/bxb51HHj3L1ACAWxntKGIz9dvWVf0Bpmm1L+JL9dA+If1Jgr5lgd2q/FWcDuuCTl1EiVFmrhN9umtpOhRXPzMi/vJZZBpJdeB8AVTRXFsi+56+yKRRPkrE7YBU3Tv/fH0hfobI1RyV4qjBx4lww+219uWL1wTxWqCK5pX2Mw85evmXX7xXpKNwCwpR7iQM3s9TB8nZTzR2vJ8IUmUPvbi6zzRE8VCDWo3Ntko4uIk6zSH+dwd9hLSMq5kTKNoGNOBQA9kBYrmELPD2JgoucwufRl7jcIWvdBZuLRY8M+5Vm5atpT6ea7C1gmPLCilSVfyMzF/Vf5UwIZSTLVmq7mVketUP3tGcjwGM5ZePJ09riUPPPnuIzPBxfl31nfRBxWl+ehHm8iUCVR/D8l+cARp9LWftdJNPmhraQ+iUqroisk0hzfucQe7DJeAAaBTHVqwEHSynsWWsa5K2pXcQT3B0O2tOHuoNqUVzJS19WIPnnUO12XxEyTIDBK37o7DpeHo5KHarUvH7S5CscWFgMIzOVF/bN7K/zHlnrxdDFXa59Z77SJRw9+Oq36Q1OJL1W/NYiq8VktS7tdV36YnalHXFwRoxO/5lMGZmdKrwsCjdZ6Jyvf2Z7Hgv+tl/xxD93Xgwfq1V4VO9RR+llrRB7Qmg4kIc2h2fVh+V5Rf0Df+N4xgqcDGAD7zJ3jW5v3qU1++FVc7+osS7lOWwIhwzkosq7QzQMTunZAZ4o3rBIBSvIG2gx45iHSnPdYFvu80oKJGnGTgQuNfPEiJjTiyUUvbShalSNLPOc9NSwFfXdou5xwuDGYCd9QmHdERgiqelRrscf+GV7rAheFeMukCiBJFa72NaYOHdIRR8oQ486CzPLvWqP2x//B/vJV9nZ3/TOdFAJa4YewzXVeMqA5RuRfOW4QNfDNkSxbzcFxwtM+tcCMdAM/RzHZmEjVF2T1e/K+DZcTnugz/LP32ht5dPH23+vDc4X80M80j/a5P1zrRCHsx0i5IjRsd8/q5w//hr+1L1oH2YaH17qBUoLDtXuu/8PQFl+PMh+3uNGn+8J2yQSBT0qmx1E5lw8bl1ZPKdT1li6dTfLpF4aQixKt1fjCkFxqiKn8U+2c2wx2smcyr3yMxdhU9YOoQAZtJmN3yDi4bVdrN+7gEmeynRWlf0IlU+eJ8ax2ytdDD9YLXtdoX4wEx/d2Y1d09k4Sf4aageWQFYIrQZ77FnzvN3Un34vxjgyKSTVt6liJRrmWKCu92E6hxn2zUEb8hCNXhfLSvvZTeJFkAQjX2LmY1vwT8laNBC3fdRdDensvHwAAAAAAAAAAA==" alt="">
+  <div>
+    <h1>MIKU <b>GOODS</b> RADAR</h1>
+    <div class="sub">일본 · 중국 · 한국 · 글로벌 미쿠 굿즈/콜라보/피규어 소식 자동 수집</div>
+    <div class="updated"><span class="dot"></span>마지막 업데이트: <span id="upd">—</span></div>
+  </div>
+  <div class="head-actions">
+    <button id="updBtn">♪ 지금 업데이트</button>
+    <span id="updMsg"></span>
+    
+  </div>
+</header>
+
+<div id="sampleBanner">⚠ 지금 보이는 목록은 <b>샘플</b>이에요. GitHub Actions가 처음 실행되면 실제 최신 뉴스로 바뀝니다.</div>
+
+<div class="stores">
+  <div class="lab">타오바오 스토어 바로가기 <small>로그인 장벽으로 자동 수집 불가 → 미쿠 상품 원클릭 검색</small></div>
+  <div class="row">
+    <a class="store-btn moeyu" href="https://moeyu.world.tmall.com/search.htm?keyword=%E5%88%9D%E9%9F%B3" target="_blank" rel="noopener">🎀 MOEYU 旗舰店 — 初音 상품</a>
+    <a class="store-btn bili" href="https://bilibili.world.tmall.com/search.htm?keyword=%E5%88%9D%E9%9F%B3" target="_blank" rel="noopener">📺 bilibili 旗舰店 — 初音 상품</a>
+    <a class="store-btn tao" href="https://s.taobao.com/search?q=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%20%E5%91%A8%E8%BE%B9" target="_blank" rel="noopener">🛒 타오바오 통합검색 — 初音未来 周边</a>
+  </div>
+</div>
+
+<div class="controls">
+  <button class="chip reg on" data-r="all">전체</button>
+  <button class="chip reg" data-r="jp">🇯🇵 일본</button>
+  <button class="chip reg" data-r="cn">🇨🇳 중국</button>
+  <button class="chip reg" data-r="kr">🇰🇷 한국</button>
+  <button class="chip reg" data-r="global">🌏 글로벌</button>
+  <span class="sep"></span>
+  <button class="chip cat on" data-c="all">전체 종류</button>
+  <button class="chip cat" data-c="figure">🧸 피규어만</button>
+  <input id="q" type="search" placeholder="검색 (예: 카페, nendoroid)">
+</div>
+
+<div id="list"></div>
+<div id="empty">조건에 맞는 소식이 없어요 ♪</div>
+
+<footer>
+  6시간마다 Google News·팬 사이트 RSS에서 자동 수집 + 수동 업데이트 버튼 · <b>MIKU GOODS RADAR</b><br>
+  비공식 팬 프로젝트 · Hatsune Miku © Crypton Future Media, INC. piapro.net
+</footer>
+
+</div>
+<script>
+/* ---------- 안전한 저장소 (미지원 환경 대비) ---------- */
+const store={
+  get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},
+  set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}},
+  del:k=>{try{localStorage.removeItem(k)}catch(e){}}
+};
+
+const SAMPLE={
+  updated:"(샘플 데이터)",sample:true,
+  items:[
+    {title:"[샘플] 편의점 × 하츠네 미쿠 콜라보 캠페인 시작 — 한정 클리어파일 증정",link:"#",source:"샘플",region:"jp",category:"goods",thumb:null,date:"2026-06-10"},
+    {title:"[샘플] 初音未来 1/7 스케일 피규어 신작 예약 개시",link:"#",source:"샘플",region:"cn",category:"figure",thumb:null,date:"2026-06-09"},
+    {title:"[샘플] Snow Miku 2027 디자인 공모 결과 발표, 굿즈 라인업 공개",link:"#",source:"샘플",region:"global",category:"goods",thumb:null,date:"2026-06-08"},
+    {title:"[샘플] 하츠네 미쿠 팝업스토어 서울 개최 — 한정 굿즈 판매",link:"#",source:"샘플",region:"kr",category:"goods",thumb:null,date:"2026-06-07"},
+    {title:"[샘플] ねんどろいど 하츠네 미쿠 신작 예약 개시",link:"#",source:"샘플",region:"jp",category:"figure",thumb:null,date:"2026-06-06"}
+  ]
+};
+const REG={jp:"JP",cn:"CN",kr:"KR",global:"WW"};
+let DATA=null, region="all", cat="all", query="";
+
+function render(){
+  const list=document.getElementById('list');
+  const items=(DATA.items||[]).filter(it=>{
+    if(region!=='all'&&it.region!==region)return false;
+    if(cat!=='all'&&it.category!==cat)return false;
+    if(query&&!it.title.toLowerCase().includes(query))return false;
+    return true;
+  });
+  list.innerHTML=items.map(it=>`
+    <a class="item" href="${it.link}" target="_blank" rel="noopener">
+      ${it.thumb?`<img class="thumb" src="${it.thumb}" loading="lazy" onerror="this.outerHTML='<div class=\\'thumb ph\\'>♪</div>'">`:`<div class="thumb ph">♪</div>`}
+      <div class="meta">
+        <div class="top">
+          <span class="badge ${it.region}">${REG[it.region]||'WW'}</span>
+          ${it.category==='figure'?'<span class="cat-tag">피규어</span>':''}
+          <span class="date">${it.date}</span>
+        </div>
+        <span class="ti"></span>
+        <div class="src">${it.source}</div>
+      </div>
+    </a>`).join('');
+  list.querySelectorAll('.item').forEach((el,i)=>{el.querySelector('.ti').textContent=items[i].title;});
+  document.getElementById('empty').style.display=items.length?'none':'block';
+}
+
+async function load(){
+  try{
+    const res=await fetch('data.json?t='+Date.now());
+    if(!res.ok)throw 0;
+    DATA=await res.json();
+  }catch(e){DATA=SAMPLE;}
+  if(DATA.sample)document.getElementById('sampleBanner').style.display='block';
+  document.getElementById('upd').textContent=DATA.sample?DATA.updated:new Date(DATA.updated).toLocaleString('ko-KR');
+  render();
+}
+
+/* ---------- 지금 업데이트 버튼 (비밀번호 잠금) ---------- */
+const OWNER="qpqpqoks-dot", REPO="miku-goods-radar";
+const ENC={ct:"oCNTLIiSL2CZ78R6d402qOvCc5RYGEEWmYJgbLfP/Oj9KPQO5ES+6V8wuaxbIcqot5c3uPrAM0ko0exuSrhfM/U720HyryegjD9GgJGzr49LHyhiEbsS0nZJEFUuojyI/7UyvsZt9W+BR3hUpg==",salt:"DJA7OuveB0zz4MXLq5xLmQ==",iv:"dsetpS7ECdv/hYZL",iter:300000};
+const b64b=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+async function unlock(pw){
+  const enc=new TextEncoder();
+  const km=await crypto.subtle.importKey('raw',enc.encode(pw),'PBKDF2',false,['deriveKey']);
+  const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:b64b(ENC.salt),iterations:ENC.iter,hash:'SHA-256'},km,{name:'AES-GCM',length:256},false,['decrypt']);
+  const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:b64b(ENC.iv)},key,b64b(ENC.ct));
+  return new TextDecoder().decode(pt);
+}
+async function triggerUpdate(){
+  const btn=document.getElementById('updBtn'),msg=document.getElementById('updMsg');
+  const pw=prompt('업데이트 비밀번호를 입력해줘');
+  if(pw===null)return;
+  btn.disabled=true;msg.textContent='확인 중…';
+  let token;
+  try{token=await unlock(pw.trim());}
+  catch(e){msg.textContent='✗ 비밀번호가 달라요';btn.disabled=false;return;}
+  msg.textContent='업데이트 요청 중…';
+  try{
+    const res=await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/update.yml/dispatches`,{
+      method:'POST',
+      headers:{'Authorization':'Bearer '+token,'Accept':'application/vnd.github+json','Content-Type':'application/json'},
+      body:JSON.stringify({ref:'main'})
+    });
+    if(res.status===204){
+      msg.textContent='✓ 시작됨! 1~2분 후 자동 새로고침돼요';
+      setTimeout(()=>{load();msg.textContent='✓ 갱신 완료';btn.disabled=false;},100000);
+      return;
+    }
+    msg.textContent='✗ 실패 ('+res.status+') — 잠시 후 다시 시도';
+  }catch(e){msg.textContent='✗ 네트워크 오류';}
+  btn.disabled=false;
+}
+document.getElementById('updBtn').onclick=triggerUpdate;
+
+document.querySelectorAll('.chip.reg').forEach(c=>c.onclick=()=>{
+  document.querySelectorAll('.chip.reg').forEach(x=>x.classList.remove('on'));
+  c.classList.add('on');region=c.dataset.r;render();
+});
+document.querySelectorAll('.chip.cat').forEach(c=>c.onclick=()=>{
+  document.querySelectorAll('.chip.cat').forEach(x=>x.classList.remove('on'));
+  c.classList.add('on');cat=c.dataset.c;render();
+});
+document.getElementById('q').addEventListener('input',e=>{query=e.target.value.trim().toLowerCase();render();});
+load();
+</script>
+</body>
+</html>
