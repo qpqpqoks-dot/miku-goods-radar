@@ -185,15 +185,16 @@ def collect_gsc():
             t=r.text
             if p==1: dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"; DEBUG["gsc_body"]=t[:160]
             if r.status_code!=200: break
-            # 제품 카드: /en/products/숫자/제품명.html + img
-            for m in re.finditer(r'<a[^>]+href="(/en/product[s]?/\d+/[^"]+)"[^>]*>(.*?)</a>', t, re.S):
-                href, inner = m.group(1), m.group(2)
-                mt=re.search(r'(?:alt|title)="([^"]+)"', inner) or re.search(r'<h[35][^>]*>([^<]+)<', inner)
+            # 제품 링크 + 가까운 img 를 묶어서 추출 (마크업 변화에 관대하게)
+            for m in re.finditer(r'href="(/en/products?/\d+/[^"#]+\.html)"', t):
+                href=m.group(1)
+                if href in seen: continue
+                seg=t[m.start():m.start()+800]   # 링크 주변 블록
+                mt=re.search(r'(?:alt|title)="([^"]*[Mm]iku[^"]*)"', seg) or re.search(r'>([^<>]*[Mm]iku[^<>]{2,})<', seg)
                 title=html.unescape(mt.group(1)).strip() if mt else ""
                 if not is_miku(title) or len(title)<4: continue
-                if href in seen: continue
                 seen.add(href)
-                mi=re.search(r'src="(https?://[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"', inner)
+                mi=re.search(r'src="(https?://[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"', seg)
                 out.append(dict(title=title,title_ko=None,
                     link="https://www.goodsmile.info"+html.unescape(href),source="Good Smile",
                     region="global",category=detect_cat(title),type="shop",lang="en",
@@ -217,8 +218,9 @@ def collect_amiami():
             title=(it.get("gname") or "").strip()
             if not is_miku(title): continue
             code=it.get("gcode","")
-            img=it.get("main_image_url","")
-            if img and img.startswith("/"): img="https://img.amiami.com"+img
+            img=it.get("main_image_url") or it.get("thumb_url") or it.get("image_on") or ""
+            if img and img.startswith("//"): img="https:"+img
+            elif img and img.startswith("/"): img="https://img.amiami.com"+img
             elif img and not img.startswith("http"): img="https://img.amiami.com/"+img
             out.append(dict(title=title,title_ko=None,
                 link=f"https://www.amiami.com/eng/detail/?gcode={code}",source="AmiAmi",
@@ -240,9 +242,23 @@ def collect_shop():
         seen.add(k); uniq.append(it)
     return uniq[:MAX_SHOP]
 
+def load_prev_shop():
+    """직전 data.json에서 구매(shop) 항목 회수 — 공식몰이 막힌 회차 대비"""
+    try:
+        prev=json.load(open("data.json",encoding="utf-8"))
+        return [it for it in prev.get("items",[]) if it.get("type")=="shop"]
+    except Exception:
+        return []
+
 def main():
     news=collect_news()
     shop=collect_shop()
+    reused=False
+    if len(shop) < 3:                      # 거의 못 받았으면(차단 추정) 이전 결과 유지
+        prev=load_prev_shop()
+        if len(prev) > len(shop):
+            shop=prev; reused=True
+            print(f"[shop] blocked this run -> reusing {len(prev)} previous items")
     allitems=shop+news  # 구매처 먼저
     # 한국어 번역 (日/中 + 영어 쇼핑 항목도 한국어 병기)
     tcount=0
@@ -252,7 +268,7 @@ def main():
             if ko: it["title_ko"]=ko; tcount+=1
     json.dump(TR_CACHE, open(TR_CACHE_FILE,"w",encoding="utf-8"), ensure_ascii=False)
     out=dict(updated=datetime.now(timezone.utc).isoformat(timespec="seconds"),
-             count=len(allitems),news=len(news),shop=len(shop),sample=False,debug=DEBUG,items=allitems)
+             count=len(allitems),news=len(news),shop=len(shop),shop_reused=reused,sample=False,debug=DEBUG,items=allitems)
     json.dump(out, open("data.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"saved {len(allitems)} (news {len(news)} / shop {len(shop)}) | translated {tcount} | thumbs {sum(1 for i in allitems if i.get('thumb'))}")
 
