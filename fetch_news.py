@@ -18,6 +18,7 @@ import requests
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 S = requests.Session(); S.headers.update({"User-Agent": UA})
+DEBUG = {}
 
 # ============================================================ 번역
 TR_CACHE_FILE = "tr_cache.json"
@@ -164,34 +165,37 @@ def is_miku(text):
     return ("miku" in low) or ("初音" in text) or ("ミク" in text) or ("미쿠" in text)
 
 def collect_gsc():
-    out=[]
-    try:
-        r=S.get(SHOP_SOURCES[0]["url"],timeout=15); t=r.text
-        # 상품 카드 파싱 (느슨하게): 링크 + 이미지 + 제목
-        cards=re.findall(r'<a[^>]+href="(/en/products/[^"]+)"[^>]*>(.*?)</a>',t,re.S)
-        seen=set()
-        for href,inner in cards:
-            mt=re.search(r'(?:alt|title)="([^"]+)"',inner) or re.search(r'>([^<>]{6,})<',inner)
-            title=html.unescape(mt.group(1)).strip() if mt else ""
-            if not is_miku(title): continue
-            mi=re.search(r'src="(https?://[^"]+\.(?:jpg|png|webp)[^"]*)"',inner)
-            link="https://www.goodsmile.com"+href
-            if link in seen: continue
-            seen.add(link)
-            out.append(dict(title=title,title_ko=None,link=link,source="Good Smile",
-                region="global",category=detect_cat(title),type="shop",lang="en",
-                thumb=mi.group(1) if mi else None,
-                date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
-    except Exception as ex:
-        print("[gsc skip]",ex)
-    print(f"[shop Good Smile] {len(out)}")
+    """Good Smile US: Atom 피드에서 미쿠 상품 추출 (HTML 구조 비의존)"""
+    out=[]; dbg=""
+    feeds=["https://www.goodsmile.com/en/products.atom",
+           "https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku&format=atom"]
+    for url in feeds:
+        try:
+            r=S.get(url,timeout=15,headers={"Accept":"application/atom+xml,application/xml"})
+            dbg=f"http{r.status_code}/{len(r.content)}"
+            if r.status_code!=200: continue
+            f=feedparser.parse(r.content)
+            for e in f.entries:
+                title=(e.get("title") or "").strip()
+                if not is_miku(title): continue
+                link=e.get("link") or ""
+                th=thumb_feed(e)
+                out.append(dict(title=title,title_ko=None,link=link,source="Good Smile",
+                    region="global",category=detect_cat(title),type="shop",lang="en",
+                    thumb=th,date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
+            if out: break
+        except Exception as ex:
+            dbg=f"err:{ex}"
+    DEBUG["gsc"]=f"{dbg} -> {len(out)}"
+    print(f"[shop Good Smile] {len(out)} ({dbg})")
     return out
 
 def collect_amiami():
-    out=[]
+    out=[]; dbg=""
     try:
         r=S.get(SHOP_SOURCES[1]["url"],timeout=15,
-                headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/"})
+                headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/","Accept":"application/json"})
+        dbg=f"http{r.status_code}/{len(r.content)}"
         j=r.json()
         for it in j.get("items",[]):
             title=(it.get("gname") or "").strip()
@@ -205,8 +209,9 @@ def collect_amiami():
                 thumb=img or None,
                 date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
     except Exception as ex:
-        print("[amiami skip]",ex)
-    print(f"[shop AmiAmi] {len(out)}")
+        dbg=f"err:{ex}"
+    DEBUG["amiami"]=f"{dbg} -> {len(out)}"
+    print(f"[shop AmiAmi] {len(out)} ({dbg})")
     return out
 
 def collect_shop():
@@ -230,7 +235,7 @@ def main():
             if ko: it["title_ko"]=ko; tcount+=1
     json.dump(TR_CACHE, open(TR_CACHE_FILE,"w",encoding="utf-8"), ensure_ascii=False)
     out=dict(updated=datetime.now(timezone.utc).isoformat(timespec="seconds"),
-             count=len(allitems),news=len(news),shop=len(shop),sample=False,items=allitems)
+             count=len(allitems),news=len(news),shop=len(shop),sample=False,debug=DEBUG,items=allitems)
     json.dump(out, open("data.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"saved {len(allitems)} (news {len(news)} / shop {len(shop)}) | translated {tcount} | thumbs {sum(1 for i in allitems if i.get('thumb'))}")
 
