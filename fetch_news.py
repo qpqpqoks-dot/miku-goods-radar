@@ -114,11 +114,21 @@ def thumb_from_og(url):
     return None
 
 
+def get_feed(url):
+    """봇 차단 우회를 위해 브라우저 UA로 직접 받아서 파싱"""
+    try:
+        r = requests.get(url, timeout=15, headers={"User-Agent": UA.replace("MikuGoodsRadar/2.0", "Chrome/126.0 Safari/537.36")})
+        return feedparser.parse(r.content)
+    except Exception:
+        return feedparser.parse(url)
+
+
 def collect():
     items, seen = [], set()
     for src in SOURCES:
         try:
-            feed = feedparser.parse(src["url"])
+            feed = get_feed(src["url"])
+            print(f"[{src['name']}] {len(feed.entries)} entries")
         except Exception as e:
             print(f"[skip] {src['name']}: {e}")
             continue
