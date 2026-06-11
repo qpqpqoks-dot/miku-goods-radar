@@ -211,7 +211,7 @@ def collect_amiami():
     try:
         r=cget(AMIAMI_API,headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/"})
         dbg=f"http{r.status_code}/{len(r.content)}/curl{HAS_CURL}"
-        DEBUG["amiami_body"]=r.text[:200]
+        DEBUG["amiami_body"]=r.text[:600]
         j=r.json()
         for it in j.get("items",[]):
             title=(it.get("gname") or "").strip()
