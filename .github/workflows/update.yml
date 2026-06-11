@@ -21,7 +21,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install deps
-        run: pip install feedparser requests
+        run: pip install feedparser requests curl_cffi
 
       - name: Fetch news
         run: python fetch_news.py

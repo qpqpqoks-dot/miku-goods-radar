@@ -15,6 +15,21 @@ from urllib.parse import quote, urlparse
 
 import feedparser
 import requests
+try:
+    from curl_cffi import requests as creq   # 브라우저 TLS 지문 (Cloudflare/AmiAmi 우회)
+    HAS_CURL = True
+except Exception:
+    HAS_CURL = False
+
+def cget(url, **kw):
+    """curl_cffi 우선(브라우저 impersonate), 실패 시 일반 requests"""
+    kw.setdefault("timeout", 15)
+    if HAS_CURL:
+        try:
+            return creq.get(url, impersonate="chrome120", **kw)
+        except Exception:
+            pass
+    return S.get(url, **kw)
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 S = requests.Session(); S.headers.update({"User-Agent": UA})
@@ -88,7 +103,7 @@ SHOP_SOURCES = [
     dict(name="Good Smile", region="global", lang="en",
          url="https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku", kind="gsc"),
     dict(name="AmiAmi", region="jp", lang="en",
-         url="https://api.amiami.com/api/v1.0/items?pagecnt=1&pagemax=24&lang=eng&s_keywords=hatsune%20miku&s_st_list_preorder_available=1", kind="amiami"),
+         url="https://api.amiami.com/api/v1.0/items?pagecnt=1&pagemax=40&lang=eng&s_keywords=hatsune+miku", kind="amiami"),
 ]
 
 MAX_NEWS, MAX_SHOP, OG_LIMIT = 60, 40, 22
@@ -165,27 +180,31 @@ def is_miku(text):
     return ("miku" in low) or ("初音" in text) or ("ミク" in text) or ("미쿠" in text)
 
 def collect_gsc():
-    """Good Smile US: Atom 피드에서 미쿠 상품 추출 (HTML 구조 비의존)"""
+    """Good Smile US: 상품 검색 HTML에서 카드 추출 (curl_cffi로 Cloudflare 우회)"""
     out=[]; dbg=""
-    feeds=["https://www.goodsmile.com/en/products.atom",
-           "https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku&format=atom"]
-    for url in feeds:
-        try:
-            r=S.get(url,timeout=15,headers={"Accept":"application/atom+xml,application/xml"})
-            dbg=f"http{r.status_code}/{len(r.content)}"
-            if r.status_code!=200: continue
-            f=feedparser.parse(r.content)
-            for e in f.entries:
-                title=(e.get("title") or "").strip()
-                if not is_miku(title): continue
-                link=e.get("link") or ""
-                th=thumb_feed(e)
-                out.append(dict(title=title,title_ko=None,link=link,source="Good Smile",
-                    region="global",category=detect_cat(title),type="shop",lang="en",
-                    thumb=th,date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
-            if out: break
-        except Exception as ex:
-            dbg=f"err:{ex}"
+    try:
+        r=cget("https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku",
+               headers={"Accept":"text/html"})
+        t=r.text; dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"
+        # 상품 블록: hover 카드 a + 내부 img alt(제품명) + img src
+        blocks=re.split(r'<li[^>]*class="[^"]*hover[^"]*"', t)
+        seen=set()
+        for blk in blocks[1:]:
+            mh=re.search(r'href="(/en/products/\d+[^"]*)"', blk)
+            if not mh: continue
+            link="https://www.goodsmile.com"+html.unescape(mh.group(1))
+            mt=re.search(r'<img[^>]+alt="([^"]+)"', blk)
+            title=html.unescape(mt.group(1)).strip() if mt else ""
+            if not is_miku(title): continue
+            mi=re.search(r'<img[^>]+src="(https?://[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"', blk)
+            if link in seen: continue
+            seen.add(link)
+            out.append(dict(title=title,title_ko=None,link=link,source="Good Smile",
+                region="global",category=detect_cat(title),type="shop",lang="en",
+                thumb=mi.group(1) if mi else None,
+                date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
+    except Exception as ex:
+        dbg=f"err:{ex}"
     DEBUG["gsc"]=f"{dbg} -> {len(out)}"
     print(f"[shop Good Smile] {len(out)} ({dbg})")
     return out
@@ -193,9 +212,8 @@ def collect_gsc():
 def collect_amiami():
     out=[]; dbg=""
     try:
-        r=S.get(SHOP_SOURCES[1]["url"],timeout=15,
-                headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/","Accept":"application/json"})
-        dbg=f"http{r.status_code}/{len(r.content)}"
+        r=cget(SHOP_SOURCES[1]["url"],headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/"})
+        dbg=f"http{r.status_code}/{len(r.content)}/curl{HAS_CURL}"
         j=r.json()
         for it in j.get("items",[]):
             title=(it.get("gname") or "").strip()
@@ -203,6 +221,7 @@ def collect_amiami():
             code=it.get("gcode","")
             img=it.get("main_image_url","")
             if img and img.startswith("/"): img="https://img.amiami.com"+img
+            elif img and not img.startswith("http"): img="https://img.amiami.com/"+img
             out.append(dict(title=title,title_ko=None,
                 link=f"https://www.amiami.com/eng/detail/?gcode={code}",source="AmiAmi",
                 region="jp",category=detect_cat(title),type="shop",lang="en",
