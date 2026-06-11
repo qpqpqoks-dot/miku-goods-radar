@@ -177,40 +177,9 @@ def is_miku(text):
     return ("miku" in low) or ("初音" in text) or ("ミク" in text) or ("미쿠" in text)
 
 def collect_gsc():
-    """goodsmile.info 제품 검색에서 미쿠 상품 추출 → goodsmile.com 판매 페이지로 링크"""
-    out=[]; dbg=""; seen=set()
-    for p in (1,2):
-        try:
-            r=cget(GSI_SEARCH.format(p=p),headers={"Accept":"text/html"})
-            t=r.text
-            if p==1:
-                dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"
-                import re as _re
-                links=_re.findall(r'href="(/en/product[^"]*)"', t)[:8]
-                DEBUG["gsc_links"]=links
-                DEBUG["gsc_hasmiku"]=("Miku" in t)
-            if r.status_code!=200: break
-            # 제품 링크 + 가까운 img 를 묶어서 추출 (마크업 변화에 관대하게)
-            for m in re.finditer(r'href="(/en/products?/\d+/[^"#]+\.html)"', t):
-                href=m.group(1)
-                if href in seen: continue
-                seg=t[m.start():m.start()+800]   # 링크 주변 블록
-                mt=re.search(r'(?:alt|title)="([^"]*[Mm]iku[^"]*)"', seg) or re.search(r'>([^<>]*[Mm]iku[^<>]{2,})<', seg)
-                title=html.unescape(mt.group(1)).strip() if mt else ""
-                if not is_miku(title) or len(title)<4: continue
-                seen.add(href)
-                mi=re.search(r'src="(https?://[^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"', seg)
-                out.append(dict(title=title,title_ko=None,
-                    link="https://www.goodsmile.info"+html.unescape(href),source="Good Smile",
-                    region="global",category=detect_cat(title),type="shop",lang="en",
-                    thumb=mi.group(1) if mi else None,
-                    date=datetime.now(timezone.utc).strftime("%Y-%m-%d"),ts=int(time.time())))
-            if not out and p==1: break
-        except Exception as ex:
-            dbg=f"err:{ex}"; break
-    DEBUG["gsc"]=f"{dbg} -> {len(out)}"
-    print(f"[shop Good Smile] {len(out)} ({dbg})")
-    return out
+    """Good Smile은 봇 차단/JS 렌더링으로 직접 수집 불가 — 비활성(딥링크 버튼으로 대체)"""
+    DEBUG["gsc"]="disabled (JS-rendered)"
+    return []
 
 def collect_amiami():
     out=[]; dbg=""
@@ -239,7 +208,7 @@ def collect_amiami():
     return out
 
 def collect_shop():
-    items=collect_gsc()+collect_amiami()
+    items=collect_amiami()  # GSC 비활성
     seen=set(); uniq=[]
     for it in items:
         k=hashlib.md5(norm(it["title"])[:60].encode()).hexdigest()

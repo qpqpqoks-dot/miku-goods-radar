@@ -53,6 +53,8 @@ header .sub{margin-top:5px;font-size:13px;color:var(--ink-soft)}
 .store-btn.moeyu{background:#EAF7F6;color:var(--miku-deep);border-color:var(--miku-soft)}
 .store-btn.bili{background:#FDEEF4;color:#D14B7F;border-color:#F7CFDF}
 .store-btn.tao{background:#FFF3E8;color:#C66A1E;border-color:#F5D9BC}
+.store-btn.gsc{background:#E8F0FB;color:#3B6FC4;border-color:#CFE0F5}
+.store-btn.ami{background:#FFF0E0;color:#D67A1E;border-color:#F5DBBC}
 /* filters */
 .controls{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 16px;align-items:center}
 .chip{border:1.5px solid var(--miku-soft);background:#fff;color:var(--ink-soft);font-weight:700;font-size:13px;
@@ -129,12 +131,18 @@ footer b{color:var(--miku-deep)}
   <button class="tab" data-t="news">📰 소식<span class="n" id="nNews"></span></button>
 </div>
 
+<div id="shopNote" style="display:none;margin:10px 0 0;font-size:12.5px;color:var(--ink-soft);background:#F0FAF9;border:1.5px solid var(--miku-soft);border-radius:11px;padding:10px 14px">
+  💡 <b>바로 구매</b> 탭은 AmiAmi 예약 가능한 미쿠 피규어를 자동 수집해요. 위 <b>공식 쇼핑몰 바로가기</b> 버튼으로 Good Smile·타오바오 최신 상품도 바로 확인할 수 있어요.
+</div>
+
 <div class="stores">
-  <div class="lab">타오바오 스토어 <small>로그인 장벽으로 자동수집 불가 → 미쿠(初音) 상품 원클릭 검색</small></div>
+  <div class="lab">공식 쇼핑몰 바로가기 <small>실시간 미쿠(初音) 상품 검색 — 클릭하면 해당 몰에서 바로 구매</small></div>
   <div class="row">
+    <a class="store-btn gsc" href="https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku" target="_blank" rel="noopener">🟦 Good Smile</a>
+    <a class="store-btn ami" href="https://www.amiami.com/eng/search/list/?s_keywords=hatsune+miku" target="_blank" rel="noopener">🔶 AmiAmi</a>
     <a class="store-btn moeyu" href="https://moeyu.world.tmall.com/search.htm?keyword=%E5%88%9D%E9%9F%B3" target="_blank" rel="noopener">🎀 MOEYU 旗舰店</a>
     <a class="store-btn bili" href="https://bilibili.world.tmall.com/search.htm?keyword=%E5%88%9D%E9%9F%B3" target="_blank" rel="noopener">📺 bilibili 旗舰店</a>
-    <a class="store-btn tao" href="https://s.taobao.com/search?q=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%20%E5%91%A8%E8%BE%B9" target="_blank" rel="noopener">🛒 타오바오 통합검색</a>
+    <a class="store-btn tao" href="https://s.taobao.com/search?q=%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%20%E5%91%A8%E8%BE%B9" target="_blank" rel="noopener">🛒 타오바오</a>
   </div>
 </div>
 
@@ -239,7 +247,7 @@ async function triggerUpdate(){const btn=document.getElementById('updBtn'),msg=d
     msg.textContent='✗ 실패 ('+res.status+')';}catch(e){msg.textContent='✗ 네트워크 오류';}
   btn.disabled=false;}
 document.getElementById('updBtn').onclick=triggerUpdate;
-document.querySelectorAll('.tab').forEach(c=>c.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));c.classList.add('on');tab=c.dataset.t;render();});
+document.querySelectorAll('.tab').forEach(c=>c.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));c.classList.add('on');tab=c.dataset.t;document.getElementById('shopNote').style.display=(tab==='shop')?'block':'none';render();});
 document.querySelectorAll('.chip.reg').forEach(c=>c.onclick=()=>{document.querySelectorAll('.chip.reg').forEach(x=>x.classList.remove('on'));c.classList.add('on');region=c.dataset.r;render();});
 document.querySelectorAll('.chip.cat').forEach(c=>c.onclick=()=>{document.querySelectorAll('.chip.cat').forEach(x=>x.classList.remove('on'));c.classList.add('on');cat=c.dataset.c;render();});
 document.getElementById('q').addEventListener('input',e=>{query=e.target.value.trim().toLowerCase();render();});
