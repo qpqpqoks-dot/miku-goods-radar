@@ -183,7 +183,12 @@ def collect_gsc():
         try:
             r=cget(GSI_SEARCH.format(p=p),headers={"Accept":"text/html"})
             t=r.text
-            if p==1: dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"; DEBUG["gsc_body"]=t[:160]
+            if p==1:
+                dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"
+                import re as _re
+                links=_re.findall(r'href="(/en/product[^"]*)"', t)[:8]
+                DEBUG["gsc_links"]=links
+                DEBUG["gsc_hasmiku"]=("Miku" in t)
             if r.status_code!=200: break
             # 제품 링크 + 가까운 img 를 묶어서 추출 (마크업 변화에 관대하게)
             for m in re.finditer(r'href="(/en/products?/\d+/[^"#]+\.html)"', t):
