@@ -1,11 +1,11 @@
 {
- "updated": "2026-06-11T15:47:54+00:00",
+ "updated": "2026-06-11T15:50:37+00:00",
  "count": 60,
  "news": 60,
  "shop": 0,
  "sample": false,
  "debug": {
-  "gsc": "http404/108950 -> 0",
+  "gsc": "http404/108749/curlTrue -> 0",
   "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
@@ -192,6 +192,19 @@
    "ts": 1780713497
   },
   {
+   "title": "初音未来交响乐手办化_新浪新闻 - 手机新浪网",
+   "title_ko": "하츠네 미쿠 심포니 피규어_시나 뉴스 - 시나 모바일",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01Tzd0RDNJTmFTVWlNeTA4TVVBQTRXblJGaW1GUlRESGNHSkFjbWhtMWJ0R0h0WHJCbEVLbTl6Uk10bERxNHpHMVQxRlIzazhoZ2VYbzRsQ1ZqaWNyQVNRa05GTQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "figure",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-06-06",
+   "ts": 1780709340
+  },
+  {
    "title": "「初音ミクシンフォニー」2025 札幌公演Ver.、10th Anniversary Ver. 初公開！大スケールの「初音ミク」フィギュアが多数展示の様子をフォトレポート【グッドスマイルフェス2026】 – Hobby JAPAN Web - Hobby JAPAN Web",
    "title_ko": "「하츠네 미쿠 심포니」2025 삿포로 공연 Ver., 10th Anniversary Ver. 첫 공개! 대규모의 「하츠네 미쿠」피규어가 다수 전시의 모습을 포토 리포트 【굿 스마일 페스티벌 2026】 – Hobby JAPAN Web - Hobby JAPAN Web",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5VUstV1F0c2dUSDNVQWNsLU1sRXdoQlZNenI4dF9zdUdLbVUzUThGaDlZVDJ0UFlweVh6Yllnek5memM4eFR3LQ?oc=5",
@@ -218,8 +231,8 @@
    "ts": 1780707776
   },
   {
-   "title": "「初音ミク」フィギュアが多数登場！ 「レーシングミク」やブロンズ鋳造作品の展示も【#グッドスマイルフェス】 - hobby.watch.impress.co.jp",
-   "title_ko": "「하츠네 미쿠」피규어가 다수 등장! 「레이싱 미쿠」나 브론즈 주조 작품의 전시도 【#굿 스마일 페스티벌】 - hobby.watch.impress.co.jp",
+   "title": "「初音ミク」フィギュアが多数登場！ 「レーシングミク」やブロンズ鋳造作品の展示も【#グッドスマイルフェス】 - hobby Watch",
+   "title_ko": "「하츠네 미쿠」피규어가 다수 등장! 「레이싱 미쿠」나 브론즈 주조 작품의 전시도 【#굿 스마일 페스티벌】 - hobby Watch",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tcGdIV0tJQWNDcG1DTE9RV3NGeXEwZmpYZEZGRGIxRU5JeDlpMmJpa1FXUld2RTl1Nk1CUThjV0l2R000Q2VwMlliLUROSGZPemg4MFhnQmhTTzFJS2lwX01mbi1obTg?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -333,6 +346,19 @@
    "thumb": null,
    "date": "2026-06-01",
    "ts": 1780297200
+  },
+  {
+   "title": "初音未来HMO粘土人开订_新浪新闻 - 手机新浪网",
+   "title_ko": "하츠네 미쿠 HMO 넨도로이드, 이제 사전 주문 가능_Sina News - Mobile Sina",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wWjVQTTJ4UndlaU8wU1ljaG9WMnJzMzEtaUFBUjNIZUFaZmt6SHJ1X3FQVHBzVnJMR1hTNDVPRlQyUm1oOGY0OEVLVWpuZDBpWGJ6U3lNbV83eFJheV9Db3BIYw?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "figure",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-05-30",
+   "ts": 1780124400
   },
   {
    "title": "하츠네 미쿠 \"Smile × Future Ver.\" 1/7 스케일 피규어 예약 판매 시작, SOLWA 콜라보레이션 피규어 재판매 결정 - haveagood-holiday.com",
@@ -517,14 +543,14 @@
    "ts": 1779087600
   },
   {
-   "title": "Good Smile Company Unveils Hatsune Miku: Smile x Future Ver. 1/7 Scale Figure! - 玩具人 TOY PEOPLE",
-   "title_ko": "Good Smile Company, 하츠네 미쿠: Smile x Future Ver. 공개 1/7 스케일 피규어! - 玩具人 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04aE81aUhEemQ0SU5Xb0ozaHAwaHpKM0ltVjNDM2VGeW55OEJQakswNElxU1VKLTJsWURQYkRzX3N3eW16U09UZEtOZ0Z3eDM4?oc=5",
-   "source": "Google News 英",
-   "region": "global",
+   "title": "初音未来手办预告_新浪新闻 - 手机新浪网",
+   "title_ko": "하츠네 미쿠 피규어 미리보기_시나 뉴스 - 시나 모바일",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50dS1vU0R4RHd3NDhqbVBWU2lZemFwRDNCdHQweTZ6QWdjUGpsZnpTZE5kVHh3cV9Ob2t4d3k3RWpBbVpwSE92R3lINGhPaHNQZnBLdmhKeUdoSHYxcnRsV0hIUQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
    "category": "figure",
    "type": "news",
-   "lang": "en",
+   "lang": "zh-CN",
    "thumb": null,
    "date": "2026-05-15",
    "ts": 1778828400
@@ -725,19 +751,6 @@
    "ts": 1777014000
   },
   {
-   "title": "Hatsune Miku x Richie's Cafe 联动插图 - 手机新浪网",
-   "title_ko": "하츠네 미쿠 x 리치의 카페 콜라보레이션 일러스트 - 시나 모바일",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ycG1nRE8xb1RjLVVmb3NPQTFtZWV5R2hLSDAtcXh2c2N5TGNmaXV3UkhNcTZHZjZfZmJETHczZnhqSHY2SWZoNTJpNGdyQW9XRWhaX0FIa2xaY2x6aXM0VWFlWQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-04-22",
-   "ts": 1776841200
-  },
-  {
    "title": "【イオン限定】「初音ミク」をはじめとした「ピアプロキャラクターズ」コラボ半袖Ｔシャツを４月２４日（金）発売 - PR TIMES",
    "title_ko": "【이온 한정】「하츠네 미쿠」를 비롯한 「피아프로 캐릭터즈」콜라보 반소매 T셔츠를 4월 24일(금) 발매 - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LMmQ0OXMzWGVuSC1GWE0yUjZ0a1A0VlNqS1dyRTlWWnJsN2xGZTV1LUZCT19ldVQ5c1Z2MTJKZXE2R3F5dy1YX0xuUUh0dl9hTTFTamhycWVlNnpFeTNYWUtiYWpreVZjcHc?oc=5",
@@ -775,19 +788,6 @@
    "thumb": null,
    "date": "2026-04-20",
    "ts": 1776668400
-  },
-  {
-   "title": "Hatsune Miku Makes History With All-New Mecha Makeover - IMDb",
-   "title_ko": "하츠네 미쿠가 완전히 새로운 메카 변신으로 역사를 만들다 - IMDb",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GOE8zLXZTX29Rc2o0NHFNa19NSk1LRENFNXBiOUZtSlN1aW4yZmpVTGR2YWNDMXRRQlZtSUcyVk9wRnB5a3BiMG1fYm9tQQ?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-04-19",
-   "ts": 1776584462
   }
  ]
 }
