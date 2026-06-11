@@ -154,6 +154,8 @@ def collect():
     for it in items:
         if it["thumb"] or fetched >= OG_FETCH_LIMIT:
             continue
+        if "google" in urlparse(it["link"]).netloc:
+            continue
         it["thumb"] = thumb_from_og(it["link"])
         fetched += 1
     return items
