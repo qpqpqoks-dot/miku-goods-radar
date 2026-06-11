@@ -186,6 +186,7 @@ def collect_gsc():
         r=cget("https://www.goodsmile.com/en/products?utf8=%E2%9C%93&query=Hatsune+Miku",
                headers={"Accept":"text/html"})
         t=r.text; dbg=f"http{r.status_code}/{len(t)}/curl{HAS_CURL}"
+        DEBUG["gsc_body"]=t[:200]
         # 상품 블록: hover 카드 a + 내부 img alt(제품명) + img src
         blocks=re.split(r'<li[^>]*class="[^"]*hover[^"]*"', t)
         seen=set()
@@ -214,6 +215,7 @@ def collect_amiami():
     try:
         r=cget(SHOP_SOURCES[1]["url"],headers={"X-User-Key":"amiami_dev","Referer":"https://www.amiami.com/"})
         dbg=f"http{r.status_code}/{len(r.content)}/curl{HAS_CURL}"
+        DEBUG["amiami_body"]=r.text[:200]
         j=r.json()
         for it in j.get("items",[]):
             title=(it.get("gname") or "").strip()
