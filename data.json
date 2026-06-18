@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-17T20:10:25+00:00",
+ "updated": "2026-06-18T03:40:37+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
@@ -38,7 +38,7 @@
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
-   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 컴플리트 피규어",
+   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-200916",
    "source": "AmiAmi",
    "region": "jp",
@@ -350,7 +350,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[한정 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -505,22 +505,35 @@
    "ts": 1781642888
   },
   {
-   "title": "「ひろはこ」2025バージョンの「桜ミク」が、ねんどろいどどーるで登場。あみあみにて予約受付中。 - ニコニコニュース",
-   "title_ko": "「히로하코」2025 버전의 「벚꽃 미쿠」가 넨 드로이드로 등장. 아미아미에서 예약 접수 중. - 니코 니코 뉴스",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15YV9uSlJuYVplZ1d5dElKOE5pLU03SWNubmdBS2ZFTGpVTlRWclZLWHBjVGVfNVhSZkJCNjdQZEdsemlERGtXQ21XaU5YQW9vc1E4MjlTUnB5Uy1qZndWckRNeFYwUDFC?oc=5",
+   "title": "「星河一天」をテーマとした「マジカルミライ 2025」のメインビジュアル衣装で初音ミクがねんどろいど化！人気の2016Ver.のねんどろいども再登場!! - 電撃ホビーウェブ",
+   "title_ko": "「성하 일천」을 테마로 한 「마법의 미라이 2025」의 메인 비주얼 의상으로 하츠네 미쿠가 넨 드로이드화! 인기 2016Ver.의 넨 드로이드 재등장!! - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VcUxQYkYza3JpejNnUmMyVmZPYWRXa2pNbGZYR2lRcWZCck9TY3BUMkdwcnc3Z0dHR1I2andHSHA3cHptN29VYXcyYnZxdV9Z?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
    "type": "news",
    "lang": "ja",
    "thumb": null,
-   "date": "2026-06-17",
-   "ts": 1781717422
+   "date": "2026-06-18",
+   "ts": 1781751600
   },
   {
-   "title": "「ひろはこ」2025バージョンの「桜ミク」が、ねんどろいどどーるで登場。あみあみにて予約受付中。 - インサイド",
-   "title_ko": "「히로하코」2025 버전의 「벚꽃 미쿠」가 넨 드로이드로 등장. 아미아미에서 예약 접수 중. - 내부",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oekEtQUxkYzc3ejJ1MFBzcWlDOEhXaU45ZVZScGdrbHFmQzI2OWVpeDNYN3otSnQ3VEdTR2pMcFVIaG02eXdrOVp2WHh2djcteXdMVkx4X0tQRGViZkt2SWtDOVp2OVZOSmtlVWNFS0lQQQ?oc=5",
+   "title": "花火＆ドローンショーのメインビジュアルを元に浴衣姿の「初音ミク」を1/7スケールフィギュア化！クリア素材で表現された未来感と夏の風情が融合したビジュアルが儚くも美しい!! - 電撃ホビーウェブ",
+   "title_ko": "불꽃 & 드론 쇼의 메인 비주얼을 바탕으로 유카타 차림의 「하츠네 미쿠」를 1/7 스케일 피규어화! 클리어 소재로 표현된 미래감과 여름의 풍치가 융합한 비주얼이 바보도 아름답다!! - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BMjd0eWhIZnFFalI5M2Nkdi16dVh2UTcwczVXQkVGazU3T1ZpbGFRWXo4S3hPM0RaeFBkTW81TXozT1prWWlnUGhVcnBGb2JD?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-06-18",
+   "ts": 1781751600
+  },
+  {
+   "title": "「ひろはこ」2025バージョンの「桜ミク」が、ねんどろいどどーるで登場。あみあみにて予約受付中。 - PR TIMES",
+   "title_ko": "「히로하코」2025 버전의 「벚꽃 미쿠」가 넨 드로이드로 등장. 아미아미에서 예약 접수 중. - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaWDhaSGJNSFZ1d1FiMGFvT2JHbFVWUlRxazNueWlWS3VTRE5GaEQtcDZITDYwXzFFTHVPWnc1VnRjWDhnak9wdFoxU2hqQ180UG4ybjdSLTdJMmxaVDRUY0NPanB4S2ZhSnc?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -528,7 +541,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-06-17",
-   "ts": 1781687400
+   "ts": 1781687401
   },
   {
    "title": "FuRyu Prize「初音ミク パークデート」フィギュアが登場！カジュアルな魅力で立体化！ - 玩具人 TOY PEOPLE",
@@ -570,17 +583,17 @@
    "ts": 1781677800
   },
   {
-   "title": "「パークデート」テーマのカジュアルな初音ミクがプライズフィギュア化！ 肩からちょこんと下げたもちぴこポシェットもキュートに再現！ - 電撃ホビーウェブ",
-   "title_ko": "「파크 데이트」테마의 캐주얼인 하츠네 미쿠가 프라이즈 피규어화! 어깨에서 조금 낮춘 떡 피코 포셰트도 귀여운 재현! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JdHBnNjVZZndaN1l2S3dEa1VuVk5QN3Rod3lEb2o3REQ0TEE3bVB6UVhmYmIzNW9XZkJuRlFQcjhjd1BZZHhudzZBaUZuRFhO?oc=5",
+   "title": "初音ミクがシュールで切ない絵本に！ たなかひかる最新作が6月26日発売、藤田咲の読み聞かせ音声特典も（リアルサウンド） - Yahoo!ニュース",
+   "title_ko": "하츠네 미쿠가 초현실적이지 않은 그림책에! 타나카 히카루 최신작이 6월 26일 발매, 후지타 사키의 읽어 들려 음성 특전도 (리얼 사운드) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmRyXzdwbmlKcVRYWHJhTHVrUEVpTTZvVkFMeUtlS0VXUVRzMk45N2lyOXU5OTZvcWhRdHhUeEJkQ083ZkRkX2xKNGc5U0VCVEhJWjY1Q0VWbTRSNjlwVEdRTnhOYWpSUVNrcHlZdTE2a2FMb0p0eVc3NG01WUp4QlF0cDdOdnpKZ08wWmdn?oc=5",
    "source": "Google News 日",
    "region": "jp",
-   "category": "figure",
+   "category": "goods",
    "type": "news",
    "lang": "ja",
    "thumb": null,
    "date": "2026-06-17",
-   "ts": 1781662500
+   "ts": 1781656202
   },
   {
    "title": "フィギュア ねんどろいど 週刊はじめての初音ミク 「週刊はじめての初音ミク」 管：EA [18] 60サイズ - cfecgc-orange.org",
@@ -619,20 +632,7 @@
    "lang": "ko",
    "thumb": null,
    "date": "2026-06-16",
-   "ts": 1781592838
-  },
-  {
-   "title": "『ペルソナ５: The Phantom X』に初音ミクが登場！ コラボOPアニメムービーも公開 - AppBank",
-   "title_ko": "『페르소나 5: The Phantom X』에 하츠네 미쿠가 등장! 콜라보레이션 OP 애니메이션 영화도 공개 - AppBank",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94LXFQRHRvTUJwenZ5NHVDR18tYTV2cGNoVTVNU1BNYlpjaWpfSzY1OXNsVXk5bGQ4NkdpcEQ3cFRCN1BQUTJTbUFvbWlNeE5lR0gyTFZqbVJmSXVDd2U4ZQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-06-16",
-   "ts": 1781569836
+   "ts": 1781593173
   },
   {
    "title": "Hatsune Miku is joining Persona 5 The Phantom X to celebrate its global first anniversary - GosuGamers",
@@ -778,19 +778,6 @@
    "ts": 1781456407
   },
   {
-   "title": "記念くじ 39(ミク)の日 タイトーくじ 2nd 初音ミク #初音ミク 速報!!#タイトーくじ 「タイトーくじ LH賞 B賞 A賞 39の日 A 新品 記念くじ」の第2弾が登場 フィギュア - cfecgc-orange.org",
-   "title_ko": "기념 복권 39(미쿠)의 날 타이토 복권 2nd 하츠네 미쿠 #하츠네 미쿠 속보!!#타이토 복권 \"타이토 복권 LH상 B상 A상 39일 A 신품 기념 복권\"제2탄",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NEhSRnJBVVotM2d4M2d5em9IY0F5UnZzVlZXc2FZYVJxRTlMazZBQ1Brd1o2c0VKNm8tRVAzZVJ3em1Ucm43c29GcXU3Z2FVeDVxZ3RFVUdiZ2ZCSFNIVHlqUldHaE8weloyeXVpenQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-06-14",
-   "ts": 1781432903
-  },
-  {
    "title": "Kotobukiya Unveils Takayuki Yanase-Designed \"FRAME ARTIST Hatsune Miku\" Model Kit, Arriving This October! - 玩具人 TOY PEOPLE",
    "title_ko": "Kotobukiya, 야나세 타카유키가 디자인한 \"프레임 아티스트 하츠네 미쿠\" 모델 키트 공개, 올해 10월 출시! - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ENVhkemktNVdGb1F6LUF4dUVaYkJaS0RCeTRneS1BRkt4MzNhN3ZMT2dDa2Q1M1ZaeHRwRzkzeE1qM3RNVlJhRktfV3JEaW8?oc=5",
@@ -895,19 +882,6 @@
    "ts": 1781248011
   },
   {
-   "title": "グッドスマイルカンパニー「ねんどろいど 初音ミク メズマライザーVer.」が2026年10月発売！可愛さと不気味さが同居するMVの姿を再現！ - 玩具人 TOY PEOPLE",
-   "title_ko": "굿 스마일 컴퍼니 「넨도로이드 하츠네 미쿠 메즈마라이자 Ver.」가 2026년 10월 발매! 귀여움과 으스스함이 동거하는 MV의 모습을 재현! - 장난감 사람 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NW9pX0VKUU1lakk3ZmNOX0RrT1dXZlZGOHN4dUI3Q0tFRVVyMVVJS3FfbnR4dmlkamlhMmt1bGp4Z2VENjZlMUF6dkpjNk5l?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-06-11",
-   "ts": 1781188093
-  },
-  {
    "title": "Good Smile Company Unveils Nendoroid Hatsune Miku Mezmarizer Ver. – The Hypnotic Fast Food Cutie! - 玩具人 TOY PEOPLE",
    "title_ko": "굿스마일컴퍼니, 넨도로이드 하츠네 미쿠 메즈마리저 Ver. 공개 – 최면에 걸린 패스트푸드 귀염둥이! - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sVk9na054LVExQjd6ci15TnNTcHhjcDM5YlBjcXZfSXBCZlRoYl8xMzBDdHpFVW5mOU5rbVRHUDdZUjF1RTdxNFFpVUF6a3V0?oc=5",
@@ -919,19 +893,6 @@
    "thumb": null,
    "date": "2026-06-11",
    "ts": 1781188093
-  },
-  {
-   "title": "Good Smile Company Unveils Nendoroid Kasane Teto Mesmerizer Ver., Recreating Iconic Dance Moves! - 玩具人 TOY PEOPLE",
-   "title_ko": "굿스마일컴퍼니, 상징적인 댄스 동작을 재현한 넨도로이드 카사네 테토 메스머라이저 버전 공개! - 玩具人 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05cnczdzZ3OGphSThyTU9mQ2tibVplQloyOW8tczBkZzN6X0NCSDlFN3JYZUhyTk9tWlNqYllueVZZTXVDMGx4TmhDTHpMSDFV?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-06-11",
-   "ts": 1781187309
   },
   {
    "title": "SEGA PRIZE Reveals Adorable Hatsune Miku x Cinnamoroll \"Fluffy Ver.\" Chokonose Figure! - 玩具人 TOY PEOPLE",
@@ -1051,9 +1012,9 @@
    "ts": 1780546944
   },
   {
-   "title": "Hatsune Miku Cinnamoroll XStellar Figure Wears Summer Marine Outfit - MSN",
-   "title_ko": "하츠네 미쿠 Cinnamoroll XStellar 피규어, 여름 해병 복장 착용 - MSN",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX28xdk5BVjZldUY3V1lld3NSaWtzR2I1eHQtMEtmQTQ1OUpMUzZmU2lsSURFR3RJUzk5QWR1akVmcEZTY3FSal9xY0NlYTg1aExjZ2pSV2ZsMmt6emctai1IbVNnQ2NZU0NYMk1ibGJySE5iQ0FHZkpLX0F0WVo5N0FvVG1ORVZ4bmEwRmwtb29Vemp0RFQxZHBLUjhqX2wxLTBXbkNhNGhiSVdSZkR1cGV3c1FXb1E0ajc1QzN1NFZKOHA1bjdoMG1n?oc=5",
+   "title": "Hatsune Miku Cinnamoroll XStellar Figure Wears Summer Marine Outfit - Siliconera",
+   "title_ko": "하츠네 미쿠 Cinnamoroll XStellar 피규어, 여름 마린 의상 착용 - Siliconra",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lhNUVKQlVoSVJtdlpOU1hoemZBalppTVYzOHJSVHg0Y0s5d0F3MmpFNFBJTjROdTlocXRnUnlNU1lmNHhMUDEwRVBpTk94MkdmaTlfLUplaEVCYmdRbWdFLXh1aE1YZ0ctRHJkNlh3VWxsUXU0T0M5ZjNtUXBrQkUtUW02ME9ZRlB3Vkl4ckdnMHFpRkZPTlo1bw?oc=5",
    "source": "Google News 英",
    "region": "global",
    "category": "figure",
@@ -1182,7 +1143,7 @@
   },
   {
    "title": "【POPUP】『初音ミク×スモールエス』ピアプロ公式コラボ イラスト・オンガクコンテスト - 蔦屋書店ポータル",
-   "title_ko": "【POPUP】『하츠네 미쿠×스몰 에스』피아프로 공식 콜라보레이션 일러스트・온각 콘테스트 - 츠바야 서점 포털",
+   "title_ko": "【POPUP】『하츠네 미쿠×스몰 에스』피아프로 공식 콜라보레이션 일러스트・온각 콘테스트",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92UVpEeWtLaE1yNkExeUxWWlhCd2hCTE5GbDY3X3d5V2tEMkNIWEJBUTJPVjlxU2RXRFo5MWhIcXVPdGZJNnNLcjcwWWthQnRPXzZoem1wQzh4Z0tuUEhtM0dDMkI1Z2FBTkhDTFoxWGdSYkl3OTNiMg?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1234,7 +1195,7 @@
   },
   {
    "title": "These official Hatsune Miku earbuds come with a leek case, but we can't have them - GamesRadar+",
-   "title_ko": "이 공식 하츠네 미쿠 이어버드는 리크 케이스와 함께 제공되지만 우리는 그것을 가질 수 없습니다 - GamesRadar+",
+   "title_ko": "이 공식 하츠네 미쿠 이어버드는 부추 케이스와 함께 제공되지만 우리는 그것을 가질 수 없습니다 - GamesRadar+",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYy1WbE9DNGs3ejZXNmpIZnpGTXpqeC0yeXZCQTJpREVxSEJJcUNnTS1MU21OYmhWNHBJRnM1bGtKV2pZejgtaUFEc3k2QkEzUmxXUVRxbU0wUS1VWmhOblNmaUs0SklZN09OOEZZM1Z4emVMOGdjVHVrTTFHYkxFZ0Y2UkZFSkViTkNsSVozRVFKUnZmOExzR3pncEY3OXc4Z0NueTZMZ1pyb1Q5OV90LXYzNHlVRWRma0VPdURUTnF5Zkg1VlNWRTY4aGV6VXowSFE?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1259,8 +1220,8 @@
    "ts": 1779260400
   },
   {
-   "title": "初音未来 & 水月雨联名耳机预售：专属定制外观 + 葱段造型保护套，239 元每套 - 17173",
-   "title_ko": "하츠네 미쿠 & 스이게츠 공동 브랜드 헤드폰 사전 판매: 독점 맞춤형 외관 + 양파 모양 보호 커버, 세트당 239위안 - 17173",
+   "title": "初音未来 & 水月雨联名耳机预售：专属定制外观 + 葱段造型保护套，239 元每套 - news.17173.com",
+   "title_ko": "하츠네 미쿠 & 스이게츠 공동 브랜드 헤드폰 사전 판매: 독점 맞춤형 외관 + 양파 모양 보호 커버, 세트당 239위안 - news.17173.com",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMEtVdUNPcWJ0QzhBcHQ4RkQ2NzUwV0Y0RHVYdFpKU3hCaG9qX1ZXTjUxNlpFTXRYZWlwMkFNeEtiMm9Pdm53UjdSRzJHWndDMW1Xb19hUFJTcWVjYUktOEpmT1A?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1283,6 +1244,45 @@
    "thumb": null,
    "date": "2026-05-15",
    "ts": 1778828400
+  },
+  {
+   "title": "初音未来手办开订_新浪新闻 - 新浪网",
+   "title_ko": "하츠네 미쿠 피규어는 예약 주문 가능합니다_Sina News - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oN3VSLWowZG1FWFhLbjdDWW9XbGxzNkR4dWw4aHVGdVBwcWpuNTdaWXBzZU11QWN6UldKdjFqNkY4RUI0aXVuWFZmTzBXLTQ0SWVzNHZaMGptcXJQYV94bV9pQQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "figure",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-05-12",
+   "ts": 1778569200
+  },
+  {
+   "title": "浴衣miku美如画！初音未来联动日本连锁温泉浴场 - news.17173.com",
+   "title_ko": "유카타 미쿠는 그림처럼 아름답습니다! 하츠네 미쿠가 일본 온천 체인과 협력합니다 - news.17173.com",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcC1BWXZkMG92ZUFmbGVqTG9HSjl5ZHc1elVEMzBqYVdBem1OVmhYNE1rcXZ2Zi1iTDljaGZEdXVjenhISzdlZk9GSml5UGZQUGEyUXFqOS1MSXdaeTBFNTRQTDM?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-05-10",
+   "ts": 1778396400
+  },
+  {
+   "title": "사쿠라 미쿠 × 히로사키 벚꽃 축제 및 하츠네 미쿠 × 히로사키 사과 신규 콜라보 굿즈, 카도스토에서 예약 판매 개시 - haveagood-holiday.com",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1EtSnYxTGxadTllSDhuT1duckhDS3YyVmMzcm50WEZWV2lvN2hvck9GQkx4bTBNQVFIenlTWXdHTlVQQzFMRENHQ093UEFtS0ZBQVNIZE9laV9wRVJXREQwbzdlelkxSzZBWjhwNXNzSmxCT0dscjY0NktrcElBMjRROVRiWjBTMFpEUTMzZjk5YUhWbkNWZFF1dkRpbU5IdDdtZ0hpUjU?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "goods",
+   "type": "news",
+   "lang": "ko",
+   "thumb": null,
+   "date": "2026-05-08",
+   "ts": 1778223600
   }
  ]
 }
