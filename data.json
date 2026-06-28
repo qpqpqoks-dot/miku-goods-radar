@@ -1,13 +1,13 @@
 {
- "updated": "2026-06-28T13:42:13+00:00",
+ "updated": "2026-06-28T19:15:14+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7026},\"items\":[{\"gcode\":\"FIGURE-203933\",\"gname\":\"Character Vocal Series 01 Hatsune Miku: Music \\u0026 Fire Works Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/262/FIGURE-203933.jpg\",\"thumb_alt\":\"FIGURE-203933.jpg\",\"thumb_title\":\"Character Vocal Series 01 Hatsune Miku: Music \\u0026 Fire Works Ver. 1/7 Complete Figure\",\"min_price\":27800,\"max_price\":27800,\"c_price_taxed\":27800,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_s",
-  "amiami": "http200/39558/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -531,8 +531,8 @@
    "ts": 1782642179
   },
   {
-   "title": "『ペルソナ５: The Phantom X』が配信1周年！ 初音ミクとのコラボイベントや豪華キャンペーンが開催中 - appbank.net",
-   "title_ko": "『페르소나 5: The Phantom X』가 전달 1주년! 하츠네 미쿠와의 콜라보 이벤트 및 호화 캠페인 개최 중 - appbank.net",
+   "title": "『ペルソナ５: The Phantom X』が配信1周年！ 初音ミクとのコラボイベントや豪華キャンペーンが開催中 - AppBank",
+   "title_ko": "『페르소나 5: The Phantom X』가 전달 1주년! 하츠네 미쿠와의 콜라보 이벤트 및 호화 캠페인 개최 중 - AppBank",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTFJPSVc0djVwQU8yUEZPbzlDRVk1RW1xcHVSUXRncGR3RkZvTFZ4NzFWbm1VZzBzdkJ4UjBUUFl6Y0NOT3RfanNEVk5Ha2RlZ0Jjd21ScmNaOEpkWW1QTQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -557,9 +557,9 @@
    "ts": 1782558551
   },
   {
-   "title": "【コスプレ】シナモロールコラボの初音ミクが可愛すぎ！渾身のウィッグにスレンダーな美スタイルはまるで電脳世界から飛びだしたよう【写真8枚】 1枚目の写真・画像 - インサイド",
-   "title_ko": "【코스프레】시나모롤 콜라보레이션의 하츠네 미쿠가 너무 귀엽다! 혼신의 가발에 날씬한 아름다움 스타일은 마치 전뇌 세계에서 뛰어 내린 것 [사진 8 장] 첫 번째 사진 · 이미지 - 내부",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GZGRaY0tnYU5PdkhuV1ZiVk1LWEpXNEh1MGVySXRWRzVqXzJPQXBSamFZRC1JOWtXN1A1V1lMRVdzUHpXX1VsSWJwX3pVRFR4LTJPZEJCZ0FHdDVnSWtlWWJfRVV6SHVfU0JaQUttM0tsOE5iUGZ4VERn?oc=5",
+   "title": "【コスプレ】シナモロールコラボの初音ミクが可愛すぎ！渾身のウィッグにスレンダーな美スタイルはまるで電脳世界から飛びだしたよう【写真8枚】 2枚目の写真・画像 - インサイド",
+   "title_ko": "【코스프레】시나모롤 콜라보레이션의 하츠네 미쿠가 너무 귀엽다! 혼신의 가발에 날씬한 아름다움 스타일은 마치 전뇌 세계에서 날아오른 것처럼 【사진 8장】 2번째 사진·사진 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtbFNiQ1lzMGtFQUpXYjlqenRWcm9UVjhZZ0RxMXVxQkVYWUotQjVCbl9xRGlTeGZ6dXF5NGUxaVZVTk5VeEY5MkxmVDY2Q0NvQ2pfV2tSdVRsZl9mVnMxTmMyb3R6QW9iZWJlQ1ZlQXpHRldmWlZB?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -672,19 +672,6 @@
    "thumb": null,
    "date": "2026-06-25",
    "ts": 1782378529
-  },
-  {
-   "title": "'페르소나5: 더 팬텀 X', 하츠네 미쿠 콜라보 '기적의 콘서트' 업데이트 - 네이트",
-   "title_ko": null,
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UZTB3d2p4RUltd2VBMzFXS3ZteFl3MTRnWHp6V3p3Nlh6cWNMaUZXVGM1RlRMVXlpRGpyeDFPM0U3WnhhbHJyVnhHQk1Mc2pYeXZB?oc=5",
-   "source": "Google News 韓",
-   "region": "kr",
-   "category": "goods",
-   "type": "news",
-   "lang": "ko",
-   "thumb": null,
-   "date": "2026-06-25",
-   "ts": 1782372420
   },
   {
    "title": "『ペルソナ５: The Phantom X』1周年記念 「初音ミク」＆キャラクター実装記念グッズが新登場！ 予約受付中！ - ペルソナチャンネル",
@@ -1103,8 +1090,21 @@
    "ts": 1781188093
   },
   {
-   "title": "「初音ミク」フィギュアが多数登場！ 「レーシングミク」やブロンズ鋳造作品の展示も【#グッドスマイルフェス】 - hobby Watch",
-   "title_ko": "「하츠네 미쿠」피규어가 다수 등장! 「레이싱 미쿠」나 청동 주조 작품의 전시도 【#굿 스마일 페스티벌】 - hobby Watch",
+   "title": "思わず息をのむ透明感……！フィギュア「初音ミクシンフォニー 2025 札幌公演Ver.」の彩色原型が初公開 - インサイド",
+   "title_ko": "무심코 숨을 쉬는 투명감… 피규어 「하츠네 미쿠 심포니 2025 삿포로 공연 Ver.」의 채색 원형이 첫 공개 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DUTFGazFsbG5GaFlRbnN3aFhfOWplaW4tbmduWGpwRGdDbTFhc3hLUW5TOVZkMURVakczYTh2c2pnYXZSQ2FWd3h1MlBic0xHdHBBbi02dzdXWjNzYTQweXYtc1BnMWp2MVE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-06-08",
+   "ts": 1780902000
+  },
+  {
+   "title": "「初音ミク」フィギュアが多数登場！ 「レーシングミク」やブロンズ鋳造作品の展示も【#グッドスマイルフェス】 - hobby.watch.impress.co.jp",
+   "title_ko": "「하츠네 미쿠」피규어가 다수 등장! 「레이싱 미쿠」나 브론즈 주조 작품의 전시도 【#굿 스마일 페스티벌】 - hobby.watch.impress.co.jp",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tcGdIV0tJQWNDcG1DTE9RV3NGeXEwZmpYZEZGRGIxRU5JeDlpMmJpa1FXUld2RTl1Nk1CUThjV0l2R000Q2VwMlliLUROSGZPemg4MFhnQmhTTzFJS2lwX01mbi1obTg?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1181,8 +1181,8 @@
    "ts": 1780556400
   },
   {
-   "title": "Hatsune Miku Cinnamoroll XStellar Figure Wears Summer Marine Outfit - Siliconera",
-   "title_ko": "하츠네 미쿠 Cinnamoroll XStellar 피규어, 여름 마린 의상 착용 - Siliconra",
+   "title": "Hatsune Miku Cinnamoroll XStellar Figure Wears Summer Marine Outfit - siliconera.com",
+   "title_ko": "하츠네 미쿠 시나모롤 XStellar 피규어가 여름 마린 의상을 입다 - Siliconra.com",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3lhNUVKQlVoSVJtdlpOU1hoemZBalppTVYzOHJSVHg0Y0s5d0F3MmpFNFBJTjROdTlocXRnUnlNU1lmNHhMUDEwRVBpTk94MkdmaTlfLUplaEVCYmdRbWdFLXh1aE1YZ0ctRHJkNlh3VWxsUXU0T0M5ZjNtUXBrQkUtUW02ME9ZRlB3Vkl4ckdnMHFpRkZPTlo1bw?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1220,8 +1220,8 @@
    "ts": 1780124400
   },
   {
-   "title": "Taito Brings Back the Hatsune Miku Desktop Cute Cat Girl Figure Again - Siliconera",
-   "title_ko": "Taito가 하츠네 미쿠 데스크탑 귀여운 고양이 소녀 피규어를 다시 가져왔습니다 - Siliconra",
+   "title": "Taito Brings Back the Hatsune Miku Desktop Cute Cat Girl Figure Again - siliconera.com",
+   "title_ko": "Taito가 하츠네 미쿠 데스크탑 귀여운 고양이 소녀 피규어를 다시 가져왔습니다.",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2YydGktOTZNS3lmbmh6UldNSGItRUo4TkZwRnd5TUZ1bmJaUkhsT05FQ0xCYWFPb1Y1YVpOb3hSRHEyVHJHN01JWTFzZHlubmRxbkpWSUt1M3EtWERlQl9VTTVhRFdpV1B0ZG1QdmxoaGdqTmZldF9fZ0VrOTlySnJSWW85VUtJeDhJTXZaV1FONDlKSGFTaW5aTFh1Zw?oc=5",
    "source": "Google News 英",
    "region": "global",
