@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-08T13:58:46+00:00",
+ "updated": "2026-07-08T19:21:13+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
  "shop_reused": false,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7030},\"items\":[{\"gcode\":\"FIGURE-204931\",\"gname\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-204931.jpg\",\"thumb_alt\":\"FIGURE-204931.jpg\",\"thumb_title\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"min_price\":30000,\"max_price\":30000,\"c_price_taxed\":30000,\"maker_name\":\"Good Smile Racing\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_ava",
-  "amiami": "http200/39469/curlTrue -> 40"
+  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7022},\"items\":[{\"gcode\":\"FIGURE-204931\",\"gname\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-204931.jpg\",\"thumb_alt\":\"FIGURE-204931.jpg\",\"thumb_title\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"min_price\":30000,\"max_price\":30000,\"c_price_taxed\":30000,\"maker_name\":\"Good Smile Racing\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_ava",
+  "amiami": "http200/39489/curlTrue -> 40"
  },
  "items": [
   {
@@ -21,7 +21,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/263/FIGURE-204931.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "G.S.Collection [SC] Hatsune Miku Symphony 2025: Sapporo Concert Ver. 1/7 Complete Figure",
@@ -34,7 +34,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/263/FIGURE-204929.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku MAGICAL*CURE! LOVE SHOT! Ver.",
@@ -47,7 +47,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/263/FIGURE-204991.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Character Vocal Series 01 Hatsune Miku: Music & Fire Works Ver. 1/7 Complete Figure",
@@ -60,7 +60,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-203933.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
@@ -73,20 +73,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-200916.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "Character Vocal Series 01 Hatsune Miku V4 CHINESE 1/3 Complete Figure",
-   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 V4 CHINESE 1/3 완전한 피규어",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-203419",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "figure",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-203419.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "BISHOUJO ReMIX Series Hatsune Miku 1/7 Complete Figure",
@@ -99,7 +86,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202951.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "Character Vocal Series 01 Hatsune Miku V4 CHINESE 1/3 Complete Figure",
+   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 V4 CHINESE 1/3 완전한 피규어",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-203419",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "figure",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-203419.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "Character Vocal Series 01 Hatsune Miku feat. Yoneyama Mai 1/7 Complete Figure",
@@ -112,7 +112,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/242/FIGURE-171858.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku: Mesmerizer Ver.",
@@ -125,7 +125,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-203473.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Character Vocal Series 01 Hatsune Miku: Smile x Future Ver. 1/7 Complete Figure",
@@ -138,7 +138,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202374.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "B-style Character Vocal Series 01 Hatsune Miku: Bunny Ver. / Art by SanMuYYB 1/4 Complete Model",
@@ -151,7 +151,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202775.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku V4X",
@@ -164,7 +164,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-204023.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Hatsune Miku A neostory of my world 4Pack BOX",
@@ -177,11 +177,11 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/GOODS-04785878.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "PLAMATEA Character Vocal Series 01 Hatsune Miku: Chuocho Tactical Craft Ver. Plastic Model",
-   "title_ko": "PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠: 중앙초 전술 공예 Ver. 플라스틱 모델",
+   "title_ko": "PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠: 주오초 택티컬 크래프트 Ver. 플라스틱 모델",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-192529",
    "source": "AmiAmi",
    "region": "jp",
@@ -190,7 +190,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/254/FIGURE-192529.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku 3.0 [Basic]",
@@ -203,7 +203,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-191015.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Hatsune Miku x Mai Yoneyama The Latest Street Style \"Cute\" Tokyo Figure Limited Edition 1/4 Complete Figure",
@@ -216,20 +216,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/241/FIGURE-165857.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "Character Vocal Series 01 Hatsune Miku with SOLWA 1/7 Complete Figure",
-   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 with SOLWA 1/7 완성 피규어",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-202664",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "figure",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202664.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Doll Character Vocal Series 01 Hatsune Miku Sakura Miku: Hirohako 2025 Ver. (Hirosaki)",
@@ -242,7 +229,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202768.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "Character Vocal Series 01 Hatsune Miku with SOLWA 1/7 Complete Figure",
+   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 with SOLWA 1/7 완성 피규어",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-202664",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "figure",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202664.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver.",
@@ -255,7 +255,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202456.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "[Bonus] Hatsune Miku GT Project 1/64 Good Smile Hatsune Miku AMG 2025 Presentation Ver.",
@@ -268,20 +268,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/TOY-SCL3-98337.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "Character Vocal Series 01 Hatsune Miku: Shooting Star a la Mode Ver. 1/7 Complete Figure",
-   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 슈팅스타 아라모드 Ver. 1/7 완전한 그림",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-187161",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "figure",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/252/FIGURE-187161.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "figma Hatsune Miku GT Project Racing Miku 2024 ver.",
@@ -294,33 +281,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/244/FIGURE-180340.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
-   "title": "Hatsune Miku X Amashiro Natsuki 1/7 Scale Figure",
-   "title_ko": "하츠네 미쿠 X 아마시로 나츠키 1/7 스케일 피규어",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-191979",
+   "title": "Character Vocal Series 01 Hatsune Miku: Shooting Star a la Mode Ver. 1/7 Complete Figure",
+   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠 슈팅스타 아라모드 Ver. 1/7 완전한 그림",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-187161",
    "source": "AmiAmi",
    "region": "jp",
    "category": "figure",
    "type": "shop",
    "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-191979.jpg",
+   "thumb": "https://img.amiami.com/images/product/main/252/FIGURE-187161.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "BD \"Pokemon feat. Hatsune Miku VOLTAGE Live!\" Blu-ray Special Package Edition",
-   "title_ko": "BD \"포켓몬 feat. 하츠네 미쿠 VOLTAGE Live!\" 블루레이 스페셜 패키지 에디션",
-   "link": "https://www.amiami.com/eng/detail/?gcode=MED-DVD2-60090",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "goods",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/261/MED-DVD2-60090.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Character Vocal Series 01 Hatsune Miku JAPAN LIVE TOUR 2025 -BLOOMING- 1/7 Complete Figure",
@@ -333,7 +307,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/254/FIGURE-192440.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "Hatsune Miku X Amashiro Natsuki 1/7 Scale Figure",
+   "title_ko": "하츠네 미쿠 X 아마시로 나츠키 1/7 스케일 피규어",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-191979",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "figure",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-191979.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "TENITOL Hatsune Miku GT Project Racing Miku 2024 Tropical Ver. Complete Figure",
@@ -346,7 +333,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/251/FIGURE-181223.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Hatsune Miku: Senbonzakura Ver.",
@@ -359,7 +346,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/261/FIGURE-196739.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "BD \"Pokemon feat. Hatsune Miku VOLTAGE Live!\" Blu-ray Special Package Edition",
+   "title_ko": "BD \"포켓몬 feat. 하츠네 미쿠 VOLTAGE Live!\" 블루레이 스페셜 패키지 에디션",
+   "link": "https://www.amiami.com/eng/detail/?gcode=MED-DVD2-60090",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "goods",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/261/MED-DVD2-60090.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "Snow Miku Sky Town 10th Anniversary Ver. 1/7 Complete Figure",
@@ -372,20 +372,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/244/FIGURE-180212.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "Character Vocal Series 01 Hatsune Miku: World Is Mine 2024 Ver. 1/7 Complete Figure",
-   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠: World Is Mine 2024 Ver. 1/7 완전한 그림",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-189315",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "figure",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-189315.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "[Exclusive Sale] Lucrea Mobile Suit Gundam 45th Anniversary x Hatsune Miku Hatsune Miku x Wing Gundam Zero EW",
@@ -398,7 +385,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-190230.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "Character Vocal Series 01 Hatsune Miku: World Is Mine 2024 Ver. 1/7 Complete Figure",
+   "title_ko": "캐릭터 보컬 시리즈 01 하츠네 미쿠: World Is Mine 2024 Ver. 1/7 완전한 그림",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-189315",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "figure",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-189315.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "[Bonus] Hatsune Miku GT Project 1/64 Good Smile Hatsune Miku AMG 2024 Season Opening Ver.",
@@ -411,7 +411,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/TOY-SCL3-98340.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku HMO Ver.",
@@ -424,7 +424,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/262/FIGURE-202990.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
@@ -437,7 +437,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/261/FIGURE-199799.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Nendoroid Character Vocal Series 01 Hatsune Miku 3.0",
@@ -450,7 +450,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-191014.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Hatsune Miku MAGICAL MIRAI 2025 Ver. 1/7 Complete Figure",
@@ -463,33 +463,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/253/FIGURE-190133.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
-   "title": "Hatsune Miku Light and Shadow Series Acrylic Stand Black ver.",
-   "title_ko": "하츠네 미쿠 라이트 앤 섀도우 시리즈 아크릴 스탠드 블랙 ver.",
-   "link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04827630",
-   "source": "AmiAmi",
-   "region": "jp",
-   "category": "goods",
-   "type": "shop",
-   "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/262/GOODS-04827630.jpg",
-   "date": "2026-07-08",
-   "ts": 1783519030
-  },
-  {
-   "title": "Nendoroid Character Vocal Series 01 Hatsune Miku: Deep Sea Girl Ver.",
-   "title_ko": "넨도로이드 캐릭터 보컬 시리즈 01 하츠네 미쿠 심해소녀 Ver.",
-   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-195503",
+   "title": "[F:NEX x POPPRO] Hatsune Miku 2023 Chinese New Year Ver. 1/7 Scale Figure",
+   "title_ko": "[F:NEX x POPPRO] 하츠네 미쿠 2023 구정 Ver. 1/7 스케일 피규어",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-150035",
    "source": "AmiAmi",
    "region": "jp",
    "category": "figure",
    "type": "shop",
    "lang": "en",
-   "thumb": "https://img.amiami.com/images/product/main/254/FIGURE-195503.jpg",
+   "thumb": "https://img.amiami.com/images/product/main/231/FIGURE-150035.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "Hatsune Miku x Cinnamoroll Chibi Figure",
@@ -502,7 +489,20 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/254/FIGURE-195483.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
+  },
+  {
+   "title": "Nendoroid Character Vocal Series 01 Hatsune Miku: Deep Sea Girl Ver.",
+   "title_ko": "넨도로이드 캐릭터 보컬 시리즈 01 하츠네 미쿠 심해소녀 Ver.",
+   "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-195503",
+   "source": "AmiAmi",
+   "region": "jp",
+   "category": "figure",
+   "type": "shop",
+   "lang": "en",
+   "thumb": "https://img.amiami.com/images/product/main/254/FIGURE-195503.jpg",
+   "date": "2026-07-08",
+   "ts": 1783538464
   },
   {
    "title": "Hatsune Miku GT Project 1/64 Good Smile Hatsune Miku AMG 2026 Presentation Ver.",
@@ -515,7 +515,7 @@
    "lang": "en",
    "thumb": "https://img.amiami.com/images/product/main/noimage_e.jpg",
    "date": "2026-07-08",
-   "ts": 1783519030
+   "ts": 1783538464
   },
   {
    "title": "最大6人で遊べるパーティACT「初音ミク スターリーパーティ」，2027年にPC / Switch2向けにリリース - 4Gamer.net",
@@ -558,7 +558,7 @@
   },
   {
    "title": "ファミマ限定「初音ミク ピアプロキャラクターズ×サンリオキャラクターズ」新作コラボグッズが2026年7月10日店頭発売、チョコミントテーマの『カラビナキーホルダー』と『アクリルスタンド』が登場 - コンビニ チェッカー",
-   "title_ko": "패미마 한정 「하츠네 미쿠 피어 프로 캐릭터즈×산리오 캐릭터즈」신작 콜라보 상품이 2026년 7월 10일 매장 발매, 초코민트 테마의 '카라비나 키홀더'와 '아크릴 스탠드'가 등장 - 편의점 체크",
+   "title_ko": "패미마 한정 「하츠네 미쿠 피어 프로 캐릭터즈×산리오 캐릭터즈」신작 콜라보레이션 상품이 2026년 7월 10일 매장 발매, 초코민트 테마의 「카라비나 키홀더」와 「아크릴 스탠드」가 등장 - 편의점 체크",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mTjZrcVJDUTl3cWJlSE9kM3MzdzJTYlRaeDZURE1RRmRaaFl0dlV5M191QjZKOXJNYjZ6cElybTFTWkZCay03TXhjamFSMmFGQ2xvWXQyWWZWVWdwV0hIc3kxVQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -584,7 +584,7 @@
   },
   {
    "title": "ねんどろいど新作に「初音ミク HMO Ver.」や「木之本桜 My First Sparkle」がラインナップ！ ゲーム『GUILTY GEAR -STRIVE-』より「ブリジット」がfigmaで登場【フィギュア最新情報】 – Hobby JAPAN Web - Hobby JAPAN Web",
-   "title_ko": "넨 드로이드 신작에 「하츠네 미쿠 HMO Ver.」나 「기노모토 벚꽃 My First Sparkle」이 라인업! 게임 \"GUILTY GEAR -STRIVE-\"에서 \"브리짓\"이 figma로 등장 【피겨 최신 정보】 – Hobby JAPAN Web - Hobby JAPAN Web",
+   "title_ko": "넨 드로이드 신작에 \"하츠네 미쿠 HMO Ver.\"나 \"기노모토 벚꽃 My First Sparkle\"가 라인업! 게임 「GUILTY GEAR -STRIVE-」보다 「브리짓」이 figma로 등장【피겨 최신 정보】 – Hobby JAPAN Web - Hobby JAPAN Web",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VNmxVbXVTaS1hYzFFRWtTeXlhU3lLQTY4Tzd2cTBiLUh3M3lZeFY4VnB0QllKV1JKYmtjRWx2SmpZMF92S1g4Qw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -610,7 +610,7 @@
   },
   {
    "title": "「初音ミク×招き猫(祭) ONLINE STORE 2026～真夏の熊谷コラボ～」に合わせて描かれたピアプロキャラクターズのコラボグッズが2026年7月7日（火）より受注販売開始！ - 電撃ホビーウェブ",
-   "title_ko": "「하츠네 미쿠 × 불어 고양이(축제) ONLINE STORE 2026~한여름의 쿠마가야 콜라보~」에 맞추어 그려진 피어프로 캐릭터즈의 콜라보레이션 상품이 2026년 7월 7일(화)부터 수주 판매 개시! - 전격 취미 웹",
+   "title_ko": "「하츠네 미쿠×마네코(축제) ONLINE STORE 2026~한여름의 구마가야 콜라보~」에 맞추어 그려진 피어프로 캐릭터즈의 콜라보레이션 상품이 2026년 7월 7일(화)부터 수주 판매 개시! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZWWRtbjU5aWxnMk1ReWFZaC11dkxHbmhUVE1uWHEzOWNhVk9qLUR0bGRNNWtFRTkxV3duSkFpVnBxTUt2aEJNRmdvWnluWU45?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -635,21 +635,8 @@
    "ts": 1783386000
   },
   {
-   "title": "日企TANITA推出初音未来联名血压计，首发语音指导功能 - 凤凰网",
-   "title_ko": "일본 회사 TANITA, 최초로 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - ifeng.com",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ueUVOb2I1LUtxMElMVEFBZ2Z0X2F4NDVjdU42VGxrTEh4RThPeXlhdTFjWlB3WVlacGtudWNKMDBxUzNmVzlpaQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-06",
-   "ts": 1783373423
-  },
-  {
    "title": "いちご大福をイメージした白無垢姿がキュート！ポップキュン氏が描く「お菓子」テーマの雪ミクがタイトーからプライズフィギュア化！ - 電撃ホビーウェブ",
-   "title_ko": "딸기 오후쿠를 이미지 한 흰 무구 모습이 귀여운! 팝쿤 씨가 그리는 \"과자\"테마의 눈 미쿠가 타이토에서 프라이즈 피규어화! - 전격 취미 웹",
+   "title_ko": "딸기 오후쿠를 이미지 한 흰 무구 모습이 귀여운! 팝쿤 씨가 그리는 「과자」테마의 눈 미쿠가 타이토로부터 프라이즈 피규어화! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pTGdZWDFjUkstQnMzNDhpUHZ6dGd4V2o5T0NaN2JueWtIVExDdHRYa2hMZWplUUJ1dWhlNWVrc2JaRUM3eTFVNFA5Tk9HNkts?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -687,8 +674,21 @@
    "ts": 1783320270
   },
   {
+   "title": "日企 TANITA（百利达）推出初音未来联名血压计，首发语音指导功能 - 新浪财经",
+   "title_ko": "일본 회사 TANITA, 최초의 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - Sina Finance",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10cFdOeXEwQkFCaFRWQUZteVpLeEFBR2Y4Um5sc1p1X1QyZ1BkWjRRYWczR1JYaFZzOUdJNWpaRWFMVEUwNzh1SjVibmhRaElRSEl3WHZEcXcyZ25kcDEya3JmZ1hWdnVNT3FTOUtPdXVTNS1nRWJXUFh5VTRzUlU?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-06",
+   "ts": 1783307640
+  },
+  {
    "title": "タニタ、「初音ミク」コラボの血圧計 音声で案内や応援も - 日本経済新聞",
-   "title_ko": "타니타, 「하츠네 미쿠」 콜라보레이션의 혈압계 음성으로 안내나 응원도",
+   "title_ko": "타니타, 「하츠네 미쿠」 콜라보레이션의 혈압계 음성으로 안내나 응원도 - 일본경제신문",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4V0J0UGZRblVweFc1ODAzQkZTbWNSSVgxTy1wclVHYnBQdUludFZCak1xc3ZreTBKaUV5UXlYOC1jMHkyN3c3R01pcFQ3Sm5BMElJWGdHekpmd05Yc0p4bmVBZEp0Y3J0cG95Ng?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -702,19 +702,19 @@
   {
    "title": "Hatsune Miku Starry Party Announced For Switch 2 - NintendoSoup",
    "title_ko": "Switch 2용 하츠네 미쿠 스타리 파티 발표 - NintendoSoup",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTV9OYl9uUElpZWxpWVV6eGdJbmdkYVN2R0VFZFRPRGdpejV1M2dZU3JwdmdwV1F5ZW1MWVJOajhFYTIzaFFRNS1FN1dCclpWQ2xiQ3ZJb1VDbU1SM0pCd2tRRXcxZ0RBWEtla3NSU0Yxb2xQUXhuYW91VVlSNFE5blB3TlnSAYQBQVVfeXFMTU1fTmJfblBJaWVsaVlVenhnSW5nZGFTdkdFRWRUT0RnaXo1dTNnWVNycHZncFdReWVtTFlSTmo4RWEyM2hRUTUtRTdXQnJaVkNsYkN2SW9VQ21NUjNKQndrUUV3MWdEQVhLZWtzUlNGMW9sUFF4bmFvdVVZUjRROW5Qd05Z?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lRVlnNnZ3cHdKaTFmUm1maV9LakhValVaZlRxSFlIOTV0d3lfdEtNUXpXaERKVmdGSEtjcmdsODVKZUhtOVd4VkxYcVhOM3pmeW9fMklpckFELUpNWDN3VzJfM21TQ1FzZWZTYmFXdG56eVRnRjNjRzltWVdGQjjSAYQBQVVfeXFMTU1fTmJfblBJaWVsaVlVenhnSW5nZGFTdkdFRWRUT0RnaXo1dTNnWVNycHZncFdReWVtTFlSTmo4RWEyM2hRUTUtRTdXQnJaVkNsYkN2SW9VQ21NUjNKQndrUUV3MWdEQVhLZWtzUlNGMW9sUFF4bmFvdVVZUjRROW5Qd05Z?oc=5",
    "source": "Google News 英",
    "region": "global",
    "category": "goods",
    "type": "news",
    "lang": "en",
    "thumb": null,
-   "date": "2026-07-05",
-   "ts": 1783276476
+   "date": "2026-07-06",
+   "ts": 1783305276
   },
   {
    "title": "「初音ミク」新作パーティゲーム『初音ミク スターリーパーティ』発表！最大6人プレイ対応、Switch 2、Steam向けに2027年発売へ - 電ファミニコゲーマー",
-   "title_ko": "「하츠네 미쿠」신작 파티 게임 「하츠네 미쿠 스타리 파티」발표! 최대 6명 플레이 대응, Switch 2, Steam용으로 2027년 발매 - 덴파미니코게이머",
+   "title_ko": "「하츠네 미쿠」신작 파티 게임 「하츠네 미쿠 스타리 파티」발표! 최대 6명 플레이 대응, Switch 2, Steam용으로 2027년 발매에 - 덴파미니코게이머",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zNGhheEJqTHFyV2xkNURiWGxwSE1YRUI3eHU3a1VUNms0ZDZpSjhoekdJR0ZtSXFsSVA1ekpsR3hWRDF0cTJTMEhnY2VRQ04yWTFJZXdhaWQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -883,7 +883,7 @@
   },
   {
    "title": "星街すいせい×初音ミクが「青のすみか」を熱唱 新CM放送決定「ミクちゃんとのデュエット、とっても嬉しいです！」（オリコン） - Yahoo!ニュース",
-   "title_ko": "호시가 스이세이×하츠네 미쿠가 「파랑의 스미카」를 열창 신CM 방송 결정 「미쿠 짱과의 듀엣, 매우 기쁩니다!」(오리콘) - Yahoo!뉴스",
+   "title_ko": "호시가 스이세이×하츠네 미쿠가 「파랑의 스미카」를 열창 신 CM 방송 결정 「미쿠 짱과의 듀엣, 매우 기쁩니다!」(오리콘) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tYk9XMXVfRjQ1YnRvaDRhTnJpaUctZkJSZUhoZFlMXzhJdk04OWJmQ1B4SnZTVVVjWWU3Q1lNNVpWX3Z0Y2pxMFU4RkM3Z2g5V2VyVG1VSVR0Mk4zbThzYWtZREdSUXRCUUJPaHNfTGZ0T3duZGgxcTdJek9VYUE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -919,19 +919,6 @@
    "thumb": null,
    "date": "2026-07-03",
    "ts": 1783067100
-  },
-  {
-   "title": "「初音ミク GTプロジェクト」よりレーシングミクが15周年イラスト“Rhapsody”をモチーフに1/7スケールフィギュア化！ - Yahoo!ニュース",
-   "title_ko": "「하츠네 미쿠 GT 프로젝트」에서 레이싱 미쿠가 15주년 일러스트 “Rhapsody”를 모티브로 1/7 스케일 피규어화! - Yahoo! 뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMTRmUmdFVWgwTno4VlBac3FVYzFHZjRMeDJOS1N4blZoVy1DOTFodDdVWS1zdFVfY1dVVTIxZTBCSU1BNEJ1dkNwbkFBUGk2VVd4VDcyTWJDOHFUVzV0OXl5dUN3d3NPbGV1Z0tTejI5UXgzcDVJTXgwWjkyXzg?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-03",
-   "ts": 1783065600
   },
   {
    "title": "「初音ミク」がグッスマ最高峰ラインでスケールフィギュア化！オーロラコート加工やパール塗装、クリアパーツを組み合わせて美麗ビジュアルを再現 - インサイド",
@@ -987,7 +974,7 @@
   },
   {
    "title": "Trails in the Sky Estelle and Modern Cafe Hatsune Miku Nendoroid Updates Shared - Siliconera",
-   "title_ko": "하늘의 길 에스텔과 모던 카페 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
+   "title_ko": "하늘의 흔적 Estelle과 Modern Cafe 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pjM2QyVWlSTkQtWGk1Mzh1VWktcTdQWTl5eXZ3QllNVnliT2VFbENKbHk1X1YyX0NkS3RCTlV5LTJ0Q29HTTI3c2ZBNFhFVGhnZ1ZSUS1lVi1pTWFGOHVkQlBra2prekdJQjlqaTljMUd5bTl6R2tFX01rdFhHWnBPQkYwMEotS1pEQWw1eWFTSWpiSVpZV3hQdGRqcDhGdFFGeXM1bmtKZDg?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1026,7 +1013,7 @@
   },
   {
    "title": "“「初音ミク」くじ”が2026年11月発売決定！学生制服姿のフィギュアを先行公開 - インサイド",
-   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피규어를 선행 공개 - 인사이드",
+   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피겨를 선행 공개 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2JsX3JscGpuY0U5VVkyUjhjV2VTclJ1N1pGV3ptQzZNaXV1alQ0TjRCdnM3djlidTJPZy1sUTlwR19SY1l4X2R5bmhyVHdUV2I2eng2Z3d5OEcwcnZwamdIemVuQ2hHSjFtUVRFcDJZaFp0WDJMMjU1blZON3V2Yg?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1075,19 +1062,6 @@
    "thumb": null,
    "date": "2026-07-01",
    "ts": 1782866741
-  },
-  {
-   "title": "“初音未来 YOZORA PROGRAM 2026 in 新潟”主视觉图、DJ活动及原创主题曲公开 - haveagood-holiday.com",
-   "title_ko": "\"하츠네 미쿠 YOZORA PROGRAM 2026 in Niigata\" 키 비주얼, DJ 이벤트, 오리지널 테마송 공개 - haveagood-holiday.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHZpbG52aFpkcmQwQmI3ZWdkMDAxX0huMmoybXotYlNEbDVSVHFVRG1lZ3VnS1FfVGV4NENlNEFrbUFuVHZ6ODB5dHRzSk4wb0Iyc0RJTWp6d0M5emNYaWJQWVVUOVpBVUl1Ty1UMXM4RGdNZkxRMlFOVU9YcnI1NkZKZzZhSnFfR29qOER0dnlXRDA?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-06-29",
-   "ts": 1782750363
   },
   {
    "title": "ホロライブ・星街すいせいと初音ミクがコラボ！？アイス「クーリッシュ＆爽」にCM起用を匂わせ（インサイド） - Yahoo!ニュース",
@@ -1233,8 +1207,21 @@
    "ts": 1782284400
   },
   {
+   "title": "为初音未来：缤纷舞台×DEEMO×Cytus系列绘制了联动贺图感谢项目组指导！～ ​ - 新浪网",
+   "title_ko": "프로젝트 팀의 지도에 감사하기 위해 하츠네 미쿠: Colourful Stage × DEEMO × Cytus 시리즈의 공동 축하 그림을 그렸습니다! ~ ​ - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bc1FNWmZCbUU4c1JucE5qT0RSVm93a01SbndDeTlkUkVkZjRWcjAxNTZqbWdfcUhVX0UwZVZxeHVuSGJSUXFCakVrakxJQlpzREZyd0F6dUFXLUlQbmJ1cnUzZw?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-06-22",
+   "ts": 1782111600
+  },
+  {
    "title": "初音未来x Good Smile Company 插画大赛大奖作品化身为1/7比例手办— amiami 现已开启预订 - haveagood-holiday.com",
-   "title_ko": "하츠네 미쿠 x 굿 스마일 컴퍼니 일러스트 콘테스트 대상이 1/7 스케일 피규어로 변신했습니다 - amiami를 지금 예약 주문하실 수 있습니다 - haveagood-holiday.com",
+   "title_ko": "하츠네 미쿠 x 굿 스마일 컴퍼니 일러스트 콘테스트 대상이 1/7 스케일 피규어로 변신했습니다. 이제 amiami를 예약 주문할 수 있습니다 - haveagood-holiday.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSl9VQ190UWdUcnBqckltRmdMUUd2SkNXa0RUQkxSdmVtUE9pdTA3aFhWUzBSZW9hN01xUTZneTdGaXN1R3dlcVhfNUVWbUI2dEVfTGhUNTViLWZvZGZ4UF8xeFZPbHVPaGNzdDFyUG5FT19TbFJEaHJ6aTRxQUxwRnRNLVNXb3dSa1BXZWVpMHlhaUtfcFAycm9kaWk4UFpINFE?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1293,6 +1280,19 @@
    "category": "figure",
    "type": "news",
    "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-06-18",
+   "ts": 1781766000
+  },
+  {
+   "title": "Persona 5: The Phantom X Hatsune Miku Trailers, Other Upcoming Characters Teased (China) - Persona Central",
+   "title_ko": "페르소나 5: 팬텀 X 하츠네 미쿠 예고편, 기타 향후 캐릭터 놀림(중국) - 페르소나 센트럴",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wb2NzVC1CbHNUeUJVa1c0U2V2OXJ2WFZRZHFPQmJZcW8zbFZfblRYajZLNXotdHNaMmRXSjcxWlBGYzJhaDVlQU1fYXVuVDg?oc=5",
+   "source": "Google News 英",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "en",
    "thumb": null,
    "date": "2026-06-18",
    "ts": 1781766000
