@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-10T02:44:34+00:00",
+ "updated": "2026-07-10T09:30:10+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7078},\"items\":[{\"gcode\":\"FIGURE-204931\",\"gname\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-204931.jpg\",\"thumb_alt\":\"FIGURE-204931.jpg\",\"thumb_title\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"min_price\":30000,\"max_price\":30000,\"c_price_taxed\":30000,\"maker_name\":\"Good Smile Racing\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_ava",
-  "amiami": "http200/39593/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -518,6 +518,32 @@
    "ts": 1783651428
   },
   {
+   "title": "学生服姿のカラフルなミクさんが可愛すぎる！KAITOやレンのぬーストも必見なフリューくじ「初音ミク ミクめくJKライフ」が公開 - インサイド",
+   "title_ko": "학생복 차림의 화려한 미쿠 씨가 너무 귀엽다! KAITO나 렌의 젖가슴도 필견하는 플류 복권 '하츠네 미쿠 미쿠 메쿠 JK라이프' 공개 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkbU1wSlA2TjBfRmt2aFBOZV9wVVk4OHBKaUxSRVdkNG9fZWhqby1YRUVjNkdZMlh4aVBVNlNuX3kya205TVE1bkx0ZGdYRXNBMEZKRGJIOWk0bFhvT1RsODkyTUJkeHZvUWc?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-10",
+   "ts": 1783673103
+  },
+  {
+   "title": "わたあめを持った学生制服姿の初音ミクが「ぬースト」からフィギュア化！「フリューくじ 初音ミク」ラストゲット賞が公開！ - 電撃ホビーウェブ",
+   "title_ko": "와타메를 가진 학생 교복 모습의 하츠네 미쿠가 「누스트」로부터 피규어화! 「후류 복권 하츠네 미쿠」라스트 겟 상이 공개! - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TclF4QTlRRmk2bVJzMzlzTkxmQWZZMDVYN3N0eV9CRWhUT2Q2U2xacS1SUnVlYlcxNUlwNVFsVFJQUV9jWEk2Q3ZxdzBGYXIy?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-10",
+   "ts": 1783673100
+  },
+  {
    "title": "Anime Chess Figures - Trend Hunter",
    "title_ko": "애니메이션 체스 피규어 - Trend Hunter",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wcWtlOWRQcmRYcVR6blNJMHdMMnhxMEVzd0V3VGVrSl9SZzVrVnlrWTBZejNHa3g1UWVYTFVfWWxrMHdTcFZ2dEdzLVdwSk9CMVQ2OHRNNHptTmNVeDU0T3ctdUstT21M0gFoQVVfeXFMTXBxa2U5ZFByZFhxVHpuU0kwd0wyeHEwRXN3RXdUZWtKX1JnNWtWeWtZMFl6M0dreDVRZVhMVV9ZbGswd1NwVnZ0R3MtV3BKT0IxVDY4dE00em1OY1V4NTRPdy11Sy1PbUw?oc=5",
@@ -542,19 +568,6 @@
    "thumb": null,
    "date": "2026-07-09",
    "ts": 1783630800
-  },
-  {
-   "title": "2 new Hatsune Miku designs officially revealed in new first look - MSN",
-   "title_ko": "2개의 새로운 하츠네 미쿠 디자인이 새로운 첫 모습으로 공식 공개되었습니다 - MSN",
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNLVhQU3AtSWk4VGFxQVhYM2lEUXBPdGFkeTB2QWl2UktuSmhuYl9zbzZSTzZzVThhQU95RDFpNm1mdl9nSmR5T1dxWXdvWDJwOEF2T2hSRjZzZ1pzaWJkcVpPdGJXRmRjeERNQlNxMklRN3FOMEdBVlFGLW9lTDVSR3pWWjF4V19SNWFPMmFwVWk1M3hvdWtHeUU3aFlnaWVIbmFRazE2XzFaUUplNTR3b1BSYzRFbkxkNGRKVmFEMGJscnlsdWZFS2x4czBZWjVnLXVJQmM3N3otVG5TX2NuNk8wTVd5SmhRVnNUMWlVcklncmw4Z284eU5yVktaUk55RnR4ZTJHUEFtYWpjYVBKQk8wbG9vMEJlR1lJRXJTUGZ2V2VwSENMbm42TlViamF0aElycDItMmpnRzh2RzlZRTZwUEl4dng2WE40U2dmdFQ?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-07-09",
-   "ts": 1783600952
   },
   {
    "title": "〈初音ミク「マジカルミライ 2026」〉COSPAグッズ情報公開！数量限定「フルグラフィックドライパーカー」、ステッカー付「つままれ」など新グッズがラインナップ！【株式会社コスパ】 - 千葉日報オンライン",
@@ -726,19 +739,6 @@
    "ts": 1783490358
   },
   {
-   "title": "「〈冬木小袖〉修理プロジェクト」初音ミクがねんどろいど化 - アニメイトタイムズ",
-   "title_ko": "\"<후유키 소매> 수리 프로젝트\"하츠네 미쿠가 넨 드로이드화 - 애니메이트 타임즈",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42ZnJSVFdOZmszZHp0TVBCSjRSTEhFcVRoSHlKREVkS1dfTHB1YVcwc2pWWnI1V0Fnek0yTEVPbGd1NGl2NThQeW1xY3NzTVFGMU4yMExQemFKYlFZeXlQbUtSVklEdmRYUFZJ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-07",
-   "ts": 1783431028
-  },
-  {
    "title": "ローソン限定「クーリッシュ×爽で夏が来た。星街すいせい×初音ミク キャンペーン」が2026年7月7日スタート、コラボ『B2タペストリー』や『マフラータオル』が当たる! 応募者には『オリジナルスマホ壁紙』プレゼント - コンビニ チェッカー",
    "title_ko": "로손 한정 「쿨리쉬 × 상쾌하고 여름이 왔다. 호시카이 수이세이×하츠네 미쿠 캠페인」이 2026년 7월 7일 스타트, 콜라보레이션 「B2 태피스트리」나 「머플러 타월」이 맞는다! 응모자에게는 「오리지날 스마트폰 벽지」선물 - 편의점 체크",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xSHR1MVFYYTVyN29iZkw1V2lRZm9WTUlhY1dJQjByRUJmYl9UeWtKR3JDbnViRTYwNW8zQnZPcG1zNjdBVmlldjhQaExINmh1eW5HUmlUX1lGZGxyVXdZbGY3aw?oc=5",
@@ -830,17 +830,17 @@
    "ts": 1783393200
   },
   {
-   "title": "【初音ミク】《ムチュートフィギュア》にミクの“ペイントガール Another color ver.”が登場！ くるみつ氏の描くポップでカラフルな造形に注目！ - 電撃オンライン",
-   "title_ko": "【하츠네 미쿠】《무튜토 피규어》에 미쿠의 “페인트 걸 Another color ver.”가 등장! 쿠루 미츠 씨가 그리는 팝으로 화려한 조형에 주목! - 전격 온라인",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FM2lyb3FybTQ0Z1lTN29JUHBPdnd6YTVONUd3dUVJR0stM2xNX3Rtby16ZDVIVER0Vm4zNjJ6c2I0XzZVUko1MG4zVEJlZUR2aEx4RTMxa3RlUQ?oc=5",
+   "title": "キュートなナース服のミク！SAWTOWNE氏による楽曲のMV内に登場する初音ミクがデフォルメフィギュア「ねんどろいど」化！Amazonで予約受付中 - 電撃ホビーウェブ",
+   "title_ko": "귀여운 간호사 옷의 미쿠! SAWTOWNE씨에 의한 악곡의 ​​MV내에 등장하는 하츠네 미쿠가 데포르메 피규어 「넨도로이드」화! 아마존에서 예약 접수 중 - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvenFkVGpqU0tSNFFxTVJTd1p3OGtXQldJbndKVlEtVlg3UVhPMFY2Tmxna0VjalRlVWM1c2RNaXF4SGR5cWRjT2ZTSEtHdHIt?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
    "type": "news",
    "lang": "ja",
    "thumb": null,
-   "date": "2026-07-07",
-   "ts": 1783386000
+   "date": "2026-07-06",
+   "ts": 1783341000
   },
   {
    "title": "いちご大福をイメージした白無垢姿がキュート！ポップキュン氏が描く「お菓子」テーマの雪ミクがタイトーからプライズフィギュア化！ - 電撃ホビーウェブ",
@@ -1259,6 +1259,19 @@
    "ts": 1782284400
   },
   {
+   "title": "「初音ミク×シナモロール SummerVer.」が7月24日より展開！涼やかな白のマリン服で可愛さMAX - インサイド",
+   "title_ko": "「하츠네 미쿠×시나모롤 SummerVer.」가 7월 24일부터 전개! 시원한 흰색 해양 옷으로 귀여움 MAX - 내부",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43MjFCcU5YdVBLT1lrejBZRm9Ic1dST1FZcF9mb1hiYkJuRzVlbGI2Q2NhR09HRWtnY05DN2dZeGpuYnFhU3JqOWYyQTUzWV9EUGl4T3kwOF8zVXpudEl3S0FILS05SW9DT0E?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-06-23",
+   "ts": 1782198000
+  },
+  {
    "title": "为初音未来：缤纷舞台×DEEMO×Cytus系列绘制了联动贺图感谢项目组指导！～ ​ - 新浪网",
    "title_ko": "프로젝트 팀의 지도에 감사하기 위해 하츠네 미쿠: Colourful Stage × DEEMO × Cytus 시리즈의 공동 축하 그림을 그렸습니다! ~ ​ - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bc1FNWmZCbUU4c1JucE5qT0RSVm93a01SbndDeTlkUkVkZjRWcjAxNTZqbWdfcUhVX0UwZVZxeHVuSGJSUXFCakVrakxJQlpzREZyd0F6dUFXLUlQbmJ1cnUzZw?oc=5",
@@ -1278,19 +1291,6 @@
    "source": "Google News 中",
    "region": "cn",
    "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-06-21",
-   "ts": 1782025200
-  },
-  {
-   "title": "初音未来“Magical Mirai 2026”COSPA周边情报公开——限定全印花排汗连帽衫、捏捏系列挂件及贴纸套装等 - haveagood-holiday.com",
-   "title_ko": "하츠네 미쿠 \"매지컬 미라이 2026\" COSPA 주변 정보 공개 - 한정 풀 프린트 땀 흡수 후드티, 핀치 시리즈 펜던트 및 스티커 세트 등 - haveagood-holiday.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlNaYUR1cGExZGtsLUdHM0xQLVc4VEpDYzBUWTZOZS1aeEpsdkFHZjF0UU9OUmgxblhPSDBhUXJMT0xYUGV0NmdXam4tcE9JdEF5ZldOMENadEhrZGF3b2RCNzZ3ODJ2cjY0N09tYjl5dmdIMEo3dWUtbHNNVGdmdjNYaEs5dkdSbEVhN0ZidzRNUWluYnNF?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
    "type": "news",
    "lang": "zh-CN",
    "thumb": null,
