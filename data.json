@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-13T02:30:37+00:00",
+ "updated": "2026-07-13T09:20:47+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7056},\"items\":[{\"gcode\":\"FIGURE-204991\",\"gname\":\"Nendoroid Character Vocal Series 01 Hatsune Miku MAGICAL*CURE! LOVE SHOT! Ver.\",\"thumb_url\":\"/images/product/main/263/FIGURE-204991.jpg\",\"thumb_alt\":\"FIGURE-204991.jpg\",\"thumb_title\":\"Nendoroid Character Vocal Series 01 Hatsune Miku MAGICAL*CURE! LOVE SHOT! Ver.\",\"min_price\":7200,\"max_price\":7200,\"c_price_taxed\":8000,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_ami",
-  "amiami": "http200/39705/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -518,6 +518,45 @@
    "ts": 1783909823
   },
   {
+   "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色 - 手机网易网",
+   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - NetEase Mobile",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51ajhZc3BaU0dWQ0VQdm15YUtLQmNCZHZueG9uSndsTHFuLXhzUDlyWFpnY25kRldMcmhIUDRwWHZpODMtTlpKdkVLbndkeXJuQ0QzR0lKRTZVQ21aZkhzNG5n?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-13",
+   "ts": 1783933451
+  },
+  {
+   "title": "rurudo氏が描き下したゲームを楽しむ初音ミクがプライズで登場！ 「初音ミク Holiday Memories-ゲーム-」7月22日より順次展開 - Yahoo!ニュース",
+   "title_ko": "rurudo씨가 그려낸 게임을 즐기는 하츠네 미쿠가 프라이즈로 등장! 「하츠네 미쿠 Holiday Memories-게임-」7월 22일부터 순차 전개 - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVmlSYmlaRXBVa2JLbHZCR0Nvem54ZjRaZFBRVjRpTzl4RmN0N0p2TWJxWWdYU3RQNlhnUUNxTFNUcE0zQ2d3QUVzV0NQaTZlRXAxRll0cmNLNFZkbXI1WHFIUmYxSXREMXBaTzhNYm8wTkppUUpMcXFWaXN2T1U?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-13",
+   "ts": 1783919580
+  },
+  {
+   "title": "葛飾北斎×初音ミク Rella - PR TIMES",
+   "title_ko": "카츠 시카 호쿠사이 × 하츠네 미쿠 Rella - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSFFVeklkbEVkT0tKcVlURFZoM293Z0M0bU9HRnZOYWVoS0ZMUU1WeGpENG9PSUlRQm9HZnJHaDJlNUx2enBnMkw5ck9UTm9KWnhXLUotRmhSOVBWc281cWZTbVNKSmtZTnc?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-13",
+   "ts": 1783911602
+  },
+  {
    "title": "浜松アクトで『初音ミク「マジカルミライ」』初開催へ 地元企業とコラボも - 浜松経済新聞",
    "title_ko": "하마마츠 액트로 하츠네 미쿠 '마법의 미라이' 첫 개최에 현지 기업과 협업도",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4ta3YwTzdHdzhLVU1nUEdDejZQbTc3NFhOWVo1R01CT01LUkJ1Z0llMGxrMmx0N2xGNzhEMzg2ZnNmZWxKcmltWWtVQzZGRkFJVDltN2hR?oc=5",
@@ -528,7 +567,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-07-13",
-   "ts": 1783905110
+   "ts": 1783905227
   },
   {
    "title": "初音ミク「マジカルミライ 2026」アイアップ新グッズが登場、ぬいぬいバッグなど - Koubo",
@@ -687,8 +726,8 @@
    "ts": 1783645616
   },
   {
-   "title": "Hatsune Miku Persona 5 Royal Figure Based on Project Sekai Colorful Stage Crossover - Siliconera",
-   "title_ko": "프로젝트 세카이 컬러풀 스테이지 크로스오버를 기반으로 한 하츠네 미쿠 페르소나 5 로얄 피규어 - Siliconra",
+   "title": "Hatsune Miku Persona 5 Royal Figure Based on Project Sekai Colorful Stage Crossover - siliconera.com",
+   "title_ko": "프로젝트 세카이 컬러풀 스테이지 크로스오버를 기반으로 한 하츠네 미쿠 페르소나 5 로얄 피규어 - Siliconra.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVpBQjhYbXJET0ZjWjBxdGpLczFkZ1RPS1piVFNUbDc1Mmg4aWwyUWh3X2oxM1dPM0lWcDFRdndTUmVJYmdnRVZIeGFuWmZxcjdlUlBEaEotUktwNi1oWDdVZHNuUmpKZnV5aEtQNks4ZWVOWmFycEliZ0RuV0Z0N3RmWkZlcGRaS2ZLYkxpT2VBaVJHWHNYWkpHVGkzZUs0NF9aR2VTQjAxcWxnR043cg?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -947,21 +986,8 @@
    "ts": 1783222520
   },
   {
-   "title": "フリューの新プライズフィギュアブランド「ムチュート」誕生！「初音ミク」「レーシングミク2025」「アルベド」「高坂桐乃」が続々登場!! - 電撃ホビーウェブ",
-   "title_ko": "플류의 신프라이즈 피규어 브랜드 「무츄토」탄생! 「하츠네 미쿠」 「레이싱 미쿠 2025」 「알베도」 「타카사카 키리노」가 잇달아 등장!! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83cC1TN1o1S0NYZEtWMnJVcUtmY1Y3YkFnN2RhclZ0SjBKNk85NktrSHEwMWJFUi1TTWZaVTFhbllmMXl4NGhEenk1TnA0bUww?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-05",
-   "ts": 1783215000
-  },
-  {
-   "title": "Flower Fairy Camellia Hatsune Miku Noodle Stopper Figure Is Striking - Siliconera",
-   "title_ko": "꽃의 요정 동백 하츠네 미쿠 누들 스토퍼 피규어가 인상적입니다 - Siliconra",
+   "title": "Flower Fairy Camellia Hatsune Miku Noodle Stopper Figure Is Striking - siliconera.com",
+   "title_ko": "꽃의 요정 동백 하츠네 미쿠 누들 스토퍼 피규어가 인상적입니다 - Siliconra.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVlCQ1EyYlpucnRxdk5lOFdLODhDQmNkd283YmFjSEtmbVp5UGd2NHlVRktYdTFpSXlTYWxGMWJOamh6ZzZESzBHQ3JNdU9KeFdmT2FTeDFONzBIUDZtcTE2OXhhSU5aRmhZb3N5aExqRnVJeDNOQlRYLU1XS1VjMjVSRTlKTmxyOWdYaGNqRTBHX3lMZXBsUkFEcU8?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -984,6 +1010,19 @@
    "thumb": null,
    "date": "2026-07-04",
    "ts": 1783163280
+  },
+  {
+   "title": "Tanita #初音未来# 联名款语音血压计 - 新浪网",
+   "title_ko": "타니타 # 하츠네 미쿠 # 공동 브랜드 음성 혈압계 - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQ0hiUjhNZGYzZExwMHZ3YUJHSzFxX3hsRk10YndBbEdmNW9SSG8yS2xFTzdldmJMSzNjTmVSekprdkRxMFhWUUdkTnVySzhqUy1jbmpJQ3QzallQUmlnQ2pNMA?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-03",
+   "ts": 1783062000
   },
   {
    "title": "Good Smile Company Unveils G.S. Collection [SC] Hatsune Miku Symphony 2025: Sapporo Concert Ver. 1/7 Scale Figure with Dazzling Ice Crystal Finish! - 玩具人 TOY PEOPLE",
@@ -1012,8 +1051,8 @@
    "ts": 1783042791
   },
   {
-   "title": "Trails in the Sky Estelle and Modern Cafe Hatsune Miku Nendoroid Updates Shared - Siliconera",
-   "title_ko": "하늘의 길 에스텔과 모던 카페 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
+   "title": "Trails in the Sky Estelle and Modern Cafe Hatsune Miku Nendoroid Updates Shared - siliconera.com",
+   "title_ko": "하늘의 길 에스텔과 모던한 카페 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pjM2QyVWlSTkQtWGk1Mzh1VWktcTdQWTl5eXZ3QllNVnliT2VFbENKbHk1X1YyX0NkS3RCTlV5LTJ0Q29HTTI3c2ZBNFhFVGhnZ1ZSUS1lVi1pTWFGOHVkQlBra2prekdJQjlqaTljMUd5bTl6R2tFX01rdFhHWnBPQkYwMEotS1pEQWw1eWFTSWpiSVpZV3hQdGRqcDhGdFFGeXM1bmtKZDg?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1088,19 +1127,6 @@
    "thumb": null,
    "date": "2026-07-01",
    "ts": 1782866741
-  },
-  {
-   "title": "新浪网· - 新浪网",
-   "title_ko": "Sina.com-Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tbGFGTUw2eGVvazhsTXZ1cmZESmg5R3E3SnowaERmX0lRSHdvWi1KVGxxekRfNnFfRnBZVmFiQmtSVXdkOG1kYjhQeEdsYWtCV3VUSmxlcTc0MTFITlBaTGZkOA?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-06-27",
-   "ts": 1782596055
   },
   {
    "title": "『ペルソナ５: The Phantom X』1周年！ 「初音ミク」コラボ＆「キャラクター人気投票」開催中！ - ペルソナチャンネル",
@@ -1270,32 +1296,6 @@
    "thumb": null,
    "date": "2026-06-24",
    "ts": 1782284400
-  },
-  {
-   "title": "为初音未来：缤纷舞台×DEEMO×Cytus系列绘制了联动贺图感谢项目组指导！～ ​ - 新浪网",
-   "title_ko": "프로젝트 팀의 지도에 감사하기 위해 하츠네 미쿠: Colourful Stage × DEEMO × Cytus 시리즈의 공동 축하 그림을 그렸습니다! ~ ​ - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bc1FNWmZCbUU4c1JucE5qT0RSVm93a01SbndDeTlkUkVkZjRWcjAxNTZqbWdfcUhVX0UwZVZxeHVuSGJSUXFCakVrakxJQlpzREZyd0F6dUFXLUlQbmJ1cnUzZw?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-06-22",
-   "ts": 1782111600
-  },
-  {
-   "title": "初音未来x Good Smile Company 插画大赛大奖作品化身为1/7比例手办— amiami 现已开启预订 - haveagood-holiday.com",
-   "title_ko": "하츠네 미쿠 x 굿 스마일 컴퍼니 일러스트 콘테스트 대상이 1/7 스케일 피규어로 변신했습니다 - amiami를 지금 예약 주문하실 수 있습니다 - haveagood-holiday.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSl9VQ190UWdUcnBqckltRmdMUUd2SkNXa0RUQkxSdmVtUE9pdTA3aFhWUzBSZW9hN01xUTZneTdGaXN1R3dlcVhfNUVWbUI2dEVfTGhUNTViLWZvZGZ4UF8xeFZPbHVPaGNzdDFyUG5FT19TbFJEaHJ6aTRxQUxwRnRNLVNXb3dSa1BXZWVpMHlhaUtfcFAycm9kaWk4UFpINFE?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-06-21",
-   "ts": 1782025200
   }
  ]
 }
