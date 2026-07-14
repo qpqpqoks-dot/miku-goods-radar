@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-14T13:28:49+00:00",
+ "updated": "2026-07-14T19:16:34+00:00",
  "count": 100,
  "news": 60,
  "shop": 40,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7035},\"items\":[{\"gcode\":\"GOODS-04836986\",\"gname\":\"Acrylic Stand Collection Hatsune Miku Chocomari 06 Megurine Luka\",\"thumb_url\":\"/images/product/main/263/GOODS-04836986.jpg\",\"thumb_alt\":\"GOODS-04836986.jpg\",\"thumb_title\":\"Acrylic Stand Collection Hatsune Miku Chocomari 06 Megurine Luka\",\"min_price\":1180,\"max_price\":1180,\"c_price_taxed\":1485,\"maker_name\":\"Bandai\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_amiami_limited\":0,\"instock_flg\":0,\"order",
-  "amiami": "http200/37912/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -544,9 +544,9 @@
    "ts": 1784030400
   },
   {
-   "title": "「アリガトウ！」メキシコ人ファンも店員さんも…W杯カメラマンが心打たれた“親日文化”メキシコと名物グルメ「初音ミクのカフェが」「みんな優しい」（Number Web） - Yahoo!ニュース",
+   "title": "「アリガトウ！」メキシコ人ファンも店員さんも…W杯カメラマンが心打たれた“親日文化”メキシコと名物グルメ「初音ミクのカフェが」「みんな優しい」 - Number Web",
    "title_ko": "\"아리가토!\"",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SalNhNGdaeldDWVM5QVIya0t6b0dBVWJFc25faDBma3Fzc0psdy1TVlMtRWRncGNEZkxNTGZCZWdmaDRnNW1tVWdtVS1ZLWVqOHhOaU9hQ01yY1VYUkg1NDE2MnZBc0E1LVFYTXRCWmhSMW56d0s1czlDdy15U1E?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZ1lmU3RaWjZqWmJVeE9jQlRzWnQ5UHI1Wnk2bDVOTVlKU0JGMnljZ2RBU2lpZmV1SmhBbjdDWFR4LTdzcVNJcHpSTlRlWWd1c2V1SU53?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -554,7 +554,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-07-14",
-   "ts": 1784024481
+   "ts": 1784023800
   },
   {
    "title": "クッピーラムネ×ミクのコラボ「ミクッピーラムネ」がフリュープライズに登場！カントリー調の衣装を着た「初音ミク」がフィギュア化！ - 電撃ホビーウェブ",
@@ -610,7 +610,7 @@
   },
   {
    "title": "ビアードパパで漆黒の「ゴジラシュー」発売、初音ミク×22カレーのコラボカフェ開催、吉野家×ドラクエウォークコラボキャンペーン実施など～ 最近の秋葉原 飲食店編 - AKIBA PC Hotline!",
-   "title_ko": "비아드 아빠로 칠흑의 「고질라슈」발매, 하츠네 미쿠×22 카레의 콜라보 카페 개최, 요시노가×드라퀘 워크 콜라보 캠페인 실시 등~ 최근의 아키하바라 음식점편 - AKIBA PC Hotline!",
+   "title_ko": "비아드 아빠에서 칠흑의 「고질라슈」발매, 하츠네 미쿠×22 카레의 콜라보 카페 개최, 요시노가×드라퀘 워크 콜라보 캠페인 실시 등~ 최근의 아키하바라 음식점편 - AKIBA PC Hotline!",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53Z0JGWmVzbHVMbUgySzh1bmFwd0ZCS3BKUkJzdmNSZXRuVFlSaVNwRDAzZVhSd3ZZNWkyRW9UN21vb0RycGxJZ1I0M0lqRm5KYXE1N1gzYmNLVk84VWVGeWtCMWV6YTJVTGphbExjdFlLQQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -727,7 +727,7 @@
   },
   {
    "title": "ミク、ルカ、MEIKOたちが浮世絵で描かれる♪ 初音ミク×葛飾北斎が再びコラボ！ 人気イラストレーター・Rella描き下ろしビジュアルの新グッズ登場 - アニメ！アニメ！",
-   "title_ko": "미쿠, 루카, MEIKO들이 우키요에 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터・Rella 신작 비주얼의 신상품 등장 - 애니메이션! 애니메이션!",
+   "title_ko": "미쿠, 루카, MEIKO들이 우키요에로 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터・Rella 신작 비주얼의 신상품 등장 - 애니메이션! 애니메이션!",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TSWFmay1GamZyWkZlVDlfNGFjRFRiNWlJVUphazdyOTQxR1FvY0dkaFBYRmNHXzJzWVhlNmdsME15eVVGR0xCWldhY2ZNNjc2Ri1XaVB0dTJCV0daN3JBaFlR?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -739,9 +739,9 @@
    "ts": 1783937702
   },
   {
-   "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色 - 手机网易网",
-   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - NetEase Mobile",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51ajhZc3BaU0dWQ0VQdm15YUtLQmNCZHZueG9uSndsTHFuLXhzUDlyWFpnY25kRldMcmhIUDRwWHZpODMtTlpKdkVLbndkeXJuQ0QzR0lKRTZVQ21aZkhzNG5n?oc=5",
+   "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色|发饰|机身|绿色|布局|标志性_手机新浪网 - 新浪网",
+   "title_ko": "CubyFun, 풍부한 톤을 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 | 헤어 액세서리 | 몸 | 녹색 | 레이아웃 | icon_Mobile 시나 - 시나",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQlVzRTdhMlBKeWVqTEhEOTkwcWloYVVkSmtTUGhDRWxnQ0I3bzA3VW4wVzFYQ013SVZuczFrZTUxSWFwX2dhajM4RkM0WVR4bmhzamZMWGwxTXVFNll0enhmbEVBMm1KSWNRRE13elVKUkJ2U0d2Ui1VWVNXRW9ob0Z6bkdHLXR2UjAwWGg1RHhXdG1CNFhmb21uYnFSQUNuWG1zOFFIaw?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "goods",
@@ -749,7 +749,7 @@
    "lang": "zh-CN",
    "thumb": null,
    "date": "2026-07-13",
-   "ts": 1783933451
+   "ts": 1783935765
   },
   {
    "title": "CubyFun推初音未来联名口袋音乐键盘 - DoNews",
@@ -776,19 +776,6 @@
    "thumb": null,
    "date": "2026-07-13",
    "ts": 1783932982
-  },
-  {
-   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - 新浪财经",
-   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - Sina Finance",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZkFYbm9ZaWVkblZxcmcxM09rcXRGNkIzYTF4YW5JbGxUUGowT1JuSWlDUGx6cHlBLW9XQzdqM1dnZk1LQU43d3FwbF8zclJfOE1KV0VQQ3B1ckFLREtNWExJM1FHaHN5REN3bEs1VXR2bFh4aFlhd2pEYUNhOXc?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783932960
   },
   {
    "title": "负责了葛饰北斋 × 初音未来联动第二弹的图！用北斋的画面元素做了一些公式服的和风arrange ​ - 新浪网",
@@ -844,7 +831,7 @@
   },
   {
    "title": "初音ミク仕様のストリートピアノが「マジカルミライ2026」に登場 ヤマハ「LovePiano」とコラボした特別モデル（オーヴォ） - Yahoo!ニュース",
-   "title_ko": "하츠네 미쿠 사양의 스트리트 피아노가 '마법의 미라이 2026'에 등장",
+   "title_ko": "하츠네 미쿠 사양의 스트리트 피아노가 「마법의 미라이 2026」에 등장 - 야마하",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GSjZLMjNPUjV1MEVaWndIczZOQzNLTmdRSmxwYmhVOGVHMmtMaHNOem1nSmJ3c2JOcUJCUExGODFrMVFDclZqSmhXYmtPQUtaZnJmWTM2MGR1X3c2SU14OHRJRmFvR3pHY2hlQ0pkSGlMcDNtSGxCZmI2YnB4ODQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -870,7 +857,7 @@
   },
   {
    "title": "浜松アクトで『初音ミク「マジカルミライ」』初開催へ 地元企業とコラボも (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
-   "title_ko": "하마마츠 액트에서 하츠네 미쿠 '마법의 미라이' 첫 개최에 현지 기업과 협업도",
+   "title_ko": "하마마츠 액트에서 하츠네 미쿠 '마법의 미라이' 첫 개최 현지 기업과 협업도",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnJHYXN1aEx0MlBWeC1MNEJuQmJRT3hSUWgtY2hoOUFYbFVmR0gtX1lwbGR4OHNlai1CdHNxZVAzX19vMl9VT0dPeGFkSFpKaVBRMnpXS25MMm1TWG0zX181Z3czZi1udW1ONW93S1NfUFdVQjhtVTdjX004N3ZqRnZiTWFHaEoxU21rb1Fn?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1065,7 +1052,7 @@
   },
   {
    "title": "日企TANITA推出初音未来联名血压计，首发语音指导功能 - 凤凰网",
-   "title_ko": "일본 회사 TANITA, 최초로 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - ifeng.com",
+   "title_ko": "일본 기업 타니타(TANITA), 최초로 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - ifeng.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ueUVOb2I1LUtxMElMVEFBZ2Z0X2F4NDVjdU42VGxrTEh4RThPeXlhdTFjWlB3WVlacGtudWNKMDBxUzNmVzlpaQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1103,19 +1090,6 @@
    "ts": 1783234800
   },
   {
-   "title": "Hatsune Miku Nendoroid Starry Party Game Announced for Switch 2, PC - Anime News Network",
-   "title_ko": "하츠네 미쿠 넨도로이드 스타리 파티 게임이 스위치 2, PC용으로 발표되었습니다 - 애니메이션 뉴스 네트워크",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFA3R2pwTmJDZTF2Z3BBUUhscURKQVlkSGxZRGFNUF93S19abWZHcy1MOGN6SWRPczdaOHhHRTE3SXdtYjNjdm83M0IxVTVZMHVqQ2k0dWQzdVNBck8zcFlJQ3V0d01GNlA3ZmRlcDYwd28taWVCVEJoYS1nc3RGODlleTZFR0dYRzFPN1ZqS1VzVk9UeV9mdHRBNk5JTnNiUzR0VGJNWXlYMmo3V2JyNkhjMkF3Wk5MOEFoZXVDR2s?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-07-05",
-   "ts": 1783222520
-  },
-  {
    "title": "Flower Fairy Camellia Hatsune Miku Noodle Stopper Figure Is Striking - Siliconera",
    "title_ko": "꽃의 요정 동백 하츠네 미쿠 누들 스토퍼 피규어가 인상적입니다 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVlCQ1EyYlpucnRxdk5lOFdLODhDQmNkd283YmFjSEtmbVp5UGd2NHlVRktYdTFpSXlTYWxGMWJOamh6ZzZESzBHQ3JNdU9KeFdmT2FTeDFONzBIUDZtcTE2OXhhSU5aRmhZb3N5aExqRnVJeDNOQlRYLU1XS1VjMjVSRTlKTmxyOWdYaGNqRTBHX3lMZXBsUkFEcU8?oc=5",
@@ -1143,13 +1117,26 @@
   },
   {
    "title": "Furyu推出全新景品手办品牌Muchute，首发包含初音未来等角色 - haveagood-holiday.com",
-   "title_ko": "Furyu, 하츠네 미쿠 등의 캐릭터를 포함한 새로운 피규어 브랜드 Muchute 출시 - haveagood-holiday.com",
+   "title_ko": "Furyu, 하츠네 미쿠 등 캐릭터가 포함된 새로운 피규어 브랜드 Muchute 출시 - haveagood-holiday.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlRsQmVZTHFQSE9SYVBab1BvTWVhVVZJUE5EYW5WZV92aU9Ybmo5cGcxUGNjQkpqOUtkMkxqdXc3Y2FBY09nSkFRRmRqUi1kMDExd0gtY3UyckdCVnUtNW1SbVZRdng4aXo4NE5idUw4OG94aXZrWEkzcWNuQVF4cmJ5a0VmaUdKZDU0OWZ0QXJYZw?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "figure",
    "type": "news",
    "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-04",
+   "ts": 1783148400
+  },
+  {
+   "title": "Hatsune Miku Nendoroid Starry Party Game Announced for Switch 2, PC - Anime News Network",
+   "title_ko": "하츠네 미쿠 넨도로이드 스타리 파티 게임이 스위치 2, PC용으로 발표되었습니다 - 애니메이션 뉴스 네트워크",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFA3R2pwTmJDZTF2Z3BBUUhscURKQVlkSGxZRGFNUF93S19abWZHcy1MOGN6SWRPczdaOHhHRTE3SXdtYjNjdm83M0IxVTVZMHVqQ2k0dWQzdVNBck8zcFlJQ3V0d01GNlA3ZmRlcDYwd28taWVCVEJoYS1nc3RGODlleTZFR0dYRzFPN1ZqS1VzVk9UeV9mdHRBNk5JTnNiUzR0VGJNWXlYMmo3V2JyNkhjMkF3Wk5MOEFoZXVDR2s?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "figure",
+   "type": "news",
+   "lang": "en",
    "thumb": null,
    "date": "2026-07-04",
    "ts": 1783148400
@@ -1208,7 +1195,7 @@
   },
   {
    "title": "“「初音ミク」くじ”が2026年11月発売決定！学生制服姿のフィギュアを先行公開 - インサイド",
-   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피규어를 선행 공개 - 인사이드",
+   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피겨를 선행 공개 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISGJBaWpfWm1XR0JmMVZXeGdjYXpCYTl1R1ZKSXlrRHJDdkIwVGhxLUVPdGxDb0t3cmFBMXdwNWM5MUJwc0xTQXVYR3JWWm8yTlNnSFRZcHNHbzQxTTN6RXRjaGk1TXl0aEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1234,7 +1221,7 @@
   },
   {
    "title": "Trails in the Sky Estelle and Modern Cafe Hatsune Miku Nendoroid Updates Shared - Siliconera",
-   "title_ko": "하늘의 흔적 Estelle과 Modern Cafe 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
+   "title_ko": "하늘의 길 에스텔과 모던 카페 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pjM2QyVWlSTkQtWGk1Mzh1VWktcTdQWTl5eXZ3QllNVnliT2VFbENKbHk1X1YyX0NkS3RCTlV5LTJ0Q29HTTI3c2ZBNFhFVGhnZ1ZSUS1lVi1pTWFGOHVkQlBra2prekdJQjlqaTljMUd5bTl6R2tFX01rdFhHWnBPQkYwMEotS1pEQWw1eWFTSWpiSVpZV3hQdGRqcDhGdFFGeXM1bmtKZDg?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1306,6 +1293,19 @@
    "category": "goods",
    "type": "news",
    "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-06-25",
+   "ts": 1782370800
+  },
+  {
+   "title": "‘페르소나5: 더 팬텀 X’, 하츠네 미쿠 콜라보 이벤트 돌입 - 경향게임스",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84d085WGFMeE54UDVMTjRhVXM0bGpjRW5CZXdLQlV3NVVhc212WHRDcGI1SVNPUXRDdkJYa3kwVGw0VGhVcnpES3djR1VHUXZsbmpxcnVaNVFjMk5tWl9tLUVnUmdPekZyQnRyWg?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "goods",
+   "type": "news",
+   "lang": "ko",
    "thumb": null,
    "date": "2026-06-25",
    "ts": 1782370800
