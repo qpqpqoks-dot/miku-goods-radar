@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-16T13:45:12+00:00",
+ "updated": "2026-07-16T19:05:57+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7155},\"items\":[{\"gcode\":\"FIGURE-205559\",\"gname\":\"Nendoroid Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.\",\"thumb_url\":\"/images/product/main/263/FIGURE-205559.jpg\",\"thumb_alt\":\"FIGURE-205559.jpg\",\"thumb_title\":\"Nendoroid Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.\",\"min_price\":8550,\"max_price\":8550,\"c_price_taxed\":9500,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_amiami_limite",
-  "amiami": "http200/39616/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -428,7 +428,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[한정 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -532,7 +532,7 @@
   },
   {
    "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 - インサイド",
-   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! '윙크'나 '잠자는 얼굴' 등 다양한 표정이 귀여운 총 5종류 - 인사이드",
+   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! 「윙크」나 「잠자는 얼굴」 등 다양한 표정이 귀여운 총 5종류 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeGNURnFRdFlSTjczMHlYaWx6bEZiMEFibmdzejV1RWktMTBpRktBY3Q0MFByMUoyUnlhOHVYck9ZVW95c1VwRHJ1MG9ZWW10SzN5VG13VEZYWmdrM2dwVFktd0tFVGUyZGc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -544,9 +544,9 @@
    "ts": 1784196004
   },
   {
-   "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 - Yahoo!ニュース",
-   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! 「윙크」나 「잠자는 얼굴」 등 다양한 표정이 귀여운 총 5종류 - Yahoo!",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FR1p6LTg0SGI1RFU0Sm9XRUs3T2FGX0NnbEZNczhzUXJtcF9uNjZjQUFHRVlLLUphQV9DQkFaM2lTMTZWc2FETFdWS2pDZ0RPWUlDdzhfd0NMX0FpTUI2T0NpQ2tJQ1duSjhmVTdKLWFoUmhaOW43ODFIY3VjQjQ?oc=5",
+   "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 - ｄメニューニュース",
+   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! '윙크'나 '잠자는 얼굴' 등 다양한 표정이 귀여운 총 5종류 - d 메뉴뉴스",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWk9qWVJ4c1ZBTEtWN21nSzVvbWRfenM1dTdhV0Z5cDdjWVBfZEZONFZ5N2dDMTdjcTNIaTdjTlVVUWtwLVQxU0dwRmZ1bkdNakVIZnlFV0ZzR3Jfb0NtenYwaFdlbGdkOHZFRWdoQUZEb2NrNXZLUnZpenNjb01uZDBmdlVZaVQtRjVLbUEtdnRWR2E4MUVNYzMxLUszUHpobXA2SllIRWF4dktScUFRSVp5TVAxZFF1QldqaTE4d05vdThBdVRESkVJcTM0QmFyb2hjUnZXTdIBhwFBVV95cUxQOXl0ektrclVRX0VBSkM5TnpHeHFzTEJzR1VadV9xQ1Jwa1RJSUQ2S2Y5aXIxYkIzTllSVVRES2pxbmdJTm91eXN6cW1iTzhyMmRZeTByeFpkZXB1WWNkQzBnMmY3SmhUdU1iWmEzQ2xycnYwNkRKLWMxUmI3Z29neWhEVkpUZlE?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -554,12 +554,12 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-07-16",
-   "ts": 1784196004
+   "ts": 1784196000
   },
   {
-   "title": "初音ミクがジョルダン「乗換案内アプリ」をジャック？ 『マジカルミライ 2026』とのコラボ企画が始動（リアルサウンド） - Yahoo!ニュース",
-   "title_ko": "하츠네 미쿠가 조르단 「환승 안내 앱」을 잭? '매지컬 미라이 2026'과의 콜라보레이션 기획 시작(리얼 사운드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UenlzQkNuVTBoclJveGNBOGJWWFItbHhuRFFXbHNFUjJ3Q0pHZ3oyREdaeU5Va0J0OW82Y3c3S19YYWhiZHVQTFNVckpjYVd6ekJBbVU5cnRrOXVOa2lQVDBwTHZ6STVTWTJ2ZnJORGprMzZwcGJ2eFZPT2hHaFk?oc=5",
+   "title": "初音ミクがジョルダン「乗換案内アプリ」をジャック？　『マジカルミライ 2026』とのコラボ企画が始動 - リアルサウンド",
+   "title_ko": "하츠네 미쿠가 조르단 「환승 안내 앱」을 잭? '매지컬 미라이 2026'과의 콜라보레이션 기획이 시동 - 리얼 사운드",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xNXZWUHpnS3NXdGNIS0RDYm9KdFk2cUx1VEdRQVBBRU1XbUFUNUZNWjhNRjhielJKQnV0Ql9FSkRZOVRYUWFhVmJidUI1NEhFZGg1Q3JBZmJQQUNYcEVEdtIBZkFVX3lxTE1lRFhuZTlvYy11WFVLTnQtUk1tZUg3R0ZmSDA0QlZFeXZ2SnJYMWx4bmsxZkhHd3V4eXRleXJaN2RlOXJxQklwODN4XzBtTFNfM3k1SlY4d1c3VGVoRmZIYlRkRlctdw?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -567,7 +567,20 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-07-16",
-   "ts": 1784194240
+   "ts": 1784194257
+  },
+  {
+   "title": "葛飾北斎×初音ミク Rella氏描くピアプロ「富嶽三十六景」10月発売 - コラボカフェ",
+   "title_ko": "카츠시카 호쿠사이×하츠네 미쿠 Rella씨 그리는 피어프로 「토미야 36경」10월 발매 - 콜라보 카페",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXg5cjVYWlZOYXRfMXQycGE3cjAtMTEwWldnTmpoZ3Q4U1A5QVoyaGFIcFpSTEY1VkZhbk9pbnp3TUdPczlHaXV5ZU9WYXNiQWxLTkhjTUlvaE1JYk1xUThGR0xrRC1vMHJtZVZ1bnlFREZBWWU5ZjNPMmJJVng3OTNqaENqU19aRXUxeGJ5dDVVdENhbnM0alFGNFhGT3c?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-16",
+   "ts": 1784191776
   },
   {
    "title": "「16歳の誕生日」をテーマにした初音ミクのねんどろいどの再販分がAmazonで予約受付中！初音ミクパッケージやバースデーケーキなどのオプションパーツも付属！ - 電撃ホビーウェブ",
@@ -594,6 +607,19 @@
    "thumb": null,
    "date": "2026-07-16",
    "ts": 1784178420
+  },
+  {
+   "title": "初音ミクなどが歌って動く電卓アプリ「電卓 - Desktop Mate Widgets」発表、7月22日配信へ。演奏もOK、たまに計算に悩んじゃう賑やか美少女電卓 - AUTOMATON",
+   "title_ko": "하츠네 미쿠 등이 노래하고 움직이는 계산기 앱 「계산기 - Desktop Mate Widgets」발표, 7월 22일 전송에. 연주도 OK, 가끔 계산에 고민하는 활기찬 미소녀 계산기 - AUTOMATON",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfT0VMVXdfMXhyMnM0OHNUNENrZzRlZnh5UXF3X0JtRkczUFJocy1fVmVoM1RmMU5JS2QzSVVFZlJyNG1HcEZWS0NsRE1oNi1wNkhwelpzZC1NRnF0MFlaZUhFVW1pQ1ItaW02Nw?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-16",
+   "ts": 1784177352
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所 - 河北新報オンライン",
@@ -661,19 +687,6 @@
    "ts": 1784163600
   },
   {
-   "title": "葛飾北斎×初音ミク Rella氏描くピアプロ「富嶽三十六景」10月発売 - コラボカフェ",
-   "title_ko": "카츠시카 호쿠사이×하츠네 미쿠 Rella씨 그리는 피어프로 「토미야 36경」10월 발매 - 콜라보 카페",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXg5cjVYWlZOYXRfMXQycGE3cjAtMTEwWldnTmpoZ3Q4U1A5QVoyaGFIcFpSTEY1VkZhbk9pbnp3TUdPczlHaXV5ZU9WYXNiQWxLTkhjTUlvaE1JYk1xUThGR0xrRC1vMHJtZVZ1bnlFREZBWWU5ZjNPMmJJVng3OTNqaENqU19aRXUxeGJ5dDVVdENhbnM0alFGNFhGT3c?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-15",
-   "ts": 1784112856
-  },
-  {
    "title": "元気いっぱいなチアガール姿のミクさん！NOCO氏デザイン「初音ミク」がフリューからプライズフィギュア化！ - 電撃ホビーウェブ",
    "title_ko": "건강 가득한 치어 걸 모습의 미쿠 씨! NOCO씨 디자인 「하츠네 미쿠」가 플류로부터 프라이즈 피규어화! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNGpkS2xQcUMwYUxGS3dZWmFqRjFQal9HQURtaW5VS1c4X0dUU3RWQW95amdtd1JpMDFFeGh2cWlueFppLXlqenFMQ1QxTWhn?oc=5",
@@ -688,7 +701,7 @@
   },
   {
    "title": "\"ファンと共に走るレーシング・チーム\"がコンセプトの\"初音ミク GTプロジェクト\"とP.N UNDERGROUNDのコラボ・アイテム新入荷！イラストレーター\"黒星紅白\"が描く\"レーシングミク2026Ver.\"を大胆にレイアウトしたTシャツが登場！ - 激ロック",
-   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
+   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026 Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HcktoTmEtSk9JeUxqR0NrLTNnQk9icWVONkhzQ29IcUdEa09uSVVmek54dmJwYXI5TFJsZlZMTlB6Z21mbHRyRnZmcUQ5YW5DSmoza1ZFTHBtT3F4UlM2alZQVTUyMHdDZGl3Mjlrb2g3eFVDNFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -727,7 +740,7 @@
   },
   {
    "title": "等到了！《蔚蓝档案》圣娅手办丨早间资讯0715 - 手机网易网",
-   "title_ko": "기다림은 여기입니다! \"블루 파일\" 성야 피규어丨모닝 뉴스 0715 - NetEase Mobile",
+   "title_ko": "기다림은 여기입니다! \"블루 파일\" Shengya Figure丨 Morning News 0715 - NetEase Mobile",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93N0FQNm8tem9oNkpRd2lKbUhQTlZYSUFzc1dEVzR0NENITmZPMWZEakczT3VJY3BzMG4tWlVCck5Tc3F5UWZ2aHhlZkpkTDIxMndYYzB4MW0xM0xSZmJiRVV3?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -740,7 +753,7 @@
   },
   {
    "title": "長野で育った“落ち着きのない少年”が世界的コラボを実現！「初音ミク×葛飾北斎」を生んだ株式会社Presence(プレゼンス)代表・須藤貴士の挑戦 - Web-Komachi",
-   "title_ko": "나가노에서 자란 “침착이 없는 소년”이 세계적 콜라보를 실현! 「하츠네 미쿠×카츠시카 호쿠사이」를 낳은 주식회사 Presence(프레즌스) 대표·스도 타카시의 도전 - Web-Komachi",
+   "title_ko": "나가노에서 자란 “침착이 없는 소년”이 세계적 콜라보를 실현! \"하츠네 미쿠 × 카츠 시카 호쿠사이\"를 낳은 주식회사 Presence (프레즌스) 대표 · 스도 타카시의 도전 - Web-Komachi",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5neTRiQ0NnUlU4WElaU0c3TE11Y3hQLVlXeEo0bTFUQzRsMmVTcVBsem1qejR3TVpBdmxvdzYtR0RLalhUVDFKS1BHOVVaUQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -766,7 +779,7 @@
   },
   {
    "title": "BOTEJYU Group × 初音ミクを始めとするピアプロキャラクターズが彩る鉄板グルメ！7/23（木）コラボ開催 - 共同通信PRワイヤー",
-   "title_ko": "BOTEJYU Group × 하츠네 미쿠를 비롯한 피어 프로 캐릭터즈가 물들이는 철판 음식! 7/23(목) 콜라보레이션 개최 - 공동 통신 PR 와이어",
+   "title_ko": "BOTEJYU Group × 하츠네 미쿠를 비롯한 피어 프로 캐릭터가 물들이는 철판 음식! 7/23(목) 콜라보레이션 개최 - 공동 통신 PR 와이어",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44OHpxTEN4V2dmaTdXdXZPOUExZmx4ek9nZjJtTzV4SFdKOVVrNjFUdE1CamNWZ2pBTmU0WTh4LVl2cThNZzE2VTBOd3VfbURhak5BN1R1TG95OEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -779,7 +792,7 @@
   },
   {
    "title": "ビアードパパで漆黒の「ゴジラシュー」発売、初音ミク×22カレーのコラボカフェ開催、吉野家×ドラクエウォークコラボキャンペーン実施など～ 最近の秋葉原 飲食店編 - AKIBA PC Hotline!",
-   "title_ko": "비아드 아빠에서 칠흑의 「고질라슈」발매, 하츠네 미쿠×22 카레의 콜라보 카페 개최, 요시노가×드라퀘 워크 콜라보 캠페인 실시 등~ 최근의 아키하바라 음식점편 - AKIBA PC Hotline!",
+   "title_ko": "비아드 아빠로 칠흑의 「고질라슈」발매, 하츠네 미쿠×22 카레의 콜라보 카페 개최, 요시노가×드라퀘 워크 콜라보 캠페인 실시 등~ 최근의 아키하바라 음식점편 - AKIBA PC Hotline!",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53Z0JGWmVzbHVMbUgySzh1bmFwd0ZCS3BKUkJzdmNSZXRuVFlSaVNwRDAzZVhSd3ZZNWkyRW9UN21vb0RycGxJZ1I0M0lqRm5KYXE1N1gzYmNLVk84VWVGeWtCMWV6YTJVTGphbExjdFlLQQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -909,7 +922,7 @@
   },
   {
    "title": "ミク、ルカ、MEIKOたちが浮世絵で描かれる♪ 初音ミク×葛飾北斎が再びコラボ！ 人気イラストレーター・Rella描き下ろしビジュアルの新グッズ登場 - アニメ！アニメ！",
-   "title_ko": "미쿠, 루카, MEIKO들이 우키요에로 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터・Rella 신작 비주얼의 신상품 등장 - 애니메이션! 애니메이션!",
+   "title_ko": "미쿠, 루카, MEIKO들이 우키요에 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터・Rella 신작 비주얼의 신상품 등장 - 애니메이션! 애니메이션!",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TSWFmay1GamZyWkZlVDlfNGFjRFRiNWlJVUphazdyOTQxR1FvY0dkaFBYRmNHXzJzWVhlNmdsME15eVVGR0xCWldhY2ZNNjc2Ri1XaVB0dTJCV0daN3JBaFlR?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1036,19 +1049,6 @@
    "thumb": null,
    "date": "2026-07-13",
    "ts": 1783905227
-  },
-  {
-   "title": "浜松アクトで『初音ミク「マジカルミライ」』初開催へ 地元企業とコラボも (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
-   "title_ko": "하마마츠 액트에서 하츠네 미쿠 '마법의 미라이' 첫 개최에 현지 기업과 협업도",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnJHYXN1aEx0MlBWeC1MNEJuQmJRT3hSUWgtY2hoOUFYbFVmR0gtX1lwbGR4OHNlai1CdHNxZVAzX19vMl9VT0dPeGFkSFpKaVBRMnpXS25MMm1TWG0zX181Z3czZi1udW1ONW93S1NfUFdVQjhtVTdjX004N3ZqRnZiTWFHaEoxU21rb1Fn?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783904614
   },
   {
    "title": "初音ミク「マジカルミライ 2026」アイアップ オリジナルグッズ情報公開！「ぬいぬいバッグ」「ぬいコロン」など新グッズがラインナップ！ - tv-tokyo.co.jp",
@@ -1181,19 +1181,6 @@
    "ts": 1783307687
   },
   {
-   "title": "Hatsune Miku: Starry Party announced - Gamereactor UK",
-   "title_ko": "하츠네 미쿠: Starry Party 발표 - Gamereactor UK",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3QjRQcDkyUG5xOXBBck9va0JOM1BPYVNDeUItZkUxUDBKaEkweEtSOWpvSEVjYVd6MlozWnZyd3FfVC1HRDVwUUxvQnZlWFhWSVhlREE3THhqUmctaWxwNDJsNlo5bmZCRVhOdEczaEhpZUx2UDhyWDVxcw?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-07-06",
-   "ts": 1783306813
-  },
-  {
    "title": "初音未来联名钢琴公开|初音未来|lovepiano|初音未来magical mirai 2026|联名纪念钢琴|magical mirai 2026 - 新浪网",
    "title_ko": "하츠네 미쿠의 합동 피아노 출시 | 하츠네 미쿠 | 사랑피아노 | 하츠네 미쿠 마법의 미라이 2026 | 공동기념피아노 | 매직 미라이 2026 - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95QkJ3THFCTFdhMW0yRTZrdXlmRm5DYnU0RTVPMXB6ZFhfVEh5blpDTWQzV3VnNkJCN1dhdkdjdFU4MUdUNzh5eU1NMWlnN08xWmVtY1BTTzNSMXNqOFppZUlhOA?oc=5",
@@ -1273,7 +1260,7 @@
   },
   {
    "title": "“「初音ミク」くじ”が2026年11月発売決定！学生制服姿のフィギュアを先行公開 - インサイド",
-   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피규어를 선행 공개 - 인사이드",
+   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피겨를 선행 공개 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISGJBaWpfWm1XR0JmMVZXeGdjYXpCYTl1R1ZKSXlrRHJDdkIwVGhxLUVPdGxDb0t3cmFBMXdwNWM5MUJwc0xTQXVYR3JWWm8yTlNnSFRZcHNHbzQxTTN6RXRjaGk1TXl0aEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1296,6 +1283,19 @@
    "thumb": null,
    "date": "2026-07-02",
    "ts": 1782975600
+  },
+  {
+   "title": "初音ミク「マジカルミライ 2026」関連企画 〜音×テクノロジーを感じよう！〜 - mirai-ra.jp",
+   "title_ko": "하츠네 미쿠 \"마법의 미라이 2026\"관련 기획 ~ 소리 × 기술을 느끼자! ~ - mirai-ra.jp",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBES3VCdmZzcEtfRldFVWxuUGlMUVdERkZYcTBZalFVdUtIazljZFpHcEFtd2Vhem5PalRWaWxtbEtFY2FwT2lfdmJ5WFM?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-01",
+   "ts": 1782866741
   }
  ]
 }
