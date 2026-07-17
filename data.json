@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T02:24:42+00:00",
+ "updated": "2026-07-17T08:05:16+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
@@ -90,7 +90,7 @@
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
-   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 컴플리트 피규어",
+   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-200916",
    "source": "AmiAmi",
    "region": "jp",
@@ -428,7 +428,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[한정 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -518,8 +518,47 @@
    "ts": 1784209430
   },
   {
+   "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売（インサイド） - Yahoo!ニュース",
+   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 「하츠네 미쿠 모두와 풀 피규어」가 7월 발매(인사이드) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fOFh3em1DbmsxSnVYb2N2a19nTFVjNUU5bHFmMEp2WF9JZUE0MnlZdEJpS3lSQ3ZJMTByN0V1cFFVb01FZjk3R3ZiY1FTdmswOXpfV2UtQ09ZV05rcDNHN0VrNXk4dDJNYUU2eFM3QWRCUndwWFVPaW9Xc3I1YUU?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-17",
+   "ts": 1784273403
+  },
+  {
+   "title": "「初音ミク」と伝統工芸「甲州印伝」がコラボした“革小物”が本日7月17日より受注受付を開始。キーケースやペンケースなど - ニコニコニュース",
+   "title_ko": "「하츠네 미쿠」와 전통 공예 「고슈 인전」이 콜라보레이션한 “가죽 소품”이 오늘 7월 17일부터 수주 접수를 개시. 키 케이스와 펜 케이스 등 - 니코 니코 뉴스",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55V3hUWWNlZHhVdEJJRHh2elQ2WGtOSThodjgzcnpoMkZtNHl5SUFHMFRjTk0zMU9xT1VFMk9GNTRKTC15ckViSjI5a2R2M1VjRTZKakRmYTVUZkZjVWRKMy0zZVM0LWZtaUREYWF4N3l0OXgtcU9pLXpZYw?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-17",
+   "ts": 1784272688
+  },
+  {
+   "title": "ねんどろいど「ブラインドボックスシリーズ」に『雪ミクオールスターズ』が登場！Vol.1は偶数年の雪ミクを集めた全8種のラインナップ - 電撃ホビーウェブ",
+   "title_ko": "넨 드로이드 「블라인드 박스 시리즈」에 「유키 미쿠 올 스타즈」가 등장! Vol.1은 짝수년의 눈 미쿠를 모은 총 8종의 라인업 - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wR3YtdWY1RkpLVVhwYzVYUVZfOHZmdlplSFNUUTBDS29GMHVQak9ZY2t2WWZQU2REY1pWZDd5eXk2RHhBZVphbnpxZWdKaTB6?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-17",
+   "ts": 1784263232
+  },
+  {
    "title": "初音未来16岁生日粘土人再版丨早间资讯0717 - 手机网易网",
-   "title_ko": "하츠네 미쿠 16번째 생일 넨도로이드 재인쇄丨모닝 뉴스 0717 - NetEase Mobile",
+   "title_ko": "하츠네 미쿠의 16번째 생일 넨도로이드 재인쇄丨모닝 뉴스 0717 - NetEase Mobile",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2REJtM2NIWGlPMHFUU19BTEk0bXhLQTl1aUdZTVpPOEJxVXpBLVNpMWJ2eHd5bUpVb2FXZFU2Znd3dUE1SDN4Vi1tT3ZHZHcyQjEyWFJPN1hCUnF2S0xwNXNB?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -529,6 +568,19 @@
    "thumb": null,
    "date": "2026-07-16",
    "ts": 1784243219
+  },
+  {
+   "title": "Hatsune Miku collaborates with Hokusai’s art in new Vocaloid ukiyo-e illustration series [Pics] - SoraNews24",
+   "title_ko": "하츠네 미쿠가 새로운 보컬로이드 우키요에 일러스트 시리즈에서 호쿠사이의 예술과 협력합니다 [사진] - SoraNews24",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXhqZl9aRXBrNFJEdUhCX2FCSVhJYzktbWZieTNGbFVZUkUzSG5tc3FIQzVOM2JMQV9MbUdmN21mR2RsVVdzbFYzNGtlaDZoN25RdDhZcnhpWVhEbFN1N2l3cnBhd3cyVDNzZ1EwSDc3R2tPUmNxeFNKSlFIMmRWR3hKNS1ZbTZLTHFnb1E1Q2FlMnlubkZmOHdPaWhycXlBQ29MMnd5WmtDZU9jX05Cd3ZnNVphU05JTzg2WVBZbnJ2NjBYVWfSAcsBQVVfeXFMUEt2M1dLU3BrUC12ajNuZVlraEtkalBfWDVQQ1JVZHVVSzl2dGNaV2M4WnlaSS1QNFRRYnhta180czROZGhfbnUtZVlfQmJreUlUR1ktOTlRV2VObU56RVgtcXA3SnFyM1J1UjVGeUZXeHU5MG5ma25kM0pvZmtqd0FSY1VlVVFTR21DbTR1YTlFNktGbWtEVnFsRHRoRTAwd2QyR2FWYjlaS2NfdVgyc2JUdENOWlBnNkFxNjd1cThxcjk2Y1NWODlTUkU?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "goods",
+   "type": "news",
+   "lang": "en",
+   "thumb": null,
+   "date": "2026-07-16",
+   "ts": 1784223035
   },
   {
    "title": "上古邪道CP没准成真？这次奥特曼真能遇到初音未来 - 风闻",
@@ -560,19 +612,6 @@
    "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 - Yahoo!ニュース",
    "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! 「윙크」나 「잠자는 얼굴」 등 다양한 표정이 귀여운 총 5종류 - Yahoo!",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FR1p6LTg0SGI1RFU0Sm9XRUs3T2FGX0NnbEZNczhzUXJtcF9uNjZjQUFHRVlLLUphQV9DQkFaM2lTMTZWc2FETFdWS2pDZ0RPWUlDdzhfd0NMX0FpTUI2T0NpQ2tJQ1duSjhmVTdKLWFoUmhaOW43ODFIY3VjQjQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-16",
-   "ts": 1784196004
-  },
-  {
-   "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 5枚目の写真・画像 - インサイド",
-   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! 「윙크」나 「잠자는 얼굴」등, 다양한 표정이 귀여운 총 5종류 5번째 사진·이미지 - 인사이드",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90UmtJZ0thYlJ5bU1pU1VwWHItWE9uZzhiSkFaVThPaG94Yk1oRFhVWUpCNkJJTkt4VjUxakFtc2VZNEZ3NkRybVBOUkhmbUVkdHVEVG9udFpPQnJjUHJlV2JXaXIxUldjLTd6QnQzMDhCUDIzTGZJ?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -701,7 +740,7 @@
   },
   {
    "title": "\"ファンと共に走るレーシング・チーム\"がコンセプトの\"初音ミク GTプロジェクト\"とP.N UNDERGROUNDのコラボ・アイテム新入荷！イラストレーター\"黒星紅白\"が描く\"レーシングミク2026Ver.\"を大胆にレイアウトしたTシャツが登場！ - 激ロック",
-   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
+   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026 Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HcktoTmEtSk9JeUxqR0NrLTNnQk9icWVONkhzQ29IcUdEa09uSVVmek54dmJwYXI5TFJsZlZMTlB6Z21mbHRyRnZmcUQ5YW5DSmoza1ZFTHBtT3F4UlM2alZQVTUyMHdDZGl3Mjlrb2g3eFVDNFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -714,7 +753,7 @@
   },
   {
    "title": "ベルを手にしたおとぎ話風の装い！「初音ミク」が「オオカミと七匹の子ヤギ」をイメージしたプライズフィギュアとなって登場！ - 電撃ホビーウェブ",
-   "title_ko": "벨을 손에 넣은 동화풍의 옷차림! 「하츠네 미쿠」가 「늑대와 일곱 마리의 염소」를 이미지 한 프라이즈 피규어가되어 등장! - 전격 취미 웹",
+   "title_ko": "벨을 손에 넣은 동화 스타일의 옷차림! 「하츠네 미쿠」가 「늑대와 일곱 마리의 염소」를 이미지 한 프라이즈 피규어가되어 등장! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HRFBjZHpjUTUzTTZRQmlCY1piQ2I5em0wWDBBZ3RWMnh3UUlodFNKb1luRGxzeUtPMjBEaE1XZW5zdVBvNngzanU5N1hwcDhf?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -750,6 +789,19 @@
    "thumb": null,
    "date": "2026-07-14",
    "ts": 1784070469
+  },
+  {
+   "title": "長野で育った“落ち着きのない少年”が世界的コラボを実現！「初音ミク×葛飾北斎」を生んだ株式会社Presence(プレゼンス)代表・須藤貴士の挑戦 - Web-Komachi",
+   "title_ko": "나가노에서 자란 “침착이 없는 소년”이 세계적 콜라보를 실현! \"하츠네 미쿠 × 카츠 시카 호쿠사이\"를 낳은 주식회사 Presence (프레즌스) 대표 · 스도 타카시의 도전 - Web-Komachi",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5neTRiQ0NnUlU4WElaU0c3TE11Y3hQLVlXeEo0bTFUQzRsMmVTcVBsem1qejR3TVpBdmxvdzYtR0RLalhUVDFKS1BHOVVaUQ?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-14",
+   "ts": 1784012400
   },
   {
    "title": "ぬいぬいバッグやぬいコロン！アイアップ 初音ミク「マジカルミライ 2026」グッズ - Dtimes",
@@ -883,7 +935,7 @@
   },
   {
    "title": "初音ミク×招き猫×真夏の熊谷 ピアプロ全員のコラボグッズが発売! - コラボカフェ",
-   "title_ko": "하츠네 미쿠 × 초대 고양이 × 한여름의 구마가야 피어 프로 전원의 콜라보레이션 상품이 발매! - 콜라보 카페",
+   "title_ko": "하츠네 미쿠 × 초대 고양이 × 한여름의 구마가야 피어 프로 전원의 콜라보레이션 상품이 발매! - 콜라보레이션 카페",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnlndkVMTmJYOGppeEw5MUE3bUpPa0FsR01ZRDdsNkZYS1FweHNzdFg0SzNyTUJ1SXI1OE5rRDcwNHVhdkhueWRDc2dBcVBtQzVwUVlOcGZfbmFwcS05T3JyRE9mZ19SY2lDYXhxc3hXT1V6Z2dsZmpCdnhoMnBPNHBBb1lzSkhFNVZETUw4bjYxZEpQUnJjelJBOE1rR3lnWHc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -893,19 +945,6 @@
    "thumb": null,
    "date": "2026-07-13",
    "ts": 1783940564
-  },
-  {
-   "title": "タイトー、「初音ミク」ランダムグッズの「偏り」謝罪...「発送時の梱包工程に不備」 かぶり報告や「やっぱり」の声も - Yahoo!ニュース",
-   "title_ko": "타이토, '하츠네 미쿠' 랜덤 상품의 '편향' 사과... '발송시 포장 공정에 미비'",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnNPTmhXUGdnc0tnS2hwQ21INHgwREVFdEpWTmNyNjlSZ3QwNnAyRGZ0cmxRTlpScllkMFhzZ2FPVVdzSlRscWluRjFGU0lfWGZDY0E3S2hsLUZjZkFBQnh1aE9SMGVRVnczb1NsMHBjQjdKeXllZ0VTREVJbU1LeWliWjNoQnhHaWFlZFhR?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783939244
   },
   {
    "title": "ミク、ルカ、MEIKOたちが浮世絵で描かれる♪ 初音ミク×葛飾北斎が再びコラボ！ 人気イラストレーター・Rella描き下ろしビジュアルの新グッズ登場 - アニメ！アニメ！",
@@ -1038,22 +1077,9 @@
    "ts": 1783905227
   },
   {
-   "title": "浜松アクトで『初音ミク「マジカルミライ」』初開催へ 地元企業とコラボも (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
-   "title_ko": "하마마츠 액트에서 하츠네 미쿠 '마법의 미라이' 첫 개최에 현지 기업과 협업도",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYnJHYXN1aEx0MlBWeC1MNEJuQmJRT3hSUWgtY2hoOUFYbFVmR0gtX1lwbGR4OHNlai1CdHNxZVAzX19vMl9VT0dPeGFkSFpKaVBRMnpXS25MMm1TWG0zX181Z3czZi1udW1ONW93S1NfUFdVQjhtVTdjX004N3ZqRnZiTWFHaEoxU21rb1Fn?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783904614
-  },
-  {
-   "title": "長野で育った“落ち着きのない少年”が世界的コラボを実現！「初音ミク×葛飾北斎」を生んだ株式会社Presence(プレゼンス)代表・須藤貴士の挑戦 - Web-Komachi",
-   "title_ko": "나가노에서 자란 “침착이 없는 소년”이 세계적 콜라보를 실현! 「하츠네 미쿠×카츠시카 호쿠사이」를 낳은 주식회사 Presence(프레즌스) 대표·스도 타카시의 도전 - Web-Komachi",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5neTRiQ0NnUlU4WElaU0c3TE11Y3hQLVlXeEo0bTFUQzRsMmVTcVBsem1qejR3TVpBdmxvdzYtR0RLalhUVDFKS1BHOVVaUQ?oc=5",
+   "title": "初音ミク「マジカルミライ 2026」アイアップ オリジナルグッズ情報公開！「ぬいぬいバッグ」「ぬいコロン」など新グッズがラインナップ！ - tv-tokyo.co.jp",
+   "title_ko": "하츠네 미쿠 \"마법의 미라이 2026\"아이 업 오리지널 상품 정보 공개! 「인형 가방」 「인형 콜론」등 신상품이 라인 업! - tv-tokyo.co.jp",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iYzVfUHJLYTRwUE1vN2l0dVpqclZ1czZEOHBFMWU5c0tOQmd3Tjhsc3ozUkxnMDhNVnhoeG1aUW5kTDJ0MjFST2VPOU1GWUpZMFVjcml5YzV5YTR1LXc4YVdGaWVxTm1HbGt0eVh3?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -1061,20 +1087,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-07-12",
-   "ts": 1783868884
-  },
-  {
-   "title": "初音ミク×チロルチョコのコラボ！「チロルミク」発売を記念した「チロルミクフェア」が1月26日より日本百貨店で開催 - ウォーカープラス",
-   "title_ko": "하츠네 미쿠×티롤 초콜릿의 콜라보레이션! '티롤미쿠' 발매를 기념한 '티롤미크 페어'가 1월 26일부터 일본 백화점에서 개최 - 워커플러스",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jWTJSMkktcjVmYkh2dk12VnAzS25ncVhkWjZXVEdrSjl4dFdvdXoyb3E5ZFBCVC03NDJtWG83VEpLWnZoendqUUlmUExqWGdZMEgxQlVR0gFbQVVfeXFMTXkzdWNsbWtBSGh3Sk5vTmwtc0ttVGJ4TDNQUGRhN2cxdEx5QjFJOG1vb05EN3RZQmhyR0VNNlRMeG1FcGVuU2JHQXE2S2ZHdEpxUFJIQlgwYUcxbw?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-12",
-   "ts": 1783841496
+   "ts": 1783882656
   },
   {
    "title": "初音ミク「マジカルミライ 2026」アイアップ オリジナルグッズ情報公開！「ぬいぬいバッグ」「ぬいコロン」など新グッズがラインナップ！ - PR TIMES",
@@ -1140,19 +1153,6 @@
    "thumb": null,
    "date": "2026-07-09",
    "ts": 1783586470
-  },
-  {
-   "title": "『初音ミク「マジカルミライ 2026」』浜松を皮切りに3都市開催！ 地元コラボにも注目！ - PR TIMES",
-   "title_ko": "“하츠네 미쿠 “마법의 미라이 2026”” 하마마츠를 시작으로 3 도시 개최! 현지 콜라보레이션에도 주목! - PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FVFlxVExIMlVGNnRXSHcwSFFUc0E5RzdrVEpTa1pxLVVHRGRISHNhQTkzR29BcWFfMFVOYm9ia1IwejNhU3FER0g1RWRmOVFlWU15eUl1Vnd1MkdzMmc1UW81NElMZHNvaEE?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-09",
-   "ts": 1783564521
   },
   {
    "title": "「初音ミク×招き猫」の新作コラボグッズが、2026年7月7日より「カドスト」にて、受注販売開始！ - PR TIMES",
@@ -1273,7 +1273,7 @@
   },
   {
    "title": "“「初音ミク」くじ”が2026年11月発売決定！学生制服姿のフィギュアを先行公開 - インサイド",
-   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피규어를 선행 공개 - 인사이드",
+   "title_ko": "“하츠네 미쿠” 복권”이 2026년 11월 발매 결정! 학생 제복 차림의 피겨를 선행 공개 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ISGJBaWpfWm1XR0JmMVZXeGdjYXpCYTl1R1ZKSXlrRHJDdkIwVGhxLUVPdGxDb0t3cmFBMXdwNWM5MUJwc0xTQXVYR3JWWm8yTlNnSFRZcHNHbzQxTTN6RXRjaGk1TXl0aEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
