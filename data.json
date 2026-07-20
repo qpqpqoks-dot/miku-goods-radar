@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-19T19:02:12+00:00",
+ "updated": "2026-07-20T02:42:45+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
@@ -207,7 +207,7 @@
   },
   {
    "title": "PLAMATEA Character Vocal Series 01 Hatsune Miku: Chuocho Tactical Craft Ver. Plastic Model",
-   "title_ko": "PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠: 주오초 택티컬 크래프트 Ver. 플라스틱 모델",
+   "title_ko": "PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠: 중앙초 전술 공예 Ver. 플라스틱 모델",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-192529",
    "source": "AmiAmi",
    "region": "jp",
@@ -518,19 +518,6 @@
    "ts": 1784427949
   },
   {
-   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載（インサイド） - Yahoo!ニュース",
-   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택이나 패브릭 그물 스타킹 어딘가 가득 (인사이드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkMlVSYnNDSjZkNENLcktWeklVYXNab3hua3JlZXIzZGFQZUdZaFE0NFI5aU5rUmZOdEZ6OTlkeVY4SHpUQmZGdXhiWXFKYUtJOHJNRFgzUXBMSjdRYkx0WnlaTFF4M0hiUTJLbGF6LVZsSmc2T2Y2RmxMazlvdGM?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-19",
-   "ts": 1784475467
-  },
-  {
    "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 - インサイド",
    "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상 광택과 패브릭 메시 스타킹 어딘가에 가득 - 내부",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zNWhfR2ZFQWUtVmdyZ2JHRFh1ODZXOTVQbXdHeENWUHp2TnJmd2JvYTl4X3diZ1l2b2RuOU5FOWhNOGRLSHctOUgzZ1h5RVhuaVdFMU5SVkhrYnFMSmxxV2ptdExxbnJuNFE?oc=5",
@@ -544,9 +531,22 @@
    "ts": 1784473803
   },
   {
-   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 6枚目の写真・画像 - インサイド",
-   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택과 천의 메시 스타킹 어딘가 가득 6 번째 사진 - 이미지 - 내부",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3UWNjTGFUWVRpQ2FGUjBsaTBwM04wSnBzbWMzVUNNU0I4cDloU3FKTXZpMjNzaUt6UzZKaWdYcThrRUdtbWJzV1RZOGNUQjRmVmVDTVR2dzYtSnFzdUtTQlNNdjhwN3dOckozdjVkZUVvNXpPMS1R?oc=5",
+   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載（インサイド） - Yahoo!ニュース",
+   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택이나 패브릭 그물 스타킹인 곳곳 가득(인사이드) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkMlVSYnNDSjZkNENLcktWeklVYXNab3hua3JlZXIzZGFQZUdZaFE0NFI5aU5rUmZOdEZ6OTlkeVY4SHpUQmZGdXhiWXFKYUtJOHJNRFgzUXBMSjdRYkx0WnlaTFF4M0hiUTJLbGF6LVZsSmc2T2Y2RmxMazlvdGM?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-19",
+   "ts": 1784473803
+  },
+  {
+   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 1枚目の写真・画像 - インサイド",
+   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택과 패브릭 그물 스타킹 어딘가에 가득한 첫 번째 사진 · 이미지 - 내부",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kVEFxRnVWbzVkZ0Vqci1IZVI3VFhFTC1GTE9LdmdMdkNJUmstMVl0ZnJMUmZ1M0h1M2NfSHRWbnZULWZOemhmRlFzd3FnMDJvbVNXa3JQU2ZDVEJvRU9GanBLald4ZVl1VzNqTGNKNDFleVNnVE5F?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -583,19 +583,6 @@
    "ts": 1784419709
   },
   {
-   "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現 - インサイド",
-   "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현 - 인사이드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sUmQwZ2VKWUMtMjJTdkw4VHdnV0hyWUlxWmhlR1o4TU9ZYzZKbVB0amE3OERRZmx6R1FXdFg1aDRUalNLcy1aakk1WDZFYnB3RUNkdkpzY0dvUWgzeHpxX09QRVZiZnRyUVE?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-19",
-   "ts": 1784419204
-  },
-  {
    "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現（インサイド） - Yahoo!ニュース",
    "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현(인사이드) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWYzY0RUJmTmp6bU1HcjEwREliT0w4YjFwNHE3aXNHbkswM3BTZGN0NFBVTHp3VWE0ZlhKaG1OVlZHa1Y4ZEVFRGwzS2JjQm1fSEx2V25XUUdCRTluTkh5SEUtTUtJOXB6ak5oSVBfQzhzSzhLYjBRdkU4VXRpcXc?oc=5",
@@ -609,9 +596,9 @@
    "ts": 1784419204
   },
   {
-   "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現 2枚目の写真・画像 - インサイド",
-   "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3 스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wYnhkQlM0LWpMQVRicE1wVFc5ckhxMUZlZGk1TEt1LUVJMTU3UWdJNUhBRkNhc2F2WjFkb0VaUE1FRHVwMnAzOGs1YlFyVUtaMTlHS29TcWtPbEIxWHZQQ0RBM1FqRS12R1h0aFBZNTFWYk5TRC0w?oc=5",
+   "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現 - インサイド",
+   "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sUmQwZ2VKWUMtMjJTdkw4VHdnV0hyWUlxWmhlR1o4TU9ZYzZKbVB0amE3OERRZmx6R1FXdFg1aDRUalNLcy1aakk1WDZFYnB3RUNkdkpzY0dvUWgzeHpxX09QRVZiZnRyUVE?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -620,6 +607,32 @@
    "thumb": null,
    "date": "2026-07-19",
    "ts": 1784419204
+  },
+  {
+   "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現 6枚目の写真・画像 - インサイド",
+   "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현 6번째 사진·사진",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5taUVsY1k0M2c1WWhLU3N6QWtvM1MwZ3JEcXQ2Yl9rNkY3QmV4U1hjMDg0M3p1RGk5clM1WU40YlBtbmZnQkwzM0p6cnpWRlBGdTNNc01DSnE1am9fX1hoQU9SUnBXYTdFQkpVbFUxb2xXcURhdlVj?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-19",
+   "ts": 1784419204
+  },
+  {
+   "title": "「初音ミク×招き猫×真夏の熊谷」について - 熊谷観光局",
+   "title_ko": "「하츠네 미쿠×마네코 고양이×한여름의 쿠마가야」에 대해서 - 쿠마가야 관광국",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ydVNOSHQwbmhKRkJMbjNhU2xZa0FpdWhhTHVhb1JsRG9TYjV0d2JsTV9uUHpSN1QtUXFxREJ4TV8wdEhKbWhWOG9jbVNBM2VaZkNTRXNHZlI0QlJC?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-18",
+   "ts": 1784355983
   },
   {
    "title": "初音ミク×シナモロールのリアルフィギュアがセガプライズに登場！夏にピッタリなおそろいのマリンルックが爽やかキュート!! - 電撃ホビーウェブ",
@@ -633,19 +646,6 @@
    "thumb": null,
    "date": "2026-07-18",
    "ts": 1784340000
-  },
-  {
-   "title": "初音ミク ゲームモチーフデザインフィギュア 7月22日より登場! - コラボカフェ",
-   "title_ko": "하츠네 미쿠 게임 모티브 디자인 피규어 7월 22일부터 등장! - 콜라보 카페",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUg1bm1LTk0yRzd6dnpRanNrWGhZenY4NjBYeGhTaE5JbDREVE4wS0FzUl9LY2s3ZGNBdGxqVFZaZlNJM3ZXTHRPVHk3OUtsbkFWWXZZWEktanoyMDg2aXN3QjlxRlprUEx3ZVRhWHhTUjdmMDJ3MlJkSVVFMWQ2NQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-17",
-   "ts": 1784281943
   },
   {
    "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売（インサイド） - Yahoo!ニュース",
@@ -662,7 +662,7 @@
   },
   {
    "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 4枚目の写真・画像 - インサイド",
-   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두 풀 피규어 7 월 발매 네 번째 사진 · 이미지",
+   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두가 풀 피규어 7 월 발매 네 번째 사진 · 이미지 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rb0phQkMzWEVHUzJNQUNaOFppcGt1T2pOeGk3dkZ2cTVud0hiSWdzaHVweXRranp2U29kaktmVlZjeHRreDVSMnJtekhpOXVYX21OODBDdjhiUWpZMTZRX2pVVHRmaFBlMk5HQVV0OHA3d2dfS2Zz?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -688,8 +688,21 @@
   },
   {
    "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 5枚目の写真・画像 - インサイド",
-   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두 풀 피규어 7 월 발매 5 번째 사진 - 이미지",
+   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두 풀 피규어 7 월 발매 5 번째 사진 · 이미지",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6azZkZ2o2Sk1jdzZqZFpGVURzcHBpWmU0UHJJSXU4ZEFuaWtrXzRoM0lDVkgwMm5GWEFQUUQxOHhPeFUxNkFKX0ZOMHVsbEg1Wmo0eFRJUmw4SHFWTlFTWU1iTUZzNWZBZHdfcm5wOVVuSTVCQVNn?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-17",
+   "ts": 1784273403
+  },
+  {
+   "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 3枚目の写真・画像 - インサイド",
+   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두가 풀 피규어 7 월 발매 3 번째 사진 · 이미지 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NX202eHdKRzhxUWdIN1k4VUhTdmtwdTFfTWRCQXdUQVBsel9EcGFSOUItUEY3ZWZQNnJkX0VMMDNSZzdtTzF1U1ZTM3BCWkFTQUF5QU53ZkJ0aklKem14Y3MxWXlOall3dmdVRC1NcGZrZHRiVmpv?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -740,7 +753,7 @@
   },
   {
    "title": "ガシャポン「初音ミク めじるしアクセサリー」がオンライン販売！「ウインク」や「寝顔」など、色々な表情が可愛い全5種類 - インサイド",
-   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! '윙크'나 '잠자는 얼굴' 등 다양한 표정이 귀여운 총 5종류 - 인사이드",
+   "title_ko": "가샤폰 「하츠네 미쿠 메지루시 액세서리」가 온라인 판매! 「윙크」나 「잠자는 얼굴」 등 다양한 표정이 귀여운 총 5종류 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeGNURnFRdFlSTjczMHlYaWx6bEZiMEFibmdzejV1RWktMTBpRktBY3Q0MFByMUoyUnlhOHVYck9ZVW95c1VwRHJ1MG9ZWW10SzN5VG13VEZYWmdrM2dwVFktd0tFVGUyZGc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -776,19 +789,6 @@
    "thumb": null,
    "date": "2026-07-16",
    "ts": 1784194257
-  },
-  {
-   "title": "初音ミクがジョルダン「乗換案内アプリ」をジャック？ 『マジカルミライ 2026』とのコラボ企画が始動 (リアルサウンド) - Yahoo!ニュース",
-   "title_ko": "하츠네 미쿠가 조르단 「환승 안내 앱」을 잭? '매지컬 미라이 2026'과의 콜라보레이션 기획 시작(리얼 사운드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzdiTWlEZGV3UU04anliSHZhdnFsbm95QWRRTFp2UXl4S0tjRU4xaGVvWEhZWUE1NkRXejZxQ2kxaVFkV3ljWFZsVTVVeHV4SmtMSHZCNGFvZEFfeEZGcXdJQmdfX3lQcFF4SmpMLXloNkZPeXZ0Q1MybXlJS3phQmdGdnYwOWVTYjNLX2F3?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-16",
-   "ts": 1784194240
   },
   {
    "title": "葛飾北斎×初音ミク Rella氏描くピアプロ「富嶽三十六景」10月発売 - コラボカフェ",
@@ -830,19 +830,6 @@
    "ts": 1784167200
   },
   {
-   "title": "初音ミク「マジカルミライ 2026」×乗換案内アプリがコラボ、着せ替えやミニゲームも - CREATIVE VILLAGE",
-   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」×환승 안내 앱이 콜라보레이션, 옷입기나 미니 게임도 - CREATIVE VILLAGE",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RQXF5MXlQblBQeHB4STdIZHN2dlZoekNSOV85X1pXRVd5WXhvTnZ5NVZ2b2JwRUZXLXJLcTM0NDRLWFl6U09Xd1BtZ1FKNEJnYlNJcVlzNVlOMXJSQzBLN2o5QVYtSkY1dVhhUGtSSnRIQQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-16",
-   "ts": 1784165466
-  },
-  {
    "title": "『初音ミク「マジカルミライ 2026」』とのコラボ - 共同通信PRワイヤー",
    "title_ko": "\"하츠네 미쿠 \"마법의 미라이 2026\"\"와의 콜라보레이션 - 공동 통신 PR 와이어",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vdWlLNUQ2QTFyS0phbHZ2bVM1aXYxZEtpTEtWMUJFdzhTT1FFSHlkdUd4V3FIWHVmbVlPdGtKanhIekwwai1lZ05UMThjSGQyb216UkU0di1XN28?oc=5",
@@ -857,7 +844,7 @@
   },
   {
    "title": "\"ファンと共に走るレーシング・チーム\"がコンセプトの\"初音ミク GTプロジェクト\"とP.N UNDERGROUNDのコラボ・アイテム新入荷！イラストレーター\"黒星紅白\"が描く\"レーシングミク2026Ver.\"を大胆にレイアウトしたTシャツが登場！ - 激ロック",
-   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026 Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
+   "title_ko": "\"팬과 함께 달리는 레이싱 팀\"이 컨셉의 \"하츠네 미쿠 GT 프로젝트\"와 P.N UNDERGROUND의 콜라보레이션 아이템 신입하! 일러스트레이터 \"흑성 홍백\"이 그리는 \"레이싱 미쿠 2026Ver.\"를 대담하게 레이아웃한 T 셔츠가 등장! - 격록",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HcktoTmEtSk9JeUxqR0NrLTNnQk9icWVONkhzQ29IcUdEa09uSVVmek54dmJwYXI5TFJsZlZMTlB6Z21mbHRyRnZmcUQ5YW5DSmoza1ZFTHBtT3F4UlM2alZQVTUyMHdDZGl3Mjlrb2g3eFVDNFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -883,7 +870,7 @@
   },
   {
    "title": "等到了！《蔚蓝档案》圣娅手办丨早间资讯0715 - 手机网易网",
-   "title_ko": "기다림은 여기입니다! \"블루 파일\" Shengya Figure丨 Morning News 0715 - NetEase Mobile",
+   "title_ko": "기다림은 여기입니다! \"블루 파일\" 성야 피규어丨모닝 뉴스 0715 - NetEase Mobile",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93N0FQNm8tem9oNkpRd2lKbUhQTlZYSUFzc1dEVzR0NENITmZPMWZEakczT3VJY3BzMG4tWlVCck5Tc3F5UWZ2aHhlZkpkTDIxMndYYzB4MW0xM0xSZmJiRVV3?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -896,7 +883,7 @@
   },
   {
    "title": "BOTEJYU Group × 初音ミクを始めとするピアプロキャラクターズが彩る鉄板グルメ！7/23（木）コラボ開催 - 共同通信PRワイヤー",
-   "title_ko": "BOTEJYU Group × 하츠네 미쿠를 비롯한 피어 프로 캐릭터즈가 물들이는 철판 음식! 7/23(목) 콜라보레이션 개최 - 공동 통신 PR 와이어",
+   "title_ko": "BOTEJYU Group × 하츠네 미쿠를 비롯한 피어 프로 캐릭터가 물들이는 철판 음식! 7/23(목) 콜라보레이션 개최 - 공동 통신 PR 와이어",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44OHpxTEN4V2dmaTdXdXZPOUExZmx4ek9nZjJtTzV4SFdKOVVrNjFUdE1CamNWZ2pBTmU0WTh4LVl2cThNZzE2VTBOd3VfbURhak5BN1R1TG95OEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -919,19 +906,6 @@
    "thumb": null,
    "date": "2026-07-14",
    "ts": 1783992765
-  },
-  {
-   "title": "口袋键盘塞进初音未来，70种音色从C3飙到C8 - 手机网易网",
-   "title_ko": "하츠네 미쿠에 포켓 키보드 삽입, C3에서 C8까지 70가지 사운드 급증 - NetEase Mobile",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KQThaaDJUT3h2SjJadnl6d19aaUFmd05JRDUtVlN2RG1BdlprRVA5ZjhTbHpuRTB1NDR4UGRuak12TUkwcklvQ1M1NVJ5MFJOUDlQY0dqU3BnSVhzQlpNcWh3?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783975411
   },
   {
    "title": "Next Holiday Memories Hatsune Miku Figure Is a Gamer - Siliconera",
@@ -974,7 +948,7 @@
   },
   {
    "title": "新浪网· - 新浪网",
-   "title_ko": "Sina.com-Sina.com",
+   "title_ko": "Sina.com - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VcUxjTGtIOE4tYnhjZ2s1aXNYX1p6a04wZ1BLMlBZMVM0VXJKU2pKWmY5cVJTYkMwRjd5YS1jSEhNX3BtV1ljVE1LR2JsUFJNZHFHUUw1TEJQUUJMeVNpdGZDVQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -987,7 +961,7 @@
   },
   {
    "title": "ミク、ルカ、MEIKOたちが浮世絵で描かれる♪ 初音ミク×葛飾北斎が再びコラボ！ 人気イラストレーター・Rella描き下ろしビジュアルの新グッズ登場（アニメ！アニメ！） - Yahoo!ニュース",
-   "title_ko": "미쿠, 루카, MEIKO들이 우키요에로 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터·Rella 신작 비주얼의 새로운 상품 등장(애니메이션!애니메이션!) - Yahoo!뉴스",
+   "title_ko": "미쿠, 루카, MEIKO들이 우키요에 그려진다 ♪ 하츠네 미쿠 × 카츠 시카 호쿠사이가 다시 콜라보레이션! 인기 일러스트레이터·Rella 신작 비주얼의 새로운 상품 등장(애니메이션!애니메이션!) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Zmx5bjBqSlZsZjRZUHZYdk1nWDQzZHRLVkJMR0E1OGZ3YUxwbkRwdDFqbWlvTkZrS3Q0VFh5VDFCNnFxcTJCMFJlQkItcS1vdUt0UkxzM1FVVnhvOHFOSnB5R19CQlZJd3ZuRmM1RW1wQXctRnluMFkwN3Joc1U?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1036,19 +1010,6 @@
    "thumb": null,
    "date": "2026-07-13",
    "ts": 1783932982
-  },
-  {
-   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - 新浪网",
-   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZkFYbm9ZaWVkblZxcmcxM09rcXRGNkIzYTF4YW5JbGxUUGowT1JuSWlDUGx6cHlBLW9XQzdqM1dnZk1LQU43d3FwbF8zclJfOE1KV0VQQ3B1ckFLREtNWExJM1FHaHN5REN3bEs1VXR2bFh4aFlhd2pEYUNhOXc?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-13",
-   "ts": 1783932960
   },
   {
    "title": "Anime Chess Figures - Trend Hunter",
@@ -1247,7 +1208,7 @@
   },
   {
    "title": "Trails in the Sky Estelle and Modern Cafe Hatsune Miku Nendoroid Updates Shared - Siliconera",
-   "title_ko": "하늘의 흔적 Estelle과 Modern Cafe 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
+   "title_ko": "하늘의 길 에스텔과 모던 카페 하츠네 미쿠 넨도로이드 업데이트 공유 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pjM2QyVWlSTkQtWGk1Mzh1VWktcTdQWTl5eXZ3QllNVnliT2VFbENKbHk1X1YyX0NkS3RCTlV5LTJ0Q29HTTI3c2ZBNFhFVGhnZ1ZSUS1lVi1pTWFGOHVkQlBra2prekdJQjlqaTljMUd5bTl6R2tFX01rdFhHWnBPQkYwMEotS1pEQWw1eWFTSWpiSVpZV3hQdGRqcDhGdFFGeXM1bmtKZDg?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1293,6 +1254,45 @@
    "category": "goods",
    "type": "news",
    "lang": "ja",
+   "thumb": null,
+   "date": "2026-06-25",
+   "ts": 1782370800
+  },
+  {
+   "title": "【スガキヤ】80周年記念企画「初音ミク×スガキヤ」コラボレーションが7月2日（木）より始動！ - PR TIMES",
+   "title_ko": "【스가키야】80주년 기념 기획 “하츠네 미쿠×스가키야” 콜라보레이션이 7월 2일(목)부터 시동! - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdUtrRng2cmg5VWtILWFoT1F4QklkYi1kWGdSTDNwYnA3bHNMMkNWQ2Y4TmQtX3NwRkthMWVwVnZvelNiUWN1eWJWZ3RnODd6eTFTQWFmUWg1cjlZbG96eWF6V003VGhqT3c?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-06-25",
+   "ts": 1782370800
+  },
+  {
+   "title": "Persona5: The Phantom X 4.4版本上线！「初音未来」全球联动开启，同步展开P5X一周年庆典 - Media OutReach Newswire",
+   "title_ko": "Persona5: Phantom X 버전 4.4가 온라인에 출시되었습니다! \"하츠네 미쿠\" 글로벌 링키지 출시, P5X 1주년 기념 행사 동시 출시 - Media OutReach Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNWkN0V1RhN1ctby1qcDlILWxFZ1ZDNm9tQU9GNF9RRGVhdlJhbUJLdm03THFVVWVVd0FiOE85QXNYLTJwcnlzQi16SEFFZWpQNDFRWkg2RXp6QnUyMXhFd1hSMmY0U1ZwTDlNV2FXc0VnQl9WSlpwdElWcmVXSXJvRE14M2J4eUUtd0NFQTFhaDBaZUtBX3JNVkhMN0VacVJYSklCNEVHUWlJcTNhbjI5a0VYcEw1dkQ2TDJDekpxY05rSWtseWpIN2hDSENHRWFaVW9fNHRzTi1Pdi16N3l2Nk9yR3NYRnZ6Y0dhMU5pQ2lubEFsRmtoeXhnOVFfeWxjOEpiWkdlUGFEajBLSjBtOERZUmQ1ZkFGT1NaUDF3RmVXVDRQak9ZWW1sNXU3dnVjMVJlVkdZeERsdTMyN0ZEZGdHUVpNQmd4c0x1WlFUTFJPX01mTmdCNkdwUFlNajEwckZUelQ4OE1fZ0E2Q1c1VkIzU3hLQQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-06-25",
+   "ts": 1782370800
+  },
+  {
+   "title": "‘페르소나5: 더 팬텀 X’, 하츠네 미쿠 콜라보 이벤트 돌입 - 경향게임스",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84d085WGFMeE54UDVMTjRhVXM0bGpjRW5CZXdLQlV3NVVhc212WHRDcGI1SVNPUXRDdkJYa3kwVGw0VGhVcnpES3djR1VHUXZsbmpxcnVaNVFjMk5tWl9tLUVnUmdPekZyQnRyWg?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "goods",
+   "type": "news",
+   "lang": "ko",
    "thumb": null,
    "date": "2026-06-25",
    "ts": 1782370800
