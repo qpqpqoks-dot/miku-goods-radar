@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-20T14:01:24+00:00",
+ "updated": "2026-07-20T19:40:48+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7126},\"items\":[{\"gcode\":\"FIGURE-204931\",\"gname\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-204931.jpg\",\"thumb_alt\":\"FIGURE-204931.jpg\",\"thumb_title\":\"G.S.Collection Hatsune Miku GT Project Racing Miku 15th \\u0022Rhapsody\\u0022 2010-2025 1/7 Figure\",\"min_price\":30000,\"max_price\":30000,\"c_price_taxed\":30000,\"maker_name\":\"Good Smile Racing\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_ava",
-  "amiami": "http200/39457/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -531,19 +531,6 @@
    "ts": 1784536203
   },
   {
-   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 - インサイド",
-   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상 광택과 패브릭 메시 스타킹 어딘가에 가득 - 내부",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zNWhfR2ZFQWUtVmdyZ2JHRFh1ODZXOTVQbXdHeENWUHp2TnJmd2JvYTl4X3diZ1l2b2RuOU5FOWhNOGRLSHctOUgzZ1h5RVhuaVdFMU5SVkhrYnFMSmxxV2ptdExxbnJuNFE?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-19",
-   "ts": 1784473803
-  },
-  {
    "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載（インサイド） - Yahoo!ニュース",
    "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택이나 패브릭 그물 스타킹인 곳곳 가득(인사이드) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkMlVSYnNDSjZkNENLcktWeklVYXNab3hua3JlZXIzZGFQZUdZaFE0NFI5aU5rUmZOdEZ6OTlkeVY4SHpUQmZGdXhiWXFKYUtJOHJNRFgzUXBMSjdRYkx0WnlaTFF4M0hiUTJLbGF6LVZsSmc2T2Y2RmxMazlvdGM?oc=5",
@@ -557,9 +544,22 @@
    "ts": 1784473803
   },
   {
-   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 5枚目の写真・画像 - インサイド",
-   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상 광택과 패브릭 메시 스타킹 어딘가에 가득 5 번째 사진 · 이미지 - 내부",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPUmZ1Q3YzSjVXMmNpeGRJOENNT0o2THV4bzF2YmtLaUNxc2Z5YzR6T25KWjZxeENYVTJvdEQwUDlhbXQya2tlOHZnYldWOTg4RGJFNE5KeDhnQ2RKYXlpY2xNVEc2QkQzSzNmVTNEU3J0dlVUN1Nj?oc=5",
+   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 - インサイド",
+   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상 광택과 패브릭 메시 스타킹 어딘가에 가득 - 내부",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zNWhfR2ZFQWUtVmdyZ2JHRFh1ODZXOTVQbXdHeENWUHp2TnJmd2JvYTl4X3diZ1l2b2RuOU5FOWhNOGRLSHctOUgzZ1h5RVhuaVdFMU5SVkhrYnFMSmxxV2ptdExxbnJuNFE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-19",
+   "ts": 1784473803
+  },
+  {
+   "title": "バニースタイルの「初音ミク」フィギュアが再販！艶やかな衣装の光沢や布製の網タイツなどこだわり満載 6枚目の写真・画像 - インサイド",
+   "title_ko": "토끼 스타일의 \"하츠네 미쿠\"피규어가 재판매! 요염한 의상의 광택과 천의 메시 스타킹 어딘가 가득 6 번째 사진 - 이미지 - 내부",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3UWNjTGFUWVRpQ2FGUjBsaTBwM04wSnBzbWMzVUNNU0I4cDloU3FKTXZpMjNzaUt6UzZKaWdYcThrRUdtbWJzV1RZOGNUQjRmVmVDTVR2dzYtSnFzdUtTQlNNdjhwN3dOckozdjVkZUVvNXpPMS1R?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -674,19 +674,6 @@
    "ts": 1784273403
   },
   {
-   "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 2枚目の写真・画像 - インサイド",
-   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두 풀 피규어 7 월 발매 2 번째 사진 · 이미지",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sS1VsUDk5YTBZc3dVTnNvT3RHeWU1UlNDWXI3MEVpaWJlb2V3OG9QaEc0SVlzVEdMTWZjVUNObU5CVDd0aHd5NGwxTl9CNjd1dGNJZWFxQ3pxcGg4LVY5R0NZYkFUallZb3FDTG82ZHJwUUNWd01j?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-17",
-   "ts": 1784273403
-  },
-  {
    "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 5枚目の写真・画像 - インサイド",
    "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두가 풀 피규어 7 월 발매 5 번째 사진 · 이미지 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6azZkZ2o2Sk1jdzZqZFpGVURzcHBpWmU0UHJJSXU4ZEFuaWtrXzRoM0lDVkgwMm5GWEFQUUQxOHhPeFUxNkFKX0ZOMHVsbEg1Wmo0eFRJUmw4SHFWTlFTWU1iTUZzNWZBZHdfcm5wOVVuSTVCQVNn?oc=5",
@@ -703,6 +690,19 @@
    "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 3枚目の写真・画像 - インサイド",
    "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두가 풀 피규어 7 월 발매 3 번째 사진 · 이미지 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NX202eHdKRzhxUWdIN1k4VUhTdmtwdTFfTWRCQXdUQVBsel9EcGFSOUItUEY3ZWZQNnJkX0VMMDNSZzdtTzF1U1ZTM3BCWkFTQUF5QU53ZkJ0aklKem14Y3MxWXlOall3dmdVRC1NcGZrZHRiVmpv?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-17",
+   "ts": 1784273403
+  },
+  {
+   "title": "初音ミクや巡音ルカがプールで遊んでる！「初音ミク みんなでプールフィギュア」が7月発売 1枚目の写真・画像 - インサイド",
+   "title_ko": "하츠네 미쿠와 순음 루카가 수영장에서 놀고 있다! 하츠네 미쿠 모두가 풀 피규어 7 월 발매 첫 번째 사진 · 이미지 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9faUJtUGMwOGJzTGxHcE00U19FWXVjUGE3MmplclI2UTFsLWw4NjNRVkpyek1Wd1JoSWR6OVpnS0Q5YnV4SEV5ZGs5T01OYV9iYW9XWGxKWEI3V0pBOVNmdXBwd0xTX1FtSVFvaEhWczhldFI1cFNz?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
