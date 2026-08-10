@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-09T18:35:44+00:00",
+ "updated": "2026-08-10T01:26:16+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7180},\"items\":[{\"gcode\":\"FIGURE-206763\",\"gname\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-206763.jpg\",\"thumb_alt\":\"FIGURE-206763.jpg\",\"thumb_title\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"min_price\":36440,\"max_price\":36440,\"c_price_taxed\":36440,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_",
-  "amiami": "http200/39575/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -129,7 +129,7 @@
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
-   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 완성품 피규어",
+   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 컴플리트 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-200916",
    "source": "AmiAmi",
    "region": "jp",
@@ -337,7 +337,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -531,8 +531,8 @@
    "ts": 1786247618
   },
   {
-   "title": "マリン姿のサマーバージョン！セガプライズ サンリオ「初音ミクシリーズ XStellar ‐初音ミク×シナモロール‐」 - dtimes.jp",
-   "title_ko": "해양 차림의 여름 버전! 세가 프라이즈 산리오 \"하츠네 미쿠 시리즈 XStellar - 하츠네 미쿠 × 시나모롤 -\" - dtimes.jp",
+   "title": "マリン姿のサマーバージョン！セガプライズ サンリオ「初音ミクシリーズ XStellar ‐初音ミク×シナモロール‐」 - Dtimes",
+   "title_ko": "해양 차림의 여름 버전! 세가프라이즈 산리오 「하츠네 미쿠 시리즈 XStellar -하츠네 미쿠×시나모롤-」 - Dtimes",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nOGRXV2FzeWJuNWFPZ3VIa3Z4T1NydktBQk9lNmp3RU1mamR3WXVHc2Q5cm5kem93ZUtFS19oRnlXM0YtRUE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -558,7 +558,7 @@
   },
   {
    "title": "中国の伝統的な楽器「琵琶」を持った初音ミクの1/7スケールフィギュアが再販！『十面埋伏』がテーマの凛々しいビジュアルに注目！Amazonで予約受付中 - 電撃ホビーウェブ",
-   "title_ko": "중국의 전통적인 악기 「비와」를 가진 하츠네 미쿠의 1/7 스케일 피규어가 재판매! 『십면 매복』이 테마의 늠름한 비주얼에 주목! 아마존에서 예약 접수 중 - 전격 취미 웹",
+   "title_ko": "중국의 전통적인 악기 「비와」를 가진 하츠네 미쿠의 1/7 스케일 피규어가 재판매! 「십면 매복」이 테마의 늠름한 비주얼에 주목! 아마존에서 예약 접수 중 - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wbk93OHc3YUQ4eVhLNVl5YldYNFBxT2V4Mi02SFRLV3loNEZZVmQzQ080eTNobmN2WDlndk9Ic0tGWGIxWEhyWHBUTjJGYndZ?oc=5",
    "source": "Google News 日",
    "region": "cn",
@@ -635,8 +635,8 @@
    "ts": 1785986400
   },
   {
-   "title": "初音ミクとのコラボSecret Lairのコマンダーデッキ「Secret Lair Commander Deck: Hatsune Miku」の内容が公開 - イゼ速。",
-   "title_ko": "하츠네 미쿠와의 콜라보레이션 Secret Lair의 커맨더 덱 「Secret Lair Commander Deck: Hatsune Miku」의 내용이 공개 - 이제속.",
+   "title": "初音ミクとのコラボSecret Lairのコマンダーデッキ「Secret Lair Commander Deck: Hatsune Miku」の内容が公開 - izzetmtgnews.com",
+   "title_ko": "하츠네 미쿠와의 콜라보레이션 Secret Lair의 커맨더 덱 「Secret Lair Commander Deck: Hatsune Miku」의 내용이 공개 - izzetmtgnews.com",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2WmZKTUktX1ZZcl9scnhkQjdRY0FIOVBOMVR2NlM0MUJQQ2JsVGo1TElqNGZxWDF6cERhVHc1Qmk4YlFCcmxJVjJxVkJnaUZESFpkWjZSNA?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -687,8 +687,8 @@
    "ts": 1785909300
   },
   {
-   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - 17173",
-   "title_ko": "\"매직 더 개더링\" 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - 17173",
+   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - news.17173.com",
+   "title_ko": "'매직 더 개더링' 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - news.17173.com",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZ1N1VWI0VllQUHV1SXpRZmhrVVFiUU1scy13VzAwdUx6OFc0WERyTDFjakkyaG53SmJiWjRTVFRIVkxlbmp1OXpLRTlDTURYNmE3Ukk4bFM2NWdMNWtwQmxweXM?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -724,6 +724,19 @@
    "thumb": null,
    "date": "2026-08-05",
    "ts": 1785894015
+  },
+  {
+   "title": "Secret Lair Commander Deck: Hatsune Miku Decklist - Magic: The Gathering",
+   "title_ko": "Secret Lair Commander 덱: 하츠네 미쿠 덱목록 - Magic: The Gathering",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NlZFkzUEhXSEhpOE9jd1p1U2xGS2J0TXdfN1BUNm5GREdqTUEzUHBMckdoa2tPRU9ITzBMcGVyYXNsalBkdXQzYW5PT2czM3VPRVc3dTFKM25DWExLcWJtRzROTHQyZXNHWXlPTGpZQTRoMGNoemJfdlRMU2otSlFrY0V5bDNRUW9hcktDYmRoU3pjb3FnQTExeEk?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "goods",
+   "type": "news",
+   "lang": "en",
+   "thumb": null,
+   "date": "2026-08-04",
+   "ts": 1785860393
   },
   {
    "title": "Magic's Next Secret Lair Commander Deck Is The Long-Rumored Hatsune Miku Collab - IGN",
@@ -857,7 +870,7 @@
   },
   {
    "title": "抱えるほどビッグサイズ！「初音ミク」1/3スケールフィギュアが、圧倒的なボリューム感 - インサイド",
-   "title_ko": "안을 정도로 빅 사이즈! 하츠네 미쿠 1/3 스케일 피규어가 압도적인 볼륨감 - 인사이드",
+   "title_ko": "안아줄수록 빅 사이즈! 하츠네 미쿠 1/3 스케일 피규어가 압도적인 볼륨감 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMWhVWGVKQloxNXBXT0o0NzA2Y2RGUENxeHhFT2JibVEtLUprY3VpazEzTkNUdEhhbW5UZGp6R09TSGppZkwwODRYZndDX0xFOWNkSndwWDI5Y1M4aFRKNGdqUExpWkdOWEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -922,7 +935,7 @@
   },
   {
    "title": "初音ミクの新作スマートフォン向けゲーム、2026年秋に配信決定！ | クリプトン・フューチャー・メディア株式会社のプレスリリース - PR TIMES",
-   "title_ko": "하츠네 미쿠의 신작 스마트폰용 게임, 2026년 가을에 전달 결정! | 크립톤 퓨처 미디어 주식회사 보도 자료 - PR TIMES",
+   "title_ko": "하츠네 미쿠의 신작 스마트폰용 게임, 2026년 가을에 전달 결정! | 크립톤 퓨처 미디어 주식회사 보도자료 - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUFhqell0eEVWRjlPQkZIVjh4TndOaEpNeWhjUlN4LWpvcTBmNDlJbG9mUzdOaFR4bFFYb1Q0cUhGVWwxRFBaWnZkeU5xUExiaTdLelM5RUV0MnhtdU5nNGxkLV9BUVE0QXc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -999,8 +1012,8 @@
    "ts": 1784444400
   },
   {
-   "title": "Hatsune Miku collaborates with Hokusai’s art in new Vocaloid ukiyo-e illustration series [Pics] - SoraNews24",
-   "title_ko": "하츠네 미쿠가 새로운 보컬로이드 우키요에 일러스트 시리즈에서 호쿠사이의 예술과 협력합니다 [사진] - SoraNews24",
+   "title": "Hatsune Miku collaborates with Hokusai’s art in new Vocaloid ukiyo-e illustration series [Pics] - soranews24.com",
+   "title_ko": "하츠네 미쿠는 새로운 보컬로이드 우키요에 일러스트 시리즈에서 호쿠사이의 예술과 협력합니다 [사진] - soranews24.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXhqZl9aRXBrNFJEdUhCX2FCSVhJYzktbWZieTNGbFVZUkUzSG5tc3FIQzVOM2JMQV9MbUdmN21mR2RsVVdzbFYzNGtlaDZoN25RdDhZcnhpWVhEbFN1N2l3cnBhd3cyVDNzZ1EwSDc3R2tPUmNxeFNKSlFIMmRWR3hKNS1ZbTZLTHFnb1E1Q2FlMnlubkZmOHdPaWhycXlBQ29MMnd5WmtDZU9jX05Cd3ZnNVphU05JTzg2WVBZbnJ2NjBYVWfSAcsBQVVfeXFMUEt2M1dLU3BrUC12ajNuZVlraEtkalBfWDVQQ1JVZHVVSzl2dGNaV2M4WnlaSS1QNFRRYnhta180czROZGhfbnUtZVlfQmJreUlUR1ktOTlRV2VObU56RVgtcXA3SnFyM1J1UjVGeUZXeHU5MG5ma25kM0pvZmtqd0FSY1VlVVFTR21DbTR1YTlFNktGbWtEVnFsRHRoRTAwd2QyR2FWYjlaS2NfdVgyc2JUdENOWlBnNkFxNjd1cThxcjk2Y1NWODlTUkU?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1025,8 +1038,8 @@
    "ts": 1783926000
   },
   {
-   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - 17173",
-   "title_ko": "CubyFun은 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드를 출시할 예정입니다 - 17173",
+   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - news.17173.com",
+   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - news.17173.com",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qY3hac0h0eHlzUjR2elFvc3Fockk3d21QOWlka3lXWlhEZ2Jic1ZPNDJnZnh2TGgyYzJEcm9CVGxpbHBxekdidjR1Mk96YkRqUEpUeEptOXN2ZURfQmJYa3NTMlA?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1051,8 +1064,8 @@
    "ts": 1783926000
   },
   {
-   "title": "Next Holiday Memories Hatsune Miku Figure Is a Gamer - siliconera.com",
-   "title_ko": "다음 휴일 추억 하츠네 미쿠 피규어는 게이머입니다 - Siliconra.com",
+   "title": "Next Holiday Memories Hatsune Miku Figure Is a Gamer - Siliconera",
+   "title_ko": "다음 휴일 추억 하츠네 미쿠 피규어는 게이머입니다 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzFNbXR0NnQxU29nZG9FdUdsWV9uUWVPQlBLYmc5Nnl3cDYtM3lUTkVscW5HZF9pUF9INm5pR2lfcXZRcndlNlBjU2p0MVZjSl9OWE9HWmRwajhNX2xnWVNsM3ptT3RHNGVJMUl1RzR0WHJvaEI0VTBTMng4VFBXVlZ1TWx3dE0?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1207,12 +1220,12 @@
    "ts": 1783148400
   },
   {
-   "title": "First Details and Trailer Revealed for a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More - IGN",
-   "title_ko": "하츠네 미쿠가 그라임스, 슬레이어 등과 함께 노래하는 새 EP의 첫 번째 세부 정보와 예고편 공개 - IGN",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY2VDanZjYWczMEtzWFJRbC1RNUZEcjFrdDlBa2FwN1E0NTQyTHdONV9TT0F5aU9vWDgxVDBxX2ozX2g2X0M2S2kzV0xXMnZIM0gwVXVqRzZ3MmkyUzZoSkUzWm5XVlZXenlOZFZubHc0VFJIbXV5aXRQaU1HNEhsaVJfblExVFQxM1VFb1VIaUdlOWxoa0pMR05BMy1OU1hiTWlxZnVEVkdnbTg2SHBVX29mQzBxZi0zRU5EQklZYTFUcjItenBUT19rNGRGdFdMRTZJU1pCQlRkbFhlbWtGS3A3R1k1aHVFcVUyaUlxWEpWeTNBQ2xCbHdNUk9WdVdBV3JJbkZIaWNXbjZPdFE?oc=5",
+   "title": "Flower Fairy Camellia Hatsune Miku Noodle Stopper Figure Is Striking - Siliconera",
+   "title_ko": "꽃의 요정 동백 하츠네 미쿠 누들 스토퍼 피규어가 인상적입니다 - Siliconra",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVlCQ1EyYlpucnRxdk5lOFdLODhDQmNkd283YmFjSEtmbVp5UGd2NHlVRktYdTFpSXlTYWxGMWJOamh6ZzZESzBHQ3JNdU9KeFdmT2FTeDFONzBIUDZtcTE2OXhhSU5aRmhZb3N5aExqRnVJeDNOQlRYLU1XS1VjMjVSRTlKTmxyOWdYaGNqRTBHX3lMZXBsUkFEcU8?oc=5",
    "source": "Google News 英",
    "region": "global",
-   "category": "goods",
+   "category": "figure",
    "type": "news",
    "lang": "en",
    "thumb": null,
@@ -1220,12 +1233,12 @@
    "ts": 1783148400
   },
   {
-   "title": "Flower Fairy Camellia Hatsune Miku Noodle Stopper Figure Is Striking - siliconera.com",
-   "title_ko": "꽃의 요정 동백 하츠네 미쿠 누들 스토퍼 피규어가 인상적입니다 - Siliconra.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVlCQ1EyYlpucnRxdk5lOFdLODhDQmNkd283YmFjSEtmbVp5UGd2NHlVRktYdTFpSXlTYWxGMWJOamh6ZzZESzBHQ3JNdU9KeFdmT2FTeDFONzBIUDZtcTE2OXhhSU5aRmhZb3N5aExqRnVJeDNOQlRYLU1XS1VjMjVSRTlKTmxyOWdYaGNqRTBHX3lMZXBsUkFEcU8?oc=5",
+   "title": "First Details and Trailer Revealed for a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More - IGN",
+   "title_ko": "하츠네 미쿠가 그라임스, 슬레이어 등과 함께 노래하는 새 EP의 첫 번째 세부 정보와 예고편 공개 - IGN",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY2VDanZjYWczMEtzWFJRbC1RNUZEcjFrdDlBa2FwN1E0NTQyTHdONV9TT0F5aU9vWDgxVDBxX2ozX2g2X0M2S2kzV0xXMnZIM0gwVXVqRzZ3MmkyUzZoSkUzWm5XVlZXenlOZFZubHc0VFJIbXV5aXRQaU1HNEhsaVJfblExVFQxM1VFb1VIaUdlOWxoa0pMR05BMy1OU1hiTWlxZnVEVkdnbTg2SHBVX29mQzBxZi0zRU5EQklZYTFUcjItenBUT19rNGRGdFdMRTZJU1pCQlRkbFhlbWtGS3A3R1k1aHVFcVUyaUlxWEpWeTNBQ2xCbHdNUk9WdVdBV3JJbkZIaWNXbjZPdFE?oc=5",
    "source": "Google News 英",
    "region": "global",
-   "category": "figure",
+   "category": "goods",
    "type": "news",
    "lang": "en",
    "thumb": null,
@@ -1283,19 +1296,6 @@
    "thumb": null,
    "date": "2026-07-03",
    "ts": 1783062000
-  },
-  {
-   "title": "初音未来学生制服手办公开_新浪新闻 - 新浪网",
-   "title_ko": "하츠네 미쿠 학생복 수공예품 출시_Sina News - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04czlBN0lRNUU2ZVI5VjFEcUl3LVR5MkRET1JkVG5mODRrTmw3YVFIOHVnTF8xa3pCZXNOenhmampSd3dnbVZZMDF3bVlqa3pGQnZNNWwzZjBvMW1QeWI3dUhaUQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-02",
-   "ts": 1782975600
   }
  ]
 }
