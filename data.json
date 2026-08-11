@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-11T01:24:26+00:00",
+ "updated": "2026-08-11T07:03:02+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7174},\"items\":[{\"gcode\":\"FIGURE-206763\",\"gname\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-206763.jpg\",\"thumb_alt\":\"FIGURE-206763.jpg\",\"thumb_title\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"min_price\":36440,\"max_price\":36440,\"c_price_taxed\":36440,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_",
-  "amiami": "http200/39528/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -103,7 +103,7 @@
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
-   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 컴플리트 피규어",
+   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-200916",
    "source": "AmiAmi",
    "region": "jp",
@@ -324,7 +324,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -518,8 +518,47 @@
    "ts": 1786411427
   },
   {
+   "title": "『MTG』と「初音ミク」のコラボデッキ「Secret Lair Commander Deck: Hatsune - ニコニコニュース",
+   "title_ko": "\"MTG\"와 \"하츠네 미쿠\"의 콜라보 덱 \"Secret Lair Commander Deck : Hatsune - Nico Nico News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0T2VzTU9OMTlscll0YUNUQzB4N2NuaVVyc1RSS3VLd21WSDl6SzN3N2E3OC10MUhzQzRleUU3Wk16ZlQwOWg3ZkhhdmdJWGpNYk55dmdXbDhCU3NONkZWWnd2cjdzVmZhRFYtd3VfTldDVmxmbkdEQmRZZw?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-11",
+   "ts": 1786430534
+  },
+  {
+   "title": "【MTG】初音ミク統率者デッキが楽天で受注販売スタート。描き下ろしイラストの特別カード多数収録【24時間限定】 - ファミ通",
+   "title_ko": "【MTG】하츠네 미쿠 통솔자 덱이 라쿠텐에서 수주 판매 스타트. 신작 일러스트의 특별 카드 다수 수록【24시간 한정】 - 패미통",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQTcyakRMaHJQdTVmb2tiaTdXVXB1Yk10bHFfOGs3RHJ3ZE9sZ1ZEcktpLUpNa1VHRW5KQkNpLTJ5VFVMQjN6OG1lRHJ6VzdwMlhvd3hibw?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-11",
+   "ts": 1786420500
+  },
+  {
+   "title": "数量限定！《MTG×初音ミク》初の構築済みデッキが本日12：30より販売開始。24時間限定の受注販売も - 電撃オンライン",
+   "title_ko": "수량 한정! 《MTG×하츠네 미쿠》 최초의 구축이 끝난 덱이 오늘 12:30부터 판매 개시. 24시간 한정 주문 판매도 - 전격 온라인",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QRm5Rd0M3VEtKYmJPYWhLX3hzMUh2eDZTZzdhZkRXd01pcmROUXUwcGRta1o4dkVYdUszcHJTTjFnSERDZ21WUmlIaGhOakNNTVVNVWhOSFhkQQ?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-11",
+   "ts": 1786418100
+  },
+  {
    "title": "海洋堂『初音ミク 青龍Ver. 1/7スケールフィギュア』清らかな水面に舞い降りる神秘の姿を再現！ - 玩具人 TOY PEOPLE",
-   "title_ko": "가이요도 『하츠네 미쿠 청룡 Ver. - 장난감 사람 TOY PEOPLE",
+   "title_ko": "카이요도 『하츠네 미쿠 청룡 Ver. - 장난감 사람 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JWnlWU0pEZDhEUmwxeC1zanpjYWNCTWdicG5JbjZVQ0tfS29zYTg4cURPcE1qV0dIY2FkazM2LXBpM04tTmtFZUYyOFZMR0J5?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -597,7 +636,7 @@
   },
   {
    "title": "中国の伝統的な楽器「琵琶」を持った初音ミクの1/7スケールフィギュアが再販！『十面埋伏』がテーマの凛々しいビジュアルに注目！Amazonで予約受付中 - 電撃ホビーウェブ",
-   "title_ko": "중국의 전통적인 악기 「비와」를 가진 하츠네 미쿠의 1/7 스케일 피규어가 재판매! 「십면 매복」이 테마의 늠름한 비주얼에 주목! 아마존에서 예약 접수 중 - 전격 취미 웹",
+   "title_ko": "중국의 전통적인 악기 「비와」를 가진 하츠네 미쿠의 1/7 스케일 피규어가 재판매! 『십면 매복』이 테마의 늠름한 비주얼에 주목! 아마존에서 예약 접수 중 - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wbk93OHc3YUQ4eVhLNVl5YldYNFBxT2V4Mi02SFRLV3loNEZZVmQzQ080eTNobmN2WDlndk9Ic0tGWGIxWEhyWHBUTjJGYndZ?oc=5",
    "source": "Google News 日",
    "region": "cn",
@@ -662,7 +701,7 @@
   },
   {
    "title": "开元棋牌网站入口×初音未来联名外设开售：颜值与性能双在线，桌搭玩家不容错过-TGBUS - 电玩巴士",
-   "title_ko": "Kaiyuan 체스와 카드 웹사이트 입구",
+   "title_ko": "Kaiyuan 체스와 카드 웹사이트 포털",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XR2RoMlFNd2lXZkVNRTJOOFdEQ3AwVUF0RzN6NGZENmR1bGt5dnFUSXFCZm1XY0cyWnY2NHZsbUVjdkRtTG16b1Zhb3BZTE90aFc1YmM4Z25Tdld2RWp0YTM5RXFuSFE?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -713,21 +752,8 @@
    "ts": 1785913599
   },
   {
-   "title": "【MTG】初音ミクの統率者デッキの受注生産が24時間限定で実施。楽天ブックスでは8月11日に開始。KEI、八三、さいとうなおきら描き下ろしのカードデザインも公開 - ファミ通",
-   "title_ko": "【MTG】하츠네 미쿠의 통율자 덱의 수주 생산이 24시간 한정으로 실시. 라쿠텐 북스에서는 8월 11일에 개시. KEI, 야조, 사이토 우나 오키라 신작 카드 디자인도 공개 - 패미통",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52eDVCQk9HR1k5a0Q5a0VxQ3dKdTJpbmFmSUFBalVhRGV2eWJWTjVFSVl4UFJqQUNTc3Vrb3dqR2FEOWxMMWRyY3IxM2hQd3dxcl8taU1pRQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785909300
-  },
-  {
-   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - news.17173.com",
-   "title_ko": "'매직 더 개더링' 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - news.17173.com",
+   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - 17173",
+   "title_ko": "\"매직 더 개더링\" 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - 17173",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZ1N1VWI0VllQUHV1SXpRZmhrVVFiUU1scy13VzAwdUx6OFc0WERyTDFjakkyaG53SmJiWjRTVFRIVkxlbmp1OXpLRTlDTURYNmE3Ukk4bFM2NWdMNWtwQmxweXM?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -737,32 +763,6 @@
    "thumb": null,
    "date": "2026-08-05",
    "ts": 1785899076
-  },
-  {
-   "title": "「初音ミク 夜空プログラム 2026」AR音楽花火・MR体験など追加企画を公開 8月5日より各種チケット販売開始 - PR TIMES",
-   "title_ko": "하츠네 미쿠 밤하늘 프로그램 2026 AR 음악 불꽃놀이, MR 체험 등 추가 기획 공개 8월 5일부터 각종 티켓 판매 개시 - PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1heGtwTEVLd3k4b21KNDM3MEFLRXhvcXAwcV9saFlwWEMxVkFtNFBtTERybXpuQjc1VlJWaGdESXdSbVYxZkJzLTRGWThJZndBMklpMjNHakhtSHNjVDJ2SWZRaml4ekFxTnc?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785898801
-  },
-  {
-   "title": "“フライング転売で150万円落札”だった『マジック：ザ・ギャザリング』の「初音ミク」コラボデッキ、「受注生産」実施へ。誰でも2万5000円くらいで買える - AUTOMATON",
-   "title_ko": "“플라잉 전매로 150만엔 낙찰”이었던 “매직:더 개더링”의 “하츠네 미쿠” 콜라보 덱, “수주 생산” 실시에. 누구나 2만 5000엔 정도로 살 수 있다 - AUTOMATON",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83LUN3ODdmcEZhemttLXBZYllsbEFxSDJ2R0t0QmtoTE9NQm55ZWIyelJEQ0xnNjRrZEdWVmNES0ZfREE3eVp2cWhIb1EteXk5cGRLRzRNVDZYZDNvVWo4bWZ0ZnpXejB4bHJISg?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785894015
   },
   {
    "title": "初音ミクとのコラボSecret Lairのコマンダーデッキ「Secret Lair Commander Deck: Hatsune Miku」の内容が公開 - イゼ速。",
@@ -778,8 +778,8 @@
    "ts": 1785864824
   },
   {
-   "title": "Magic 下一款 Secret Lair 指挥官套牌正是传闻已久的 Hatsune Miku 联动 - news.17173.com",
-   "title_ko": "Magic의 다음 Secret Lair Commander 덱은 다름 아닌 오랫동안 소문이 자자했던 하츠네 미쿠 콜라보레이션입니다 - news.17173.com",
+   "title": "Magic 下一款 Secret Lair 指挥官套牌正是传闻已久的 Hatsune Miku 联动 - 17173",
+   "title_ko": "Magic의 다음 Secret Lair Commander 덱은 바로 오랫동안 소문이 자자했던 하츠네 미쿠 크로스오버인 17173입니다.",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kNFFnYzAzMmlIQWVNa0lHRFBPZmtUZVJ2RmZvZmoySGFYT2xpRmFuc0lIdFYzYm1iZ255dXNYOFJQa3J4TjEzVWkwTkR6NUdBNDVENG1qMG1ocmFwdzlhT25ZUUNLUQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -830,8 +830,8 @@
    "ts": 1785835260
   },
   {
-   "title": "Hatsune Miku: Colorful Stage! Heads Back to Animate Stores This August With New Fair and Collab - GamerBraves",
-   "title_ko": "하츠네 미쿠: 다채로운 무대! 올 8월 새로운 박람회 및 콜라보를 통해 Animate 매장으로 돌아갑니다 - GamerBraves",
+   "title": "Hatsune Miku: Colorful Stage! Heads Back to Animate Stores This August With New Fair and Collab - gamerbraves.com",
+   "title_ko": "하츠네 미쿠: 다채로운 무대! 올 8월 새로운 박람회와 콜라보를 통해 Animate 매장으로 돌아갑니다 - gamerbraves.com",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnotVFlyc2wtbC1nWndmUXpoWi1jeklVak1PMFB2dkJBNUxwYUptXzlPRDY5OFRsUExDeWZfdU8tdl9XWDhkdmFEQzNHRDRjbjZTWUZ2bEpQM0NDY3BUNFRrbEFYaGhJYkViWG11UWU0dVY3QUVHQnBYQndwSTZZbjBNUHRYSDV4QWdkeExHZEdvV0Y5R3RpQzEtMF9CX1IzOXEzaXpTNkpvN0xPbGMtUDZzZXo2QTV6NTVOZ3RhTQ?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -843,9 +843,9 @@
    "ts": 1785822386
   },
   {
-   "title": "『初音ミク「マジカルミライ 2026」』でピアプロキャラクターズの新作グッズが発売！ 初音ミクたちの魅力あふれるアイテムはマストバイ!! - PR TIMES",
-   "title_ko": "“하츠네 미쿠 “마법의 미라이 2026””에서 피어 프로 캐릭터즈의 신작 상품이 발매! 하츠네 미쿠들의 매력 넘치는 아이템은 마스트바이!! - PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12R2ZhZ3ZSeklHdXV3d05DYllnS0xjc280TUlSXzJkdF94d3cwYlBlMnVmTnlMRGtia3dIMFJ5eUplb2MwVTRfOXI0V2tETjhGOXJpLTFhamxSSEYtNHAwTWx5OHNjMFBRN1E?oc=5",
+   "title": "『初音ミク「マジカルミライ 2026」』でピアプロキャラクターズの新作グッズが発売！ 初音ミクたちの魅力あふれるアイテムはマストバイ!! - eeo",
+   "title_ko": "“하츠네 미쿠 “마법의 미라이 2026””에서 피어 프로 캐릭터즈의 신작 상품이 발매! 하츠네 미쿠들의 매력 넘치는 아이템은 마스트바이!! - eeo",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MN2ZrUUpfZmEyNEppaldOYTN1bk9CX3pWMUdIQkNhd2tNX0dGam1ER3VZc0NlLTBqenYyS1Zob2ZxeDRjVDBUQ3JiZHB0NlJLTjBHSw?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -853,7 +853,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-08-03",
-   "ts": 1785726001
+   "ts": 1785726281
   },
   {
    "title": "初音ミク 『Y2K』テーマの100円ショップ 第5弾グッズ登場! - コラボカフェ",
@@ -872,19 +872,6 @@
    "title": "待望のコラボ第5弾！ワッツ×「初音ミク」限定グッズが新登場 - PR TIMES",
    "title_ko": "대망의 콜라보레이션 제5탄! 와츠×「하츠네 미쿠」한정 상품이 신등장 - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tT0ljQTIxV1lkbi1HY2pmTmZuYmlTWWZTaDNfYW44dllNOHVVWnZXdUdRMHBWMi00N0N2MGNCVU4tZXVXdzNHdDhxckxERDVodk9zVEhHYWVnckV5VFNlbThtczZFN0dGUWc?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-30",
-   "ts": 1785394800
-  },
-  {
-   "title": "「初音ミク」100円ショップコラボグッズ第5弾が7月30日頃発売！Y2K制服コーデのアクスタ・スクバ風ポーチが尊い - にじめん",
-   "title_ko": "「하츠네 미쿠」100엔 숍 콜라보 상품 제5탄이 7월 30일경 발매! Y2K 유니폼 코데의 악스타 스쿠바풍 파우치가 소중하다 - 니지멘",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaSFlTSUduOWx1WVVkbWtabldZb0ZXX0s0akFSd2RzM0FpenFNbkZLOUp6RnVoM0hJRXB0clBqc1VJSkdDVENXWDBpR21qR1FFZGVPSV8wTQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -919,19 +906,6 @@
    "thumb": null,
    "date": "2026-07-29",
    "ts": 1785308400
-  },
-  {
-   "title": "抱えるほどビッグサイズ！「初音ミク」1/3スケールフィギュアが、圧倒的なボリューム感 - インサイド",
-   "title_ko": "안아줄수록 빅 사이즈! 하츠네 미쿠 1/3 스케일 피규어가 압도적인 볼륨감 - 인사이드",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMWhVWGVKQloxNXBXT0o0NzA2Y2RGUENxeHhFT2JibVEtLUprY3VpazEzTkNUdEhhbW5UZGp6R09TSGppZkwwODRYZndDX0xFOWNkSndwWDI5Y1M4aFRKNGdqUExpWkdOWEE?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-07-26",
-   "ts": 1785049200
   },
   {
    "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色 - 新浪网",
@@ -1013,7 +987,7 @@
   },
   {
    "title": "絹谷ゆたか氏が描き下した「初音ミク Birthday2026 フィギュア Star Dreamy ver.」がタイトーのプライズ「AMP＋」で登場決定！ - Yahoo!ニュース",
-   "title_ko": "실크야 유타카씨가 그려낸 「하츠네 미쿠 Birthday2026 피겨 Star Dreamy ver.」가 타이토의 프라이즈 「AMP+」로 등장 결정! - Yahoo! 뉴스",
+   "title_ko": "실크야 유타카 씨가 그려낸 「하츠네 미쿠 Birthday2026 피겨 Star Dreamy ver.」가 타이토의 프라이즈 「AMP+」로 등장 결정! - Yahoo! 뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RY29NUHRXclM4eXlvS0d0eDV6TkRtdjVSTnNJdnVFQmpPLWd1R3ZQdG9lOGJVWVUxekFGM29mVDNxQXlfbFZWSXFoVjBndDl3OG5CUmY4N2RIQmRmcy1tY0kweWhCbmlvMGZsX2lJeXVCSzVYLVBZeXh3Q08wQVk?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1036,6 +1010,19 @@
    "thumb": null,
    "date": "2026-07-20",
    "ts": 1784530800
+  },
+  {
+   "title": "抱えるほど大きい！「初音ミク」が1/3スケールでフィギュア化、衣装の細かな装飾まで圧倒的なボリュームで再現 - インサイド",
+   "title_ko": "안아줄 정도로 크다! 「하츠네 미쿠」가 1/3스케일로 피겨화, 의상의 섬세한 장식까지 압도적인 볼륨으로 재현 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sUmQwZ2VKWUMtMjJTdkw4VHdnV0hyWUlxWmhlR1o4TU9ZYzZKbVB0amE3OERRZmx6R1FXdFg1aDRUalNLcy1aakk1WDZFYnB3RUNkdkpzY0dvUWgzeHpxX09QRVZiZnRyUVE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-19",
+   "ts": 1784444400
   },
   {
    "title": "夏季期間のカフェ「みらい食堂 一莉」の営業について（7/20～8/31） - mirai-ra.jp",
@@ -1077,8 +1064,8 @@
    "ts": 1783926000
   },
   {
-   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - news.17173.com",
-   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - news.17173.com",
+   "title": "CubyFun 将推初音未来联名口袋音乐键盘，支持丰富音色 - 17173",
+   "title_ko": "CubyFun은 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드를 출시할 예정입니다 - 17173",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qY3hac0h0eHlzUjR2elFvc3Fockk3d21QOWlka3lXWlhEZ2Jic1ZPNDJnZnh2TGgyYzJEcm9CVGxpbHBxekdidjR1Mk96YkRqUEpUeEptOXN2ZURfQmJYa3NTMlA?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1168,8 +1155,8 @@
    "ts": 1783321200
   },
   {
-   "title": "日企TANITA推出初音未来联名血压计，首发语音指导功能 - 凤凰网科技",
-   "title_ko": "일본 회사 TANITA, 최초의 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - Ifeng Technology",
+   "title": "日企TANITA推出初音未来联名血压计，首发语音指导功能 - tech.ifeng.com",
+   "title_ko": "일본 회사 TANITA, 최초로 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압 모니터 출시 - tech.ifeng.com",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jcEZyNjRhcmpGaTQ4d3hzaUJKcWVvYzk0QUxCWTg3UW54WnVIOEx0QTZpSzdYaTdETlliTmZJNWFNX3YzWE04WmxMbk8?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1272,22 +1259,35 @@
    "ts": 1783148400
   },
   {
-   "title": "First Details and Trailer Revealed for a New EP Featuring Hatsune Miku Singing With Grimes, slayr, and More - IGN",
-   "title_ko": "하츠네 미쿠가 그라임스, 슬레이어 등과 함께 노래하는 새 EP의 첫 번째 세부 정보와 예고편 공개 - IGN",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPY2VDanZjYWczMEtzWFJRbC1RNUZEcjFrdDlBa2FwN1E0NTQyTHdONV9TT0F5aU9vWDgxVDBxX2ozX2g2X0M2S2kzV0xXMnZIM0gwVXVqRzZ3MmkyUzZoSkUzWm5XVlZXenlOZFZubHc0VFJIbXV5aXRQaU1HNEhsaVJfblExVFQxM1VFb1VIaUdlOWxoa0pMR05BMy1OU1hiTWlxZnVEVkdnbTg2SHBVX29mQzBxZi0zRU5EQklZYTFUcjItenBUT19rNGRGdFdMRTZJU1pCQlRkbFhlbWtGS3A3R1k1aHVFcVUyaUlxWEpWeTNBQ2xCbHdNUk9WdVdBV3JJbkZIaWNXbjZPdFE?oc=5",
-   "source": "Google News 英",
-   "region": "global",
+   "title": "星街すいせいと初音ミクが『青のすみか』を熱唱！実写×アニメーションが織りなす超爽快なムービーが公開！「クーリッシュ」×「爽」新TVCM『冷たくて青い、夏がきた。』篇7月7日(火)より全国でオンエア！ - PR TIMES",
+   "title_ko": "호시가 스이세이와 하츠네 미쿠가 '파랑의 스미카'를 열창! 실사 × 애니메이션이 만들어내는 초상쾌한 무비가 공개! 「쿨리쉬」×「상쾌」 신TVCM 「차고 푸른, 여름이 왔다. 』편 7월 7일(화)부터 전국에서 온에어! - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQ2czeE1XeVJoekFMemxLbHhReV9ZM1g0MWFUZ0ZsNEtsNkQ1VFVQWU1XN3l1bzhoSGpOdks1bXJwV19hNWVhekdJYkZYMGNMaXhHUlUxUnN3Q20xVFJNTkFFZU5SZVc2aHc?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
    "category": "goods",
    "type": "news",
-   "lang": "en",
+   "lang": "ja",
    "thumb": null,
-   "date": "2026-07-04",
-   "ts": 1783148400
+   "date": "2026-07-03",
+   "ts": 1783062000
   },
   {
    "title": "初音未来|交响乐2025札幌公演ver.|gsc_新浪新闻 - Bison仓鼠 - 新浪网",
    "title_ko": "하츠네 미쿠|심포니 2025 삿포로 연주 ver.|gsc_Sina 뉴스 - Bison Hamster - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTy0yZGMzaVItUDJpRWF3TGczRnBvSlp0cXo3bGNoR0JvcFhXV0wwa1V5cTRnZDVkUkJ5UEY3YnR1dnpSWUVEY3hpbjFXVWdvWDdBamJ6NF9LVW1NSWtzenJEaw?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-03",
+   "ts": 1783062000
+  },
+  {
+   "title": "Tanita #初音未来# 联名款语音血压计 - 新浪网",
+   "title_ko": "타니타 # 하츠네 미쿠 # 공동 브랜드 음성 혈압계 - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQ0hiUjhNZGYzZExwMHZ3YUJHSzFxX3hsRk10YndBbEdmNW9SSG8yS2xFTzdldmJMSzNjTmVSekprdkRxMFhWUUdkTnVySzhqUy1jbmpJQ3QzallQUmlnQ2pNMA?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "goods",
