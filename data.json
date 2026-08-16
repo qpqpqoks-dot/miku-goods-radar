@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-16T06:34:19+00:00",
+ "updated": "2026-08-16T12:33:18+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7203},\"items\":[{\"gcode\":\"FIGURE-206763\",\"gname\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-206763.jpg\",\"thumb_alt\":\"FIGURE-206763.jpg\",\"thumb_title\":\"Character Vocal Series 01 Hatsune Miku: Shimian Maifu Ver. 1/7 Complete Figure\",\"min_price\":36440,\"max_price\":36440,\"c_price_taxed\":36440,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_",
-  "amiami": "http200/39615/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -259,7 +259,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -505,6 +505,19 @@
    "ts": 1786862027
   },
   {
+   "title": "グッドスマイルカンパニーのフィギュア最高峰ライン「Signature Class」に初音ミクが登場！「初音ミクシンフォニー 2025 札幌公演」のメインビジュアルを1/7スケールサイズで立体化 – Hobby JAPAN Web - Hobby JAPAN Web",
+   "title_ko": "굿 스마일 컴퍼니의 피규어 최고봉 라인 「Signature Class」에 하츠네 미쿠가 등장! 「하츠네 미쿠 심포니 2025 삿포로 공연」의 메인 비주얼을 1/7 스케일 사이즈로 입체화 – Hobby JAPAN Web - Hobby JAPAN Web",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpRXN0OE03aGZxNThnX2tnblI5UVFhU1ZER192SkNCQUNjMFk3QlZNLWdMcVNZU1V6cXVqLXdrUTZKVm51bVUtdg?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-16",
+   "ts": 1786870954
+  },
+  {
    "title": "「初音ミク」がBirthday2026を記念したフィギュアで展開！星空のような幻想的な装いが魅力！ - 電撃ホビーウェブ",
    "title_ko": "「하츠네 미쿠」가 Birthday2026을 기념한 피규어로 전개! 밤하늘과 같은 환상적인 옷차림이 매력! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HSzZuNTNqb05YQWtuNTl4bEFkTlo2Z3JEVjdaX2JYZTdPeS1jWnNneXdfcm1LWkpVVE5HeUFKYU5XTEh4VlV5Y2ZGWm9mSU5P?oc=5",
@@ -531,6 +544,19 @@
    "ts": 1786845600
   },
   {
+   "title": "「初音ミク」が花火&ドローンショーで佇む！クリアパーツ使用のツインテールと大きく広がる帯が幻想的 - インサイド",
+   "title_ko": "「하츠네 미쿠」가 불꽃 놀이 & 드론 쇼에서 부활! 클리어 파트 사용의 트윈 테일과 크게 퍼지는 띠가 환상적 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nMkh5YXNCcHFGSVVGVFBBLTNJaU1Eb3dEMHUxZEhNUW1KaDk3T0ZoWnVMbVBra3UzRm91cWRtaHZZUjJBNk9XWXM1Z2dWU0ZodklyYko0elNXM0cwSkQwQi1mR2JxUmQzZkE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-16",
+   "ts": 1786840203
+  },
+  {
    "title": "「初音ミク」が花火＆ドローンショーで佇む！クリアパーツ使用のツインテールと大きく広がる帯が幻想的（インサイド） - Yahoo!ニュース",
    "title_ko": "「하츠네 미쿠」가 불꽃놀이 & 드론 쇼에서 부활! 클리어 파트 사용의 트윈 테일과 크게 퍼지는 띠가 환상적(인사이드) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zVWlHek5hVW5yRl90TzdBZTNNeEtjeTRwTEdjSGM5MXpJejdpUUdEeElvSVFuNGE5cW5HWk9PTVJNWHlTUkRsRXpKMWpZNTdaR0s5SzhkSEdTSzNwSjNEX2ltdGZiWGJQZ0l0VmRvaU9NV1N3MmpHWGlMWldKc2M?oc=5",
@@ -542,19 +568,6 @@
    "thumb": null,
    "date": "2026-08-16",
    "ts": 1786840203
-  },
-  {
-   "title": "「初音ミク」が花火&ドローンショーで佇む！クリアパーツ使用のツインテールと大きく広がる帯が幻想的 - ｄメニューニュース",
-   "title_ko": "「하츠네 미쿠」가 불꽃 놀이 & 드론 쇼에서 부활! 클리어 파트 사용의 트윈 테일과 크게 퍼지는 띠가 환상적",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZnA1MTY5MUwwSVZibDBoQW1PZGR1OFcwelRmVDRtaGlheGtwODg2aVE1SE02ZnZwX0dlWl9lUTNGRGt6azZObzROMF93ekNJMGlkZVNfV3lIQ2hHUHVZZmdBa1lrUmVWcklJTUpZeGhpNFJZSUFCeldSTzJ1U2IxVTd30gGHAUFVX3lxTE55N2RScFZ3bUJUSVV6NFp6UFdIaGZmd0FHRGowV3dPOEE0dGZ0eERzeTFidGFlV0Y4QkRFRGFuV1FtOUJBVFhBb1dTSW1HMVZHMHdmZ2U0UDJJUjZUX2FJNy1NMklQSGhBRjlLdnAxajdXeERyRzUyaXQyX3BsN3d0YUVrcVRMSQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-08-16",
-   "ts": 1786840200
   },
   {
    "title": "らっと アズレン X Ratto7R ​ - 新浪网",
@@ -610,7 +623,7 @@
   },
   {
    "title": "「初音ミク」をグッスマ最高峰ラインでスケールフィギュア化！オーロラコート加工やパール塗装で美麗ビジュアルを徹底再現 - インサイド",
-   "title_ko": "「하츠네 미쿠」를 상품 최고봉 라인으로 스케일 피규어화! 오로라 코트 가공이나 펄 도장으로 아름다운 비주얼을 철저히 재현 - 인사이드",
+   "title_ko": "「하츠네 미쿠」를 상품 최고봉 라인으로 스케일 피규어화! 오로라 코트 가공이나 펄 도장으로 아름다운 비주얼을 철저 재현 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Snk2NWFtOEo0elFkbVZUMlY1VzZYa0F4UWVwbkFPT3RKYjROcFY1RklHc2Zqb1FJd3RtRG1lbVdQMThrVWQwa3lncEpFSEFTY2R6TXVUa2EwSTV2cTJzbDZWMnJiUVdidXc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -623,7 +636,7 @@
   },
   {
    "title": "「初音ミク」をグッスマ最高峰ラインでスケールフィギュア化！オーロラコート加工やパール塗装で美麗ビジュアルを徹底再現 - Yahoo!ニュース",
-   "title_ko": "「하츠네 미쿠」를 상품 최고봉 라인으로 스케일 피규어화! 오로라 코트 가공이나 진주 도장으로 아름다운 비주얼을 철저히 재현 - Yahoo!",
+   "title_ko": "「하츠네 미쿠」를 상품 최고봉 라인으로 스케일 피규어화! 오로라 코트 가공이나 진주 도장으로 아름다운 비주얼을 철저히 재현 - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmNjT2pSWUllcXROcmZFZ3F5djQ0RUpVMmtkcUt4Q2xsMm9uLWdVS1I4MmU3R1BMTVdRZnR4c3pNblZ6aXBUQXR5RDUtRlNtYkhnUEtZdGx0alpSd3M2Yml6N3U5elRxQlJEZzlnWkdRbkloN1BxMGg1VEJsam1TS0laWlNsWUI5b2xtSUhn?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -635,8 +648,8 @@
    "ts": 1786759203
   },
   {
-   "title": "初音ミク × グルーミー 8月22日よりドンキでコラボグッズ発売! - collabo-cafe.com",
-   "title_ko": "하츠네 미쿠 × 그루미 8 월 22 일부터 동키에서 콜라보 상품 발매! - collabo-cafe.com",
+   "title": "初音ミク × グルーミー 8月22日よりドンキでコラボグッズ発売! - コラボカフェ",
+   "title_ko": "하츠네 미쿠 × 그루미 8 월 22 일부터 동키에서 콜라보레이션 상품 발매!",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RX1lLMHQ0ZUdPeWExa3cyc0thWW1RRm9yRFk4RXdlaTcwem5IM3BpNXloUXd5WTVBNm9oQ3NtNmRTSFZKczdUQ3lvazRIa29IaGM2UmNLbFVrN3pvblFqdkkwWGczazQ3aW5HQ0lfcGxQZ1ZhSm1KaFFpUQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -649,7 +662,7 @@
   },
   {
    "title": "Grimes、さたぱんP、初音ミクという3つの異なるネット音楽文化がコラボした「Miku-Maxxing」をリリース！ - indienative",
-   "title_ko": "Grimes, 사타판 P, 하츠네 미쿠라는 3가지 다른 넷 음악 문화가 콜라보한 「Miku-Maxxing」을 릴리스! - indienative",
+   "title_ko": "Grimes, Satapan P, 하츠네 미쿠라는 3가지 다른 넷 음악 문화가 콜라보레이션한 「Miku-Maxxing」을 릴리스! - indienative",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDLUtNR2ZFb3lDS2o0WlAtRTJSZmh1NnNpdkZZSHRhYzFURHAta3Y3NEFkcy1QdTNzVnF1Q3IyMkFGQmVNcXV6dzh1OHZkYmdVd1VmYVdaN0ZtN3lMM3c?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -687,8 +700,8 @@
    "ts": 1786617837
   },
   {
-   "title": "万智牌初音未来联动套牌：官方反黄牛，现货依旧直接翻倍 - Sohu",
-   "title_ko": "Magic: The Gathering 하츠네 미쿠 링키지 덱: 공식 안티 스캘퍼, 현물 재고는 여전히 직접적으로 두 배입니다 - Sohu",
+   "title": "万智牌初音未来联动套牌：官方反黄牛，现货依旧直接翻倍 - 搜狐网",
+   "title_ko": "매직 하츠네 미쿠 연계 데크: 공식 안티 스캘퍼, 현물 재고는 여전히 두 배로 직접적으로 증가합니다 - Sohu.com",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnQyQ2hjZ0tqQWlXd0NlamMtSUZrSzFNUm9uWXhOZzNKbGJObnpPN2ppU2duYkd0VzltWHpUOUtvaW9pbkdyWDVyU0FXSXlLVGppWGtUa01GOXBUOHZnZElKU2dKeGxsLWY3NWxyRExhRkVKU3pLLWdZX0NJd3dZX1pxdW50RER3ang4bA?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -727,7 +740,7 @@
   },
   {
    "title": "Hatsune Miku EVOLVE Classical tuning \"The Nutcracker Suite\" Prize Figure Unveiled by Banpresto, Capturing a Dreamlike Dance! - 玩具人 TOY PEOPLE",
-   "title_ko": "하츠네 미쿠 EVOLVE 클래식 튜닝 \"The Nutcracker Suite\" 경품 피규어, Banpresto 공개, 꿈같은 춤 포착! - 玩具人 TOY PEOPLE",
+   "title_ko": "하츠네 미쿠 EVOLVE 클래식 튜닝 \"호두까기 인형 모음곡\" 경품 피규어, 반프레스토 공개, 꿈같은 춤 포착! - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xQUlRaWJHRkwtLS0yY3FvOF9fb2xzc0NhcWl6T18xaTl1blh4b2FtdldJeUNkb3g4Zk5GRklfZ1NRWkdzOHM0WFJJX3pHWl9R?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -740,7 +753,7 @@
   },
   {
    "title": "トミカプレミアムを積載できる「tomicaトランスポーター」がAmazonで予約受付中！トミカプレミアムRacing「グッドスマイル 初音ミク AMG 2024 Ver.」付き！ - 電撃ホビーウェブ",
-   "title_ko": "토미카 프리미엄을 적재할 수 있는 「tomica 트랜스포터」가 Amazon에서 예약 접수중! 토미카 프리미엄 Racing 「굿 스마일 하츠네 미쿠 AMG 2024 Ver.」 첨부! - 전격 취미 웹",
+   "title_ko": "토미카 프리미엄을 적재할 수 있는 「tomica 트랜스포터」가 Amazon에서 예약 접수중! 토미카 프리미엄 Racing \"굿 스마일 하츠네 미쿠 AMG 2024 Ver.\" 첨부! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3YTMxMHBuVS1KckpSOUZWb2lJNVo2NTFVUGx2SzJfVTg3ZVctRkJVSmNaaGdPWWg4NmllOHFOamIwTVdKS1pFSWJaRXZGRmxo?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -779,7 +792,7 @@
   },
   {
    "title": "なんて幻想的な「初音ミク」！「マジカルミライ 2026」メインビジュアルのフィギュアが魅力的 1枚目の写真・画像 - インサイド",
-   "title_ko": "얼마나 환상적인 「하츠네 미쿠」! 마법의 미라이 2026 메인 비주얼 피겨가 매력적인 첫 번째 사진 · 이미지 - 인사이드",
+   "title_ko": "얼마나 환상적인 「하츠네 미쿠」! 마법의 미라이 2026 메인 비주얼 피규어가 매력적인 첫 번째 사진 · 이미지 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLMHBWcHVFSUFFdXotUXhSald4QS1tZHVOU3NiaEt0Q0QtMi1LbEUtemQxNlpDNHFFUzBPbTIwYXl3bi1GcS1VQTIxNHlNUnp0SHpScHhFOWhtQnVPVmRDTmJ1elFtWENmV2loYy1iek0wMUhDUkxxUk13?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -805,7 +818,7 @@
   },
   {
    "title": "なんて幻想的な「初音ミク」！「マジカルミライ 2026」メインビジュアルのフィギュアが魅力的 5枚目の写真・画像 - インサイド",
-   "title_ko": "얼마나 환상적인 「하츠네 미쿠」! '매지컬 미라이 2026' 메인 비주얼의 피규어가 매력적인 5번째 사진·이미지 - 인사이드",
+   "title_ko": "얼마나 환상적인 「하츠네 미쿠」! '매지컬 미라이 2026' 메인 비주얼의 피겨가 매력적인 5번째 사진·이미지 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52d2JMSFEzc00yZWpLS00wWXd3VUlrZjFSV3FQMm51XzlFRllZYVhVd2RlbHlCOG91WFZkY2FHZXdZbHczR3BobVB3Z3VzSE15aHBpdnltZ0VsWWNURUlndmItYnpzUjBUd3pqRmFINkJxZnFRSG9j?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -922,7 +935,7 @@
   },
   {
    "title": "Magic 下一款 Secret Lair 指挥官套牌正是传闻已久的 Hatsune Miku 联动 - 17173",
-   "title_ko": "Magic의 다음 Secret Lair Commander 덱은 바로 오랫동안 소문이 자자했던 하츠네 미쿠 크로스오버인 17173입니다.",
+   "title_ko": "매직의 다음 Secret Lair Commander 덱은 바로 오랫동안 소문이 자자했던 하츠네 미쿠 크로스오버인 17173입니다.",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdUx3TXVicWllUUFFaFhuUm9CdmcyUHJ5TkRfUUNvd2hUUmEtbTdyN2RWZnB1YXM4LWlFR0Z5OFVpSkNHcWNNcjhSa2MxNHNJTmZmeUF0RkNrczcyaGdUcGhxTUM?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -973,8 +986,8 @@
    "ts": 1785740400
   },
   {
-   "title": "初音ミク 『Y2K』テーマの100円ショップ 第5弾グッズ登場! - collabo-cafe.com",
-   "title_ko": "하츠네 미쿠 「Y2K」테마의 100엔 숍 제5탄 상품 등장! - collabo-cafe.com",
+   "title": "初音ミク 『Y2K』テーマの100円ショップ 第5弾グッズ登場! - コラボカフェ",
+   "title_ko": "하츠네 미쿠 「Y2K」테마의 100엔 숍 제5탄 상품 등장! - 콜라보 카페",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDJKaFNGSGxwTlpxT1FuNEJFZksyN1Z1ZWZ5eUIzcGtpeXRTZFpqaGpmUFdreGI3STVra0t0Wkl1aThqODZENkhlbmxBQWtmYTZiWFdjLTB5T2lJM25KWmNWblllMjBfaU9mYUZhc1FmMG81d2xUMFQ0SEl0czJyRzBoV0o?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -999,8 +1012,8 @@
    "ts": 1785394800
   },
   {
-   "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色 - ent.sina.cn",
-   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - ent.sina.cn",
+   "title": "CubyFun将推初音未来联名口袋音乐键盘，支持丰富音色 - 新浪网",
+   "title_ko": "CubyFun, 풍부한 사운드를 지원하는 하츠네 미쿠 공동 브랜드 포켓 뮤직 키보드 출시 - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13aG5VcDlybzFPZ29BdnU3SmZuWnFWUEIwUi0wWVRwS2d3UU1sck9IUzh5QmFZR0c1OGF1ZG1oNnNyUDBKblhnaHVhUGhzeXBBbmF4VWI5RlpQZUozanluZmpycF9KWHF2WHhzZmJIemNTTW8?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1142,8 +1155,8 @@
    "ts": 1783580400
   },
   {
-   "title": "Hatsune Miku Plays Every Piece on the Board in This Six-Figure Chess Set - hypebeast.com",
-   "title_ko": "하츠네 미쿠는 이 6자형 체스 세트에서 보드의 모든 말을 연주합니다 -hybebeast.com",
+   "title": "Hatsune Miku Plays Every Piece on the Board in This Six-Figure Chess Set - Hypebeast",
+   "title_ko": "하츠네 미쿠는 이 6자형 체스 세트에서 보드의 모든 말을 플레이합니다 - Hypebeast",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1plRXE0ZlkxOE1LUUV4ZHNCTExtUXFZN1FDTVFCRWkyYnEzQUVsbjlYVWp4YkZVRGlMc0JVM055VDFSMDYxUG5CcG0tTnVDVnZqbExxZzlObHRMV2lVUWNLYkhseVhNSTJvMjd0THhSYkE4ZGhONkNfaTA2d0QwQQ?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1168,9 +1181,9 @@
    "ts": 1783321200
   },
   {
-   "title": "初音未来联名钢琴公开_新浪新闻 - 新浪网",
-   "title_ko": "하츠네 미쿠 공동 브랜드 피아노 출시_Sina News - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95QkJ3THFCTFdhMW0yRTZrdXlmRm5DYnU0RTVPMXB6ZFhfVEh5blpDTWQzV3VnNkJCN1dhdkdjdFU4MUdUNzh5eU1NMWlnN08xWmVtY1BTTzNSMXNqOFppZUlhOA?oc=5",
+   "title": "新浪网· - 新浪网",
+   "title_ko": "Sina.com - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tajhaSzlFMXc1VUhLN1FkdzM4S3FleXY0ZHhhZTNYSlVNbjZDVWsydFE2alFLeDVmVVR3eWFXTDE5QnlCUGxINGd2SHFTSmlOR2RKM2hTQ1NfTnoyQmFYWUFZQQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "goods",
@@ -1181,9 +1194,9 @@
    "ts": 1783234800
   },
   {
-   "title": "新浪网· - 新浪网",
-   "title_ko": "Sina.com - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tajhaSzlFMXc1VUhLN1FkdzM4S3FleXY0ZHhhZTNYSlVNbjZDVWsydFE2alFLeDVmVVR3eWFXTDE5QnlCUGxINGd2SHFTSmlOR2RKM2hTQ1NfTnoyQmFYWUFZQQ?oc=5",
+   "title": "初音未来联名钢琴公开_新浪新闻 - 新浪网",
+   "title_ko": "하츠네 미쿠 공동 브랜드 피아노 출시_Sina News - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95QkJ3THFCTFdhMW0yRTZrdXlmRm5DYnU0RTVPMXB6ZFhfVEh5blpDTWQzV3VnNkJCN1dhdkdjdFU4MUdUNzh5eU1NMWlnN08xWmVtY1BTTzNSMXNqOFppZUlhOA?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "goods",
@@ -1265,19 +1278,6 @@
    "source": "Google News 英",
    "region": "global",
    "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-07-04",
-   "ts": 1783148400
-  },
-  {
-   "title": "Party action game Hatsune Miku Starry Party announced for Switch 2, PC - Gematsu",
-   "title_ko": "파티 액션 게임 하츠네 미쿠 스타리 파티(Hatsune Miku Starry Party)가 Switch 2, PC용으로 발표되었습니다 - Gematsu",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmlTMVZYSjlfYzFpUUw4S3hzR1pHMC1DZDNuN0hLRTl4dGs3d21ici01VmpqdzRJSDVRWDEwQ2s3Rlpxa21Yb0JYaEU1Y3hPb0haYXZ2cjdGb1U0d25HQkR2Rkw5aDE4ZkpuOFFoX2lhSGR3OGtpdXg3TmpiVXVGd1N4WHBFRktqQkJZYzFzdW1wMkVJU09pUTRRX1dMUTExallZ?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
    "type": "news",
    "lang": "en",
    "thumb": null,
