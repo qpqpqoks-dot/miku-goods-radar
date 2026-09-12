@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-12T10:03:28+00:00",
+ "updated": "2026-09-12T14:57:42+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7386},\"items\":[{\"gcode\":\"FIGURE-206807\",\"gname\":\"Hatsune Miku Azure Dragon Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-206807.jpg\",\"thumb_alt\":\"FIGURE-206807.jpg\",\"thumb_title\":\"Hatsune Miku Azure Dragon Ver. 1/7 Complete Figure\",\"min_price\":27500,\"max_price\":27500,\"c_price_taxed\":27500,\"maker_name\":\"Kaiyodo\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_amiami_limited\":0,\"instock_flg\":0,\"order_closed_flg\":0,\"element_id\"",
-  "amiami": "http200/39551/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -259,7 +259,7 @@
   },
   {
    "title": "[Exclusive Sale] Lucrea Mobile Suit Gundam 45th Anniversary x Hatsune Miku Hatsune Miku x 00 Gundam 1/7 Complete Figure",
-   "title_ko": "[독점 세일] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
+   "title_ko": "[한정판매] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-192189",
    "source": "AmiAmi",
    "region": "jp",
@@ -337,7 +337,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -376,7 +376,7 @@
   },
   {
    "title": "[F:NEX x POPPRO] Hatsune Miku 2023 Chinese New Year Ver. 1/7 Scale Figure",
-   "title_ko": "[F:NEX x POPPRO] 하츠네 미쿠 2023 설날 Ver. 1/7 스케일 피규어",
+   "title_ko": "[F:NEX x POPPRO] 하츠네 미쿠 2023 구정 Ver. 1/7 스케일 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-150035",
    "source": "AmiAmi",
    "region": "jp",
@@ -505,19 +505,6 @@
    "ts": 1789207347
   },
   {
-   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第2回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
-   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제2회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XaXlja3BIU1lGNmxsYjRVNk5zSW0xNldTZzRFVWlpbkViRWdwV1hhNDFzUE9QVFBFVVZNQXMtdDRIQ0otMUJXVFhfN3MzanpqdUVBeGZQeV9obWtteXc1ejZ1RTdyMzZn?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-12",
-   "ts": 1789200102
-  },
-  {
    "title": "하츠네 미쿠 심포니: 10주년 기념 Ver. 1/7 스케일 피규어, 아미아미에서 예약 판매 시작 - haveagood-holiday.com",
    "title_ko": null,
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZG1DdHpVOTZTczFuRGZBajU2ckFyMTJCZlRuSTRnWWpjajVOWlVHRjBCd0NIb3lBMGNWOG9DTWtwYl9vckk4SUNBcTJCcnJOUVVIbEVoUF8xb2ZmVmRLU1FSY2tueEgzV19RWTl2Z0lJcXRVNUxPSGdoa2NyREF2TXpsd0NnWHhJeWZlaUNTNlV0aDVyTHFoOEMwSWlqS1k?oc=5",
@@ -544,21 +531,8 @@
    "ts": 1789137309
   },
   {
-   "title": "『キャラクター・ボーカル・シリーズ01 初音ミク』より、「初音ミクシンフォニー 10th Anniversary - ニコニコニュース",
-   "title_ko": "\"캐릭터 보컬 시리즈 01 하츠네 미쿠\"에서 \"하츠네 미쿠 심포니 10th Anniversary - Nico Nico News",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NWU50OGpGc0hSSk5KV1lVZEl6TWliLXlKZVJ5LWE1NDNXaGNFbjFtSkhjNDA5YU82LWRXN2RUVUx2NlN5eXhyYzQwbG1ueFFfMmhxTE1uNkVENV9HQWhIODF5dm1iejlZVHRBT2hXZllwRkZmTnc?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-11",
-   "ts": 1789126237
-  },
-  {
    "title": "初音ミク × 甲州印伝コラボ 新作の革小物や人気の長財布 1月発売! - コラボカフェ",
-   "title_ko": "하츠네 미쿠 × 고슈 인덴 콜라보레이션 신작 가죽 소품과 인기 장 지갑 1 월 발매! - 콜라보레이션 카페",
+   "title_ko": "하츠네 미쿠 × 고슈 인전 콜라보레이션 신작 가죽 소품과 인기 장 지갑 1 월 발매! - 콜라보레이션 카페",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzRDWXhSOFpiZXYyeW1zNmpwdGFpYjlad0tYam1veGhEQ0JlcTdJRnhkOGZwb3hlN2hzaW1MaTlPRWdxVnlVYTBzMkhUTWxPR1g5a1JNVDhmeTdxZVNQd1pOUmYwMmV4RVA2Tlc3TkQtN0ZVSDdqekpFdXowNGc0WHM5VzExRjVuM3g1X3EtMkZqY3oyWmItMlBpQ3JqRUphRFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -570,8 +544,21 @@
    "ts": 1789117580
   },
   {
+   "title": "『キャラクター・ボーカル・シリーズ01 初音ミク』より、「初音ミクシンフォニー 10th Anniversary Ver.」のフィギュアが登場。あみあみにて予約受付中。 - 時事ドットコム",
+   "title_ko": "「캐릭터 보컬 시리즈 01 하츠네 미쿠」에서 「하츠네 미쿠 심포니 10th Anniversary Ver.」의 피규어가 등장. 아미아미에서 예약 접수 중. - 시사닷컴",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93ZTJkNmdhSVdhcms1a0djN3RPVXZVcktWZHpLMlJmNXNUbUUyWFBoUmNfQUZpOUJzbnJqTE04UUEtSlppMk1EUDZWZFZaWC1hMTdLY1VRNDl5eDdNT015UlVxRnpQNEpTdGFj?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-11",
+   "ts": 1789101900
+  },
+  {
    "title": "初音ミクの体重計 タニタ｜全国のニュース｜Web東奥 - 東奥日報社",
-   "title_ko": "하츠네 미쿠의 무게 측정 타니 타 | 전국 뉴스 | 웹 히가시 오쿠 - 히가시 오쿠",
+   "title_ko": "하츠네 미쿠의 체중계 타니 타 | 전국 뉴스 | 웹 히가시 오쿠 - 히가시 오쿠",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XNUZJTmkwaEJ5Zlhpd0RkS3pFZ2pnLWt0VXd4bXU0OUp4V190c0l3SjF6bU8xNEUzOXdORVVGM1RkU213emdrMjV0akJlcXk5and6bHlrRWw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -609,6 +596,19 @@
    "ts": 1789093800
   },
   {
+   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第2回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
+   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제2회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XaXlja3BIU1lGNmxsYjRVNk5zSW0xNldTZzRFVWlpbkViRWdwV1hhNDFzUE9QVFBFVVZNQXMtdDRIQ0otMUJXVFhfN3MzanpqdUVBeGZQeV9obWtteXc1ejZ1RTdyMzZn?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-11",
+   "ts": 1789093740
+  },
+  {
    "title": "Hatsune Miku Shiteyanyo Meme Becomes Revoltech Figure - Siliconera",
    "title_ko": "하츠네 미쿠 시테야요 밈이 리볼텍 피규어가 되다 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbER3Unc4TnBiR21vcHVURFdmVzBVNXpJMUdPZjI4NDlzNmhGQjlQVDRmVVQ3Rk0ydGJGTmpael9yTDY3VUROczRKU0lBb0hLY05CWmNJUzlHcDB3VWVrNFNPSXZuYVRDdzhTREJHVzBZVGU3ZmpSaWZiZUtCYTlIVElMdnFoMXFX?oc=5",
@@ -635,19 +635,6 @@
    "ts": 1789038900
   },
   {
-   "title": "海洋堂 初音新品 #初音未来##初音未来[超话]# ​ - 新浪网",
-   "title_ko": "해양도 하츠네의 신제품 #半妖的夜## 하츠네 미쿠[超话]# - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51RlozY0xwRTdCY0RqcGd1SzY2U2xIYWRrNEk2d3J3WUpEMUVmTW1GSXhLNGVfaWJpQWVsQlRIejZlSFRwNmxJa0dCTTZValZtMHRDb3paWV9vRXhmN0p0SHNxSQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-09-10",
-   "ts": 1789025520
-  },
-  {
    "title": "「新学期」テーマの衣装デザインコンテスト最優秀賞作品をS-FIREが立体化 春にときめく「初音ミク」フィギュア、予約開始 - sega.jp",
    "title_ko": "「신학기」테마의 의상 디자인 콘테스트 최우수상 작품을 S-FIRE가 입체화 봄에 설레는 「하츠네 미쿠」피겨, 예약 개시",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9abnVBV3dkTzNpSkduYUVmTExpVnp6ODV6Q0VwX2RpTXBLZUFaX0RiN282aEFnRTNVbWdNYURTM204bWV0YjVLbk5YTzU3emR1aVRFWUx3?oc=5",
@@ -662,7 +649,7 @@
   },
   {
    "title": "ピアプロ公認派生キャラ「シテヤンヨ」がリボルテックから可動フィギュア化！初音ミクのツインテールが変化したスラリとした美脚（？）をフル可動で再現！ - 電撃ホビーウェブ",
-   "title_ko": "피아프로 공인 파생 캐릭터 「시테얀요」가 리볼텍으로부터 가동 피규어화! 하츠네 미쿠의 트윈 테일이 변화한 슬러리로 한 미각(?)을 풀 가동으로 재현! - 전격 취미 웹",
+   "title_ko": "피아프로 공인 파생 캐릭터 「시테얀요」가 리볼텍으로부터 가동 피규어화! 하츠네 미쿠의 트윈 테일이 변화한 슬라리로 한 미각(?)을 풀 가동으로 재현! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50dE1ydm0tM1c5N1ptSndONElfNC1WU0J6Zm50Ynh5MUJXS1pGWjltOTRvV182aU83UnI5MGVYZnR2LXF4N3VUVGxEdGlkLVBQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -726,9 +713,9 @@
    "ts": 1789009163
   },
   {
-   "title": "春の日ざしを感じる初音ミクのフィギュア「初音ミク 新学期 フィギュア」が9月10日より予約開始（HOBBY Watch） - Yahoo!ニュース",
-   "title_ko": "봄의 햇살을 느끼는 하츠네 미쿠의 피규어 「하츠네 미쿠 신학기 피규어」가 9월 10일부터 예약 개시(HOBBY Watch) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQUdsVlpOUk8xRGJRcFd4cWIzcXNxOURaOHR1MzJNMHl0VFFOSVdlUUVGV3B1WnRPcmIzRXFPc2stUjNGb0NHWGlqTXV5bHVXVklBOTVhN0Z3ME5XRjZncnlDQ1lpbE5uakwwYVpnVnFWZWwwc0lSVmFIZmpEZzQ?oc=5",
+   "title": "春の日ざしを感じる初音ミクのフィギュア「初音ミク 新学期 フィギュア」が9月10日より予約開始 (HOBBY Watch) - Yahoo!ニュース",
+   "title_ko": "봄의 햇살을 느끼는 하츠네 미쿠의 피규어 「하츠네 미쿠 신학기 피규어」가 9월 10일부터 예약 개시 (HOBBY Watch) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbzc4SkxlcE43YmltLWdzSUJ4U0MtLU5sRGQtZV9Gc0NjYzYxbGlaenExQlIxYmZNUk5XOGtIVFBmbnl3MDlTOFJyamJaVzlWY3M0WFJmZ3RrcnQ4eVJ4VTBNZmtOZEtRNm54c0g5UzFkOEEwcHd2bHZpcnZyay13dzJURmJHRGJLdXpJcU9B?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -791,8 +778,8 @@
    "ts": 1789002300
   },
   {
-   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby Watch",
-   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby Watch",
+   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby.watch.impress.co.jp",
+   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby.watch.impress.co.jp",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbUJ6TG95QVM4bFB4clVobTM1QkY4bXp2M3hMZFdJTzRQWkRrSk56bGtzUFRlZTZ4NFExNkppeUc2X29NcGV2c1NubDEwSnVlVmhqeDBoVFpidmNUWnp1cTVRaWozcGc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -960,19 +947,6 @@
    "ts": 1788783062
   },
   {
-   "title": "「プロジェクトセカイ カラフルステージ！feat.初音ミク」14th Singleが5タイトル発売決定！SHIBUYA TSUTAYA地下2F店頭受取での予約購入の受付を開始！ - SHIBUYA TSUTAYA",
-   "title_ko": "「프로젝트 세카이 화려한 스테이지! feat.하츠네 미쿠」14th Single이 5 타이틀 발매 결정! SHIBUYA TSUTAYA 지하 2F 매장 수취로의 예약 구입의 접수를 개시! - 시부야 TSUTAYA",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjZlZaNG1oUjk1WE5DTG5YNjFCUDRVQ2twTjlBVC00U1FyQlZOTWtCWUJTeTNNZWV2bkFEcUFmbHNFZ1JZMTNvSURad1hxTGI5eEJhM0gyWkFkZlJiS0E?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-07",
-   "ts": 1788769881
-  },
-  {
    "title": "Run For Your Lives! Kaiyodo Confirms Revoltech Shiteyanyo Action Figure, Bringing the Iconic Hatsune Miku Meme to Life! - 玩具人 TOY PEOPLE",
    "title_ko": "목숨을 걸고 달려라! Kaiyodo는 Revoltech Shiteyanyo 액션 피규어를 확정하여 상징적인 하츠네 미쿠 밈에 생명을 불어넣었습니다! - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9meXhFX1luZGVvc3NxNGEzWm11d29jd2F4SnpQSzhXUHVFVXQ3a0hEb2QtTWg3VHlkRVpOWWxCX29kQ0ZfbTd1bnNkeDUxazdS?oc=5",
@@ -1026,7 +1000,7 @@
   },
   {
    "title": "初音未来 YOZORA PROGRAM 2026 原创周边现已在 VRChat 上架 - haveagood-holiday.com",
-   "title_ko": "하츠네 미쿠 YOZORA PROGRAM 2026 오리지널 주변기기를 이제 VRChat에서 만나보실 수 있습니다 - haveagood-holiday.com",
+   "title_ko": "하츠네 미쿠 YOZORA PROGRAM 2026 오리지널 주변 장치를 이제 VRChat에서 만나보실 수 있습니다 - haveagood-holiday.com",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdDdReURIUTU0Y2V3QjdRbVVKWUtHMXVoR00wdzdYVXdrRVZldXpOWmFhRE1HNGh0dlZ0U0d6REZHS0wzelhXOWM5LUNfeGR2X3VqQXFSY3dqSUVQanBCSlBIdlZvRHZCLW0wV05FNTRXaFdOaS11TDFTNTZpSFNfN3h1OTZqRXJxUGdaMEtxenJEZmgwREx0bzhR?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1142,8 +1116,8 @@
    "ts": 1787900400
   },
   {
-   "title": "HiBy×初音ミクモデルで特典もらえるキャンペーン。既存オーナー向けも - AV Watch",
-   "title_ko": "HiBy×하츠네 미쿠 모델로 특전을 받을 수 있는 캠페인. 기존 소유자 전용 - AV Watch",
+   "title": "HiBy×初音ミクモデルで特典もらえるキャンペーン。既存オーナー向けも - av.watch.impress.co.jp",
+   "title_ko": "HiBy×하츠네 미쿠 모델로 특전을 받을 수 있는 캠페인. 기존 소유자용 - av.watch.impress.co.jp",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14eDRsVGVUcEZfSWhtLTlIQVE5VHJwazZQUi1UNW4wQUwtaFUwQWtnNUREVVdWTmthZXRqdHh3QmM3V25qX1RRUGlOZV82dzBjYnA2ZmFrZkpDS1kwd0lBTE93SQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1283,6 +1257,32 @@
    "thumb": null,
    "date": "2026-08-19",
    "ts": 1787122800
+  },
+  {
+   "title": "Pokémon feat. Hatsune Miku: Project Voltage live performance getting Blu-ray release (UPDATE) - GoNintendo",
+   "title_ko": "포켓몬스터 위업. 하츠네 미쿠: 프로젝트 전압 라이브 공연, 블루레이 출시 예정(업데이트) - GoNintendo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjJjNFFCa1h2d2UzWEdoSEhrNGVkVmR0Q2RpeDhhX2FjQXdtN2dDMHFPSDVJUEFHZl90MllHYThFaHRiam5xd3RnYzAyQlRLUDZ3cTc4UUpvdHZSLVR1R0FlVFJUbE1sZ1JuS3FLYVhaeHd3OEU1TnkyclBpUjRWNTFtMFh4dmQ3YWgzS0lpOUtMMW93VHFGZG94UEFMdW9LZ2NUcHlkOHQ3ZkF5R2VnRWU3TGNnNENyc0ZYMA?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "goods",
+   "type": "news",
+   "lang": "en",
+   "thumb": null,
+   "date": "2026-08-14",
+   "ts": 1786690800
+  },
+  {
+   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - 17173",
+   "title_ko": "\"매직 더 개더링\" 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - 17173",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZ1N1VWI0VllQUHV1SXpRZmhrVVFiUU1scy13VzAwdUx6OFc0WERyTDFjakkyaG53SmJiWjRTVFRIVkxlbmp1OXpLRTlDTURYNmE3Ukk4bFM2NWdMNWtwQmxweXM?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-08-05",
+   "ts": 1785913200
   }
  ]
 }
