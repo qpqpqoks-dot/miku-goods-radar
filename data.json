@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-14T11:44:26+00:00",
+ "updated": "2026-09-14T17:38:55+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7342},\"items\":[{\"gcode\":\"FIGURE-206807\",\"gname\":\"Hatsune Miku Azure Dragon Ver. 1/7 Complete Figure\",\"thumb_url\":\"/images/product/main/263/FIGURE-206807.jpg\",\"thumb_alt\":\"FIGURE-206807.jpg\",\"thumb_title\":\"Hatsune Miku Azure Dragon Ver. 1/7 Complete Figure\",\"min_price\":27500,\"max_price\":27500,\"c_price_taxed\":27500,\"maker_name\":\"Kaiyodo\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available\":0,\"list_store_bonus\":0,\"list_amiami_limited\":0,\"instock_flg\":0,\"order_closed_flg\":0,\"element_id\"",
-  "amiami": "http200/39510/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -272,7 +272,7 @@
   },
   {
    "title": "[Exclusive Sale] Lucrea Mobile Suit Gundam 45th Anniversary x Hatsune Miku Hatsune Miku x 00 Gundam 1/7 Complete Figure",
-   "title_ko": "[독점 세일] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
+   "title_ko": "[한정판매] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-192189",
    "source": "AmiAmi",
    "region": "jp",
@@ -324,7 +324,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -544,8 +544,8 @@
    "ts": 1789272000
   },
   {
-   "title": "『初音ミク 新学期 フィギュア』が春色にときめく！予約は2026年12月7日まで受付中 - にじめん",
-   "title_ko": "『하츠네 미쿠 신학기 피규어』가 봄빛에 설레다! 예약은 2026년 12월 7일까지 접수중 - 니지멘",
+   "title": "『初音ミク 新学期 フィギュア』が春色にときめく！予約は2026年12月7日まで受付中 - nijimen.kusuguru.co.jp",
+   "title_ko": "『하츠네 미쿠 신학기 피규어』가 봄빛에 설레다! 예약은 2026년 12월 7일까지 접수 중 - nijimen.kusuguru.co.jp",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2bGpwbjdvQTY1SVotVHlzUzRQZUQwekVFLWptZTFXei1WMl9FOWxnOFlVS0ZhRzl0TGc2NFVybHhFY3VYVUt4ZWZjUlQ4QUhIeE4zR2k0Zw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -557,8 +557,8 @@
    "ts": 1789266420
   },
   {
-   "title": "《乐鱼体育备用网址多少》20周年联动初音未来，跨界合作正式官宣 - 体坛加",
-   "title_ko": "\"Leyu 스포츠 백업 웹사이트\" 20주년 기념, 하츠네 미쿠와 국가 간 협력 공식 발표 - Sports Plus",
+   "title": "《乐鱼体育备用网址多少》20周年联动初音未来，跨界合作正式官宣 - 体坛",
+   "title_ko": "\"Leyu 스포츠 백업 웹사이트\" 20주년 기념, 하츠네 미쿠와 연계, 국경 간 협력 공식 발표 - 스포츠월드",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTW5KVTdWMWZuMFdVNkM3Z2RLc0JLRktHb1Ridk1jTW1zbWlJcHJzOTNLZGdta244NkFiVGR0LUt5d1BGcThMa0R1b0V0MmxQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -570,8 +570,8 @@
    "ts": 1789243983
   },
   {
-   "title": "BETVLCTOR伟德1946_游戏资讯_黄牛炒作依旧猖獗!万智牌×初音未来联动卡牌价格翻倍 - 体坛加",
-   "title_ko": "BETVLCTOR伟德1946_Game News_Scalper 추측은 여전히 ​​만연합니다! 매직 × 하츠네 미쿠 연계 카드 가격이 두 배로 올랐습니다 - 스포츠 플러스",
+   "title": "BETVLCTOR伟德1946_游戏资讯_黄牛炒作依旧猖獗!万智牌×初音未来联动卡牌价格翻倍 - 体坛",
+   "title_ko": "BETVLCTOR伟德1946_Game News_Scalper 추측은 아직도 만연합니다! 매직 × 하츠네 미쿠 연계 카드 가격 2배 - 스포츠",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jRzRraVBHMnVVdnZCNDFnLXU3TDloc0JPdnJNZW9CdnQwNjBpZV9tRmlrVmZBbmhhNzBZbFRuZEQ4TzZRbm1KYkViTDBGWGtLQlhjS3FR?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -623,7 +623,7 @@
   },
   {
    "title": "初音ミク × 甲州印伝コラボ 新作の革小物や人気の長財布 1月発売! - コラボカフェ",
-   "title_ko": "하츠네 미쿠 × 고슈 인전 콜라보레이션 신작 가죽 소품과 인기 장 지갑 1 월 발매! - 콜라보레이션 카페",
+   "title_ko": "하츠네 미쿠 × 고슈 인덴 콜라보레이션 신작 가죽 소품과 인기 장 지갑 1 월 발매! - 콜라보레이션 카페",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzRDWXhSOFpiZXYyeW1zNmpwdGFpYjlad0tYam1veGhEQ0JlcTdJRnhkOGZwb3hlN2hzaW1MaTlPRWdxVnlVYTBzMkhUTWxPR1g5a1JNVDhmeTdxZVNQd1pOUmYwMmV4RVA2Tlc3TkQtN0ZVSDdqekpFdXowNGc0WHM5VzExRjVuM3g1X3EtMkZqY3oyWmItMlBpQ3JqRUphRFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -701,7 +701,7 @@
   },
   {
    "title": "春にときめく「初音ミク」フィギュア、予約開始 - tv-tokyo.co.jp",
-   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - tv-tokyo.co.jp",
+   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 개시 - tv-tokyo.co.jp",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXLXhKWVZ2ajM4S0ltckJUckw4SURuNUpLYThkQnY3bjNvMGpINkhCdDBpRUowV083WVp3T0JfMG1EZ3VnRzBDWGluZk53VkdvX25Cd2p3eFR5VnBNNFpfWVVUMktMYjkzT1RQNnlB?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -714,7 +714,7 @@
   },
   {
    "title": "ピアプロ公認派生キャラ「シテヤンヨ」がリボルテックから可動フィギュア化！初音ミクのツインテールが変化したスラリとした美脚（？）をフル可動で再現！ - 電撃ホビーウェブ",
-   "title_ko": "피어 프로 공인 파생 캐릭터 「시테얀요」가 리볼텍으로부터 가동 피규어화! 하츠네 미쿠의 트윈 테일이 변화한 슬러리로 한 미각(?)을 풀 가동으로 재현! - 전격 취미 웹",
+   "title_ko": "피아프로 공인 파생 캐릭터 「시테얀요」가 리볼텍으로부터 가동 피규어화! 하츠네 미쿠의 트윈 테일이 변화한 슬라리로 한 미각(?)을 풀 가동으로 재현! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50dE1ydm0tM1c5N1ptSndONElfNC1WU0J6Zm50Ynh5MUJXS1pGWjltOTRvV182aU83UnI5MGVYZnR2LXF4N3VUVGxEdGlkLVBQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -778,8 +778,8 @@
    "ts": 1789008360
   },
   {
-   "title": "春にときめく「初音ミク」フィギュア、予約開始 - prtimes.jp",
-   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - prtimes.com",
+   "title": "春にときめく「初音ミク」フィギュア、予約開始 - PR TIMES",
+   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2dGU3bHVINkJ5SXl2MG9KNndFRWEwaHdTWTNwaXU5VGZ4c2pmcGNIaVBUSVJXc05hOUlzMjl5TXhNLVIxSGtRQUtYY0VPVnU5MURvS3FaNUtlOWhoQWxsZzBwWUMwckhyNVE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -895,8 +895,8 @@
    "ts": 1788919200
   },
   {
-   "title": "《免费送2000试玩金》20周年联动初音未来，跨界合作正式官宣 - 体坛加",
-   "title_ko": "\"무료 2000 트라이얼 골드\" 20주년 기념 하츠네 미쿠 연계, 국경 간 협력 공식 발표 - 스포츠 플러스",
+   "title": "《免费送2000试玩金》20周年联动初音未来，跨界合作正式官宣 - 体坛",
+   "title_ko": "하츠네 미쿠와 연계된 \"무료 2000 평가판 골드\" 20주년, 국경 간 협력 공식 발표 - 스포츠월드",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VWpYRWVLX3ZqS3lyUS03SFRtZldkUGFTRzdHcWdEX2tUdi0zNnFsWEQ4ZGt0SW8tMnlnNGpZWi1yaG5HdW1icHM3ZEdINndHUGFodkRaMA?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -934,6 +934,19 @@
    "ts": 1788848672
   },
   {
+   "title": "TOPPANホールディングス 印刷博物館、「印刷博物館ミニ展示 Polaris －時代を超えた アイコンと絵師－」を開催 - holdings.toppan.com",
+   "title_ko": "TOPPAN 홀딩스 인쇄 박물관, 「인쇄 박물관 미니 전시 Polaris -시대를 넘은 아이콘과 그림사」를 개최 - holdings.toppan.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DN0x1Z3FieDRvT2RPbmVCeGpUcVZpcm5lckRqcWNDQTRkVVJOOTNMV2ZjNWZOUnRRMUpaeUlhVUQ3dUZPOEdUZDh2c3VkeXdlNzM0T29nSU1VY291bjBjRERad3BQa3A0eDJpeUFVamU4WXdpblBhb0p5d3g?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-08",
+   "ts": 1788829979
+  },
+  {
    "title": "最适合腿控的逆天初音未来周边推出了！ - 风闻",
    "title_ko": "다리 제어에 가장 적합한 가장 놀라운 하츠네 미쿠 주변 장치가 출시되었습니다! - 소문",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcE1DeXVGLVYybFZ2LWxnS0NBUFdoVjI4MkhUb0lNRUNGZERGSjJDOVhBcHM5eldELTJpRUVTZ2JtQlBFYkJxeGNfU2tjQlBhdUpxbG0zc3NBT2c?oc=5",
@@ -947,8 +960,8 @@
    "ts": 1788824691
   },
   {
-   "title": "This Hatsune Miku Figure May Be the Most Stunning One Yet - IMDb",
-   "title_ko": "이 하츠네 미쿠 피규어는 역대 가장 놀라운 피규어일지도 모릅니다 - IMDb",
+   "title": "This Hatsune Miku Figure May Be the Most Stunning One Yet - imdb.com",
+   "title_ko": "이 하츠네 미쿠 피규어는 지금까지 가장 놀라운 피규어일지도 모릅니다 - imdb.com",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5meldLYmY2ZGd5QkduSm16NExZRmxaWHRkUEJ4YmYtU1hfN2p5UE92ZzN4b1VoV2lOVV9aODh4YlNabXBXd09GZTZlbGtFTGdra2lyMmxVZm5rcFpxRl9hSFdMcnFnOGc?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -974,7 +987,7 @@
   },
   {
    "title": "海洋堂将推出“腿音未来”手办，预约详情将于近日公开。 #初音未来# ​ - 新浪网",
-   "title_ko": "카이양도에서는 '레그 사운드 미라이' 피규어가 출시될 예정이며, 예약 세부 사항은 조만간 공개될 예정이다. #半妖# - Sina.com",
+   "title_ko": "카이양도에서는 '레그사운드 미라이' 피규어가 출시될 예정이며, 예약 세부사항은 추후 공지될 예정이다. #半妖# - Sina.com",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41azFHT1o0NHdkSlRmZ0U2dHBrOFphdHRkZWw0OS1veV9FMTdVM190LXJONEViMElxNWhIbU83aDBEUGFwazZHYW9scUV6OXBfM01vcnZGTk5zZkN2RmQwalpzTQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -1051,8 +1064,8 @@
    "ts": 1787986800
   },
   {
-   "title": "Haruhi Suzumiya x Hatsune Miku Crossover Project Is Coming - animenewsnetwork.com",
-   "title_ko": "스즈미야 하루히 x 하츠네 미쿠 크로스오버 프로젝트가 온다 - animenewsnetwork.com",
+   "title": "Haruhi Suzumiya x Hatsune Miku Crossover Project Is Coming - Anime News Network",
+   "title_ko": "스즈미야 하루히 x 하츠네 미쿠 크로스오버 프로젝트가 온다 - 애니메이션 뉴스 네트워크",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzBYVkNxclNEUUJqY3ZzOU5JbEJ4dl9sVDRPakExU3Q5cWdnMk9KZlFwRENuLWhXMHpqZzNEQzNYMjV2YjBUdjNvOHg3MS1iMlZRRmMtVFloekx3NVAwSllNdjdJRWtna1B0TUJySlVSYk4yYnBJRkxxWjdld1NnZ2xhTFFIZlFYcTRCcWJwaFpfX05sVHFJUU5OeUo0Zkp3bEVHR1kxOXJfcDJGMkdzNmdrcGNzck5tcndn?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1077,7 +1090,7 @@
    "ts": 1787900400
   },
   {
-   "title": "初音ミク×FILAコラボ第4弾!90年代の幻の名作「SILVA TRAINER」が初音ミクカラーで完全復刻 - prtimes.jp",
+   "title": "初音ミク×FILAコラボ第4弾!90年代の幻の名作「SILVA TRAINER」が初音ミクカラーで完全復刻 - PR TIMES",
    "title_ko": "하츠네 미쿠×FILA 콜라보레이션 제4탄! 90년대 환상의 명작 「SILVA TRAINER」가 하츠네 미쿠 컬러로 완전 복각",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zczZmZ0pBZlhYUll2QUkwczQ4Q1lyUVppTlpOTWg4SVY4bHZTczF4VTdVUVpvWlpPSXYxckQ2U0tSS2tobnY2U2ZhMTl1U0ZubFFPV3hkOVh2LTlwY1MyVDFzNzBUQ2FvZ1E?oc=5",
    "source": "Google News 日",
@@ -1168,8 +1181,8 @@
    "ts": 1787814000
   },
   {
-   "title": "初音ミク「マジカルミライ2026」モデルの初音ミクと「ミクダヨー」のホロモデル新発売＆ブース内販売予定商品のラインナップ公開 - prtimes.jp",
-   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」모델의 하츠네 미쿠와 「미쿠다요」의 홀로 모델 신발매 & 부스 내 판매 예정 상품의 라인업 공개",
+   "title": "初音ミク「マジカルミライ2026」モデルの初音ミクと「ミクダヨー」のホロモデル新発売＆ブース内販売予定商品のラインナップ公開 - PR TIMES",
+   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」모델의 하츠네 미쿠와 「미쿠다요」의 홀로 모델 신발매 & 부스 내 판매 예정 상품의 라인업 공개 - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xYmJEVl96OGZMUEZDRUUwR0hleUljSk5mZjJEQlhJeGhoQ2g1c29oNHZHX2JpYmZWX1dNWXZHdlhjbVFVYzdXbmVvQURtNjNGV2gybmUzWjhqXzZscUNEbFJVU0tfTHlqcFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1181,8 +1194,8 @@
    "ts": 1787814000
   },
   {
-   "title": "初音ミクの新作スマートフォン向けパズルゲーム、2026年秋の配信に向けて事前予約開始！ - prtimes.jp",
-   "title_ko": "하츠네 미쿠의 신작 스마트폰용 퍼즐 게임, 2026년 가을의 전달을 향해 사전 예약 개시! - prtimes.jp",
+   "title": "初音ミクの新作スマートフォン向けパズルゲーム、2026年秋の配信に向けて事前予約開始！ - PR TIMES",
+   "title_ko": "하츠네 미쿠의 신작 스마트폰용 퍼즐 게임, 2026년 가을의 전달을 향해 사전 예약 개시! - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SkROVl8zZmY5aENveU1DYVZvRmxMNHdaNmZqcEFVMmVaTHVzN3cwUUVTSG4tZVRyME1HbVhPX2U0NGo0Tmxmb0t5U184YlZBSWtHRExvaW1HemRnN2E4Rkd3dlpHcXdsVEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1233,8 +1246,8 @@
    "ts": 1787209200
   },
   {
-   "title": "【奏の森リゾート×初音ミク】コラボ第3弾開催決定！ - prtimes.jp",
-   "title_ko": "【연주 모리 리조트×하츠네 미쿠】콜라보 제3탄 개최 결정! - prtimes.jp",
+   "title": "【奏の森リゾート×初音ミク】コラボ第3弾開催決定！ - PR TIMES",
+   "title_ko": "【연주 모리 리조트×하츠네 미쿠】콜라보 제3탄 개최 결정! - PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMnlYNkluUmI3cVJwWTNBSDdZa2E1eWNOMU12QVZCV3JLbFpwemZoZWw3U0oyQ0J1cDlUSUpkbnpxVmF0bUJzSzhiTHhJWlB3Z1BFLU9pQ2xuTjVpMElDR3ZZQWRCcUpEWEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1270,19 +1283,6 @@
    "thumb": null,
    "date": "2026-08-05",
    "ts": 1785913200
-  },
-  {
-   "title": "Secret Lair Commander Deck: Hatsune Miku Decklist - Magic: The Gathering",
-   "title_ko": "Secret Lair Commander 덱: 하츠네 미쿠 덱목록 - Magic: The Gathering",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NlZFkzUEhXSEhpOE9jd1p1U2xGS2J0TXdfN1BUNm5GREdqTUEzUHBMckdoa2tPRU9ITzBMcGVyYXNsalBkdXQzYW5PT2czM3VPRVc3dTFKM25DWExLcWJtRzROTHQyZXNHWXlPTGpZQTRoMGNoemJfdlRMU2otSlFrY0V5bDNRUW9hcktDYmRoU3pjb3FnQTExeEk?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-08-04",
-   "ts": 1785826800
   }
  ]
 }
