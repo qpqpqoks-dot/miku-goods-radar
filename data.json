@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T16:13:19+00:00",
+ "updated": "2026-09-15T20:52:21+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
@@ -324,7 +324,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -363,7 +363,7 @@
   },
   {
    "title": "[F:NEX x POPPRO] Hatsune Miku 2023 Chinese New Year Ver. 1/7 Scale Figure",
-   "title_ko": "[F:NEX x POPPRO] 하츠네 미쿠 2023 설날 Ver. 1/7 스케일 피규어",
+   "title_ko": "[F:NEX x POPPRO] 하츠네 미쿠 2023 구정 Ver. 1/7 스케일 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-150035",
    "source": "AmiAmi",
    "region": "jp",
@@ -505,8 +505,8 @@
    "ts": 1789470031
   },
   {
-   "title": "ねんどろいど「初音ミク 葛飾北斎コラボVer.(Rella)」！『神奈川沖浪裏』を融合した可愛らしい彩色原型が初公開！ - 玩具人 TOY PEOPLE",
-   "title_ko": "넨 드로이드 「하츠네 미쿠 카츠 시카 호쿠사이 콜라보레이션 Ver.(Rella)」! 『카나가와 오키 나미리』를 융합한 귀여운 채색 원형이 첫 공개! - 장난감 사람 TOY PEOPLE",
+   "title": "ねんどろいど「初音ミク 葛飾北斎コラボVer.(Rella)」！『神奈川沖浪裏』を融合した可愛らしい彩色原型が初公開！ - toy-people.com",
+   "title_ko": "넨 드로이드 「하츠네 미쿠 카츠 시카 호쿠사이 콜라보레이션 Ver.(Rella)」! 『카나가와 오키 나미리』를 융합한 귀여운 채색 원형이 첫 공개! - toy-people.com",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NMzJXbTlZQTdaTGtRaU8zZUJSTGVxMVhLVDUteEU2MHotZVh0QUVZOEpPeDJPTmVlTXBRMmJuTXpCYVJwYXVWRVBQem1SV2Mw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -557,19 +557,6 @@
    "ts": 1789463172
   },
   {
-   "title": "G.S. Collection Vell -ベル- 1/7スケールフィギュアが登場！イラストレーターtoridamono氏のオリジナルキャラクターを立体化！ - 玩具人 TOY PEOPLE",
-   "title_ko": "G.S. Collection Vell -벨- 1/7 스케일 피규어가 등장! 일러스트레이터 toridamono 씨의 오리지널 캐릭터를 입체화! - 장난감 사람 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHa2FIZEtLVXNBUHZxMmRZaDF6NDJJeUh2QkdGR1cxSkpDQ1hSbXQzRjlWRlRiVU9QazlGMEpPZGl5R2ljMFBTRTdnQ051TmFr?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-15",
-   "ts": 1789462494
-  },
-  {
    "title": "A賞は「マジカルミライ2026」＆「マジカルミライ 2015」初音ミクビッグサイズフィギュア！ラバーマスコットやアクリルスタンドも当たるガシャポン「初音ミクあそーと」が登場！ - 電撃ホビーウェブ",
    "title_ko": "A상은 「매지컬 미라이 2026」＆「매지컬 미라이 2015」하츠네 미쿠 빅 사이즈 피규어! 러버 마스코트나 아크릴 스탠드도 맞는 가샤폰 「하츠네 미쿠 아소토」가 등장! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01Y1JlTHhCdkRoeGM2eXZyS0xJTzY5TDJfcnBaSXdEcFg0Vi00LWNuYjd1TU83VUs3cjNuM1pLTWllakNIR0VrdkFFSGRsOHJ6?oc=5",
@@ -583,8 +570,8 @@
    "ts": 1789457666
   },
   {
-   "title": "『リボルテック シテヤンヨ』 が予約受付開始。頭部のツインテールが足になった初音ミクの公認亜種キャラクター - 電撃オンライン",
-   "title_ko": "『리볼텍 시태양요』가 예약 접수 개시. 머리의 트윈 테일이 발이 된 하츠네 미쿠의 공인 변종 캐릭터 - 전격 온라인",
+   "title": "『リボルテック シテヤンヨ』 が予約受付開始。頭部のツインテールが足になった初音ミクの公認亜種キャラクター - dengekionline.com",
+   "title_ko": "『리볼텍 시태양요』가 예약 접수 개시. 머리의 트윈 테일이 발이 된 하츠네 미쿠의 공인 변종 캐릭터 - dengekionline.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ekFWVHJUdkJHNkxiVDdDd0d1eGNNbDhNdklscGVvNEQwNkM1aldSTVRIS3N0SGg1bTNxZW9fQ0pKcHotNGl5RXJuZTJ0Sk5JcGFBanlkZ0xmdw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -619,11 +606,11 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-09-14",
-   "ts": 1789369658
+   "ts": 1789388306
   },
   {
-   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第3回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
-   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제3회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
+   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第3回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - artexhibition.jp",
+   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제3회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - artexhibition.jp",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RZFpwYUphRE9fYnowZjdDeE9mcU1lTnhnRnVwVEFaT2YtekF0RDcxRXhGNEdKQURQbnhrTzktbHRxWWFhZWZNQVZXcEpWZlFRMmJVM285bGM1QVJXc3VxZlhOX0Q0T2Fm?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -675,7 +662,7 @@
   },
   {
    "title": "BETVLCTOR伟德1946_游戏资讯_黄牛炒作依旧猖獗!万智牌×初音未来联动卡牌价格翻倍 - 体坛加",
-   "title_ko": "BETVLCTOR伟德1946_Game News_Scalper 추측은 아직도 만연합니다! 매직 × 하츠네 미쿠 연계 카드 가격이 두 배로 올랐습니다 - 스포츠 플러스",
+   "title_ko": "BETVLCTOR伟德1946_Game News_Scalper 추측은 여전히 ​​만연합니다! 매직 × 하츠네 미쿠 연계 카드 가격이 두 배로 올랐습니다 - 스포츠 플러스",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jRzRraVBHMnVVdnZCNDFnLXU3TDloc0JPdnJNZW9CdnQwNjBpZV9tRmlrVmZBbmhhNzBZbFRuZEQ4TzZRbm1KYkViTDBGWGtLQlhjS3FR?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -713,8 +700,8 @@
    "ts": 1789143209
   },
   {
-   "title": "【まとめて読めます】美術展ナビ独占掲載【Rella × 沓名美和 特別対談】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
-   "title_ko": "【정리해 읽을 수 있습니다】미술전 내비게이션 독점 게재【Rella × 사나미 미와 특별 대담】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
+   "title": "【まとめて読めます】美術展ナビ独占掲載【Rella × 沓名美和 特別対談】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - artexhibition.jp",
+   "title_ko": "【정리해 읽을 수 있습니다】미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - artexhibition.jp",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qVlN6ZWNOR21kZHhfbXdyQWNuQlBJUzlkN1BYbEZpSENKS2x5Y1FScjBWTFFrT2xzUzdhR2R1TGp0NTRaUWsxbHJCY1hGZHJ0U19jT3piWDN0SGpQTWJKcmNvZW1VTXM2?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -752,8 +739,8 @@
    "ts": 1789093800
   },
   {
-   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第2回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
-   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제2회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
+   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第2回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - artexhibition.jp",
+   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제2회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - artexhibition.jp",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XaXlja3BIU1lGNmxsYjRVNk5zSW0xNldTZzRFVWlpbkViRWdwV1hhNDFzUE9QVFBFVVZNQXMtdDRIQ0otMUJXVFhfN3MzanpqdUVBeGZQeV9obWtteXc1ejZ1RTdyMzZn?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -805,7 +792,7 @@
   },
   {
    "title": "春にときめく「初音ミク」フィギュア、予約開始 - tv-tokyo.co.jp",
-   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 개시 - tv-tokyo.co.jp",
+   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - tv-tokyo.co.jp",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXLXhKWVZ2ajM4S0ltckJUckw4SURuNUpLYThkQnY3bjNvMGpINkhCdDBpRUowV083WVp3T0JfMG1EZ3VnRzBDWGluZk53VkdvX25Cd2p3eFR5VnBNNFpfWVVUMktMYjkzT1RQNnlB?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -856,8 +843,8 @@
    "ts": 1789008360
   },
   {
-   "title": "春にときめく「初音ミク」フィギュア、予約開始 - PR TIMES",
-   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - PR TIMES",
+   "title": "春にときめく「初音ミク」フィギュア、予約開始 - prtimes.jp",
+   "title_ko": "봄에 설레는 '하츠네 미쿠' 피규어, 예약 시작 - prtimes.com",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2dGU3bHVINkJ5SXl2MG9KNndFRWEwaHdTWTNwaXU5VGZ4c2pmcGNIaVBUSVJXc05hOUlzMjl5TXhNLVIxSGtRQUtYY0VPVnU5MURvS3FaNUtlOWhoQWxsZzBwWUMwckhyNVE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -921,8 +908,8 @@
    "ts": 1788941400
   },
   {
-   "title": "カラフルで可愛い「初音ミク」たちが満載！「マジカルミライ 2026」イラストを使用したクリアビジュアルポスター登場 - inside-games.jp",
-   "title_ko": "화려하고 귀여운 \"하츠네 미쿠\"들이 가득! 마법의 미라이 2026 일러스트를 사용한 클리어 비주얼 포스터 등장 - inside-games.com",
+   "title": "カラフルで可愛い「初音ミク」たちが満載！「マジカルミライ 2026」イラストを使用したクリアビジュアルポスター登場 - インサイド",
+   "title_ko": "화려하고 귀여운 \"하츠네 미쿠\"들이 가득! 마법의 미라이 2026 일러스트를 사용한 클리어 비주얼 포스터 등장 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90MGUxVGxFcTg5S1VWZ1Rqek01VlR6bmRRRG1DU1RVU0tiaWRoZy1FUWY5OExaeVFlc2J2ZlRNdk52MzR0Y3FCNXRWSHU1anV1RS1XY2VEZTE4bEJoY2dZaW44RFd3RVJpQ2c?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -935,7 +922,7 @@
   },
   {
    "title": "《免费送2000试玩金》20周年联动初音未来，跨界合作正式官宣 - 体坛加",
-   "title_ko": "하츠네 미쿠와 연계한 \"2000년 무료 평가판 골드\" 20주년, 국경 간 협력 공식 발표 - 스포츠 플러스",
+   "title_ko": "\"무료 2000 트라이얼 골드\" 20주년 기념 하츠네 미쿠 연계, 국경 간 협력 공식 발표 - 스포츠 플러스",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VWpYRWVLX3ZqS3lyUS03SFRtZldkUGFTRzdHcWdEX2tUdi0zNnFsWEQ4ZGt0SW8tMnlnNGpZWi1yaG5HdW1icHM3ZEdINndHUGFodkRaMA?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -947,8 +934,8 @@
    "ts": 1788888088
   },
   {
-   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第1回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - 美術展ナビ",
-   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제1회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - 미술전 내비게이션",
+   "title": "美術展ナビ独占掲載【Rella × 沓名美和 特別対談 第1回】葛飾北斎×初音ミク コラボ展示『Polaris ―時代を超えた アイコンと絵師―』 印刷博物館で9月19日開幕 - artexhibition.jp",
+   "title_ko": "미술전 내비게이션 독점 게재【Rella × 카사나 미와 특별 대담 제1회】카츠시카 호쿠사이×하츠네 미쿠 콜라보레이션 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 인쇄 박물관에서 9월 19일 개막 - artexhibition.jp",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUlp6amhlOGJGamlockdBRVpjdS1ObEFraWw4dUM2RFVqQmJ5azlFdjI0Y3ZHY25hOFFsSW53YnljNllONkhDZnVHaTBSdEFIcGVocDVfYnRxM2pXLVg0cXJyaHhNal82?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -986,19 +973,6 @@
    "ts": 1788755843
   },
   {
-   "title": "海洋堂将推出“腿音未来”手办，预约详情将于近日公开。 #初音未来# ​ - 新浪网",
-   "title_ko": "카이양도에서는 '레그 사운드 미라이' 피규어가 출시될 예정이며, 예약 세부 사항은 조만간 공개될 예정이다. #半妖# - Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41azFHT1o0NHdkSlRmZ0U2dHBrOFphdHRkZWw0OS1veV9FMTdVM190LXJONEViMElxNWhIbU83aDBEUGFwazZHYW9scUV6OXBfM01vcnZGTk5zZkN2RmQwalpzTQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-09-07",
-   "ts": 1788752400
-  },
-  {
    "title": "하츠네 미쿠 YOZORA PROGRAM 2026 오리지널 아이템, VRChat에서 판매 시작 - haveagood-holiday.com",
    "title_ko": null,
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmdoenh3eGZaa2tub0lBaV9fNDRWOXIxdEhhem9fb2R3S1RGdHVEYlZKUnFZWm8waHJHYnZMUGhBTW4zRnNkQnpfMjlQaS1OZEI3MEdvYjFtTnh6XzAxSW96TGVfeGlILVE3OGFSb3V1R1EtbTBRTkxUdnlKNERpVXV3Z1pSanRCN1Q0YTZWWjRqM2czZVE?oc=5",
@@ -1010,6 +984,19 @@
    "thumb": null,
    "date": "2026-09-04",
    "ts": 1788539317
+  },
+  {
+   "title": "初音未来 YOZORA PROGRAM 2026 原创周边现已在 VRChat 上架 - haveagood-holiday.com",
+   "title_ko": "하츠네 미쿠 YOZORA PROGRAM 2026 오리지널 주변기기를 이제 VRChat에서 만나보세요 - haveagood-holiday.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdDdReURIUTU0Y2V3QjdRbVVKWUtHMXVoR00wdzdYVXdrRVZldXpOWmFhRE1HNGh0dlZ0U0d6REZHS0wzelhXOWM5LUNfeGR2X3VqQXFSY3dqSUVQanBCSlBIdlZvRHZCLW0wV05FNTRXaFdOaS11TDFTNTZpSFNfN3h1OTZqRXJxUGdaMEtxenJEZmgwREx0bzhR?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-09-04",
+   "ts": 1788505200
   },
   {
    "title": "Hatsune Miku YOZORA PROGRAM 2026 Original Items Now Available in VRChat - haveagood-holiday.com",
@@ -1025,19 +1012,6 @@
    "ts": 1788505200
   },
   {
-   "title": "「しろたん×初音ミク」のコラボアイテムがフリューから登場！しろたんを抱えた初音ミクのフィギュアやネギしろたんのBIGぬいぐるみなどがラインナップ！ - 電撃ホビーウェブ",
-   "title_ko": "「시로탄×하츠네 미쿠」의 콜라보 아이템이 플류로부터 등장! 시로탄을 안은 하츠네 미쿠의 피규어와 파 시로탄의 BIG 인형 등이 라인업! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kZ3VfRUR0UWd5Rkc2M0d2Q2ttRFJCUjdrSEpPU3pNNGlvRnNndUdJVHMteVluRnZER0pSQjFkanp0S1RLOUd1by1PSDNYN050?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-02",
-   "ts": 1788332400
-  },
-  {
    "title": "Desktop Fairy Hatsune Miku Wonderland Figure Feels Dynamic - Siliconera",
    "title_ko": "데스크탑 요정 하츠네 미쿠 원더랜드 피규어가 역동적으로 느껴집니다 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0VCSFQtUlJ2NEQtZ19ERktFZkx4akdRNml0QnFrNTFpRzl2NVQzZGdwVUZsOFdNZEszNkZRYVlvZlA4Q21iSWlEMWI4cGd2Q3hkM1cyMkszM0NOdFBvMV9STVFxTHZRdUtQdnk4Z25HN1NCbDhYdTFfN0stNmNkbWQwWVlid090MUJtYXVUZw?oc=5",
@@ -1051,8 +1025,8 @@
    "ts": 1788073200
   },
   {
-   "title": "グッスマ最高峰ラインの「初音ミク」フィギュア！オーロラコート加工やパール塗装、クリアパーツを組み合わせて美麗ビジュアルを再現 - inside-games.jp",
-   "title_ko": "굿스마 최고봉 라인의 「하츠네 미쿠」피규어! 오로라 코트 가공이나 펄 도장, 클리어 파트를 조합해 미려 비주얼을 재현 - inside-games.com",
+   "title": "グッスマ最高峰ラインの「初音ミク」フィギュア！オーロラコート加工やパール塗装、クリアパーツを組み合わせて美麗ビジュアルを再現 - インサイド",
+   "title_ko": "굿스마 최고봉 라인의 「하츠네 미쿠」피규어! 오로라 코트 가공이나 펄 도장, 클리어 파트를 조합해 미려 비주얼을 재현 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wU3QxallGdDZrN1RUSlcweGp2a2xiUzhWUWdRa1BldzM3cmZZc3VvSHpTTC05enN5aUpCOVVDYW9IY2dUNllXbV9uNmJxcDBFUl9TYVN0RXp6NmVzWWt4QlZ2SVpmNFpZc1E?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1090,7 +1064,7 @@
    "ts": 1787986800
   },
   {
-   "title": "初音ミク×FILAコラボ第4弾!90年代の幻の名作「SILVA TRAINER」が初音ミクカラーで完全復刻 - PR TIMES",
+   "title": "初音ミク×FILAコラボ第4弾!90年代の幻の名作「SILVA TRAINER」が初音ミクカラーで完全復刻 - prtimes.jp",
    "title_ko": "하츠네 미쿠×FILA 콜라보레이션 제4탄! 90년대 환상의 명작 「SILVA TRAINER」가 하츠네 미쿠 컬러로 완전 복각",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zczZmZ0pBZlhYUll2QUkwczQ4Q1lyUVppTlpOTWg4SVY4bHZTczF4VTdVUVpvWlpPSXYxckQ2U0tSS2tobnY2U2ZhMTl1U0ZubFFPV3hkOVh2LTlwY1MyVDFzNzBUQ2FvZ1E?oc=5",
    "source": "Google News 日",
@@ -1117,7 +1091,7 @@
   },
   {
    "title": "デフォルメフィギュア「ねんどろいど」より、初音ミク V6、雪ミク Snow Metamorph Ver.の彩色見本が公開！ - 電撃ホビーウェブ",
-   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 눈 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
+   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 유키 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02WkhmUDl2Ukp1bEQ1R1d1V0E3M3FzNVVoUHl6bjhVZlVlVmxTeTR5RGcxdUplcFFwbmtvMXhkU1E2cUk4bExoY1hkVGo1ZU9v?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1181,8 +1155,8 @@
    "ts": 1787814000
   },
   {
-   "title": "初音ミク「マジカルミライ2026」モデルの初音ミクと「ミクダヨー」のホロモデル新発売＆ブース内販売予定商品のラインナップ公開 - PR TIMES",
-   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」모델의 하츠네 미쿠와 「미쿠다요」의 홀로 모델 신발매 & 부스 내 판매 예정 상품의 라인업 공개 - PR TIMES",
+   "title": "初音ミク「マジカルミライ2026」モデルの初音ミクと「ミクダヨー」のホロモデル新発売＆ブース内販売予定商品のラインナップ公開 - prtimes.jp",
+   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」모델의 하츠네 미쿠와 「미쿠다요」의 홀로 모델 신발매 & 부스 내 판매 예정 상품의 라인업 공개",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xYmJEVl96OGZMUEZDRUUwR0hleUljSk5mZjJEQlhJeGhoQ2g1c29oNHZHX2JpYmZWX1dNWXZHdlhjbVFVYzdXbmVvQURtNjNGV2gybmUzWjhqXzZscUNEbFJVU0tfTHlqcFE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1207,8 +1181,8 @@
    "ts": 1787814000
   },
   {
-   "title": "初音ミクの新作スマートフォン向けパズルゲーム、2026年秋の配信に向けて事前予約開始！ - PR TIMES",
-   "title_ko": "하츠네 미쿠의 신작 스마트폰용 퍼즐 게임, 2026년 가을의 전달을 향해 사전 예약 개시! - PR TIMES",
+   "title": "初音ミクの新作スマートフォン向けパズルゲーム、2026年秋の配信に向けて事前予約開始！ - prtimes.jp",
+   "title_ko": "하츠네 미쿠의 신작 스마트폰용 퍼즐 게임, 2026년 가을의 전달을 향해 사전 예약 개시! - prtimes.jp",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00SkROVl8zZmY5aENveU1DYVZvRmxMNHdaNmZqcEFVMmVaTHVzN3cwUUVTSG4tZVRyME1HbVhPX2U0NGo0Tmxmb0t5U184YlZBSWtHRExvaW1HemRnN2E4Rkd3dlpHcXdsVEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1220,8 +1194,8 @@
    "ts": 1787814000
   },
   {
-   "title": "「ふるさと納税から、札幌を好きになる。」札幌市×雪ミクが今年もコラボ！札幌市出身・ちほ氏描き下ろしの新イラストを公開 - PR TIMES",
-   "title_ko": "「고향 납세로부터, 삿포로를 좋아하게 된다.」삿포로시×유키미쿠가 올해도 콜라보레이션! 삿포로시 출신·치호씨 신작의 신 일러스트를 공개 - PR TIMES",
+   "title": "「ふるさと納税から、札幌を好きになる。」札幌市×雪ミクが今年もコラボ！札幌市出身・ちほ氏描き下ろしの新イラストを公開 - prtimes.jp",
+   "title_ko": "「고향 납세로부터, 삿포로를 좋아하게 된다.」삿포로시×유키미쿠가 올해도 콜라보레이션! 삿포로시 출신 치호 씨 신작의 새로운 일러스트를 공개 - prtimes.jp",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncWFKSmlXYXNBcThVU2xfY3h5ZG9yVnZ2NGt0d1VmNGdpRERuWFRlQWtzYWoya2Z2OGhOTXhiNTNXSWdac1NyYVBOQ0RFSURNMFp2djZwVUl4aVI3SnZsRlNuTnhUQXRrQ0E?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1246,8 +1220,34 @@
    "ts": 1787295600
   },
   {
-   "title": "【奏の森リゾート×初音ミク】コラボ第3弾開催決定！ - PR TIMES",
-   "title_ko": "【연주 모리 리조트×하츠네 미쿠】콜라보 제3탄 개최 결정! - PR TIMES",
+   "title": "「初音ミク」×『アリス・ギア・アイギス』 8月27日（木）よりコラボイベント復刻決定！｜NEWS｜「アリス・ギア・アイギス」公式サイト - 株式会社コロプラ",
+   "title_ko": "「하츠네 미쿠」×「앨리스・기어・아이기스」 8월 27일(목)부터 콜라보 이벤트 복각 결정! ｜NEWS｜「앨리스・기어・아이기스」 공식 사이트 - 주식회사 코로프라",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15cVd2NVI1UDJkSnZBZ0ZXZ3p5WEhERmFIdmFwWWZtR1hqYjFhR01JSmxXUGhNdmNGVERXalRaNGlPTjA1dEtzMFgzVUpFMmZRU0N2bk0xaFVILUhhY2hXU3VfcE5YT2N3LVp5cGhfekJFejg3STVzdWt3?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-20",
+   "ts": 1787209200
+  },
+  {
+   "title": "「アリス・ギア・アイギス」で「初音ミク」復刻コラボが8月27日にスタート。ミクさんが特別アレンジ楽曲を歌うコラボPVが公開 - 4Gamer.net",
+   "title_ko": "「앨리스 기어 아이기스」에서 「하츠네 미쿠」복각 콜라보레이션이 8월 27일에 스타트. 미쿠씨가 특별 어레인지 곡을 노래하는 콜라보레이션 PV 공개 - 4Gamer.net",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpeVNQZjBPRktqRnluU1g0bnJxc01mWHh1cU5KX09UczBFdDNYc0tocVNhaUc1RnJlRWpDOWxEZjRhbmZGazNTcGtXeU82UWxGUkcxc3NZSjVuQXV3YjdxdXVsVQ?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-20",
+   "ts": 1787209200
+  },
+  {
+   "title": "【奏の森リゾート×初音ミク】コラボ第3弾開催決定！ - prtimes.jp",
+   "title_ko": "【연주 모리 리조트×하츠네 미쿠】콜라보 제3탄 개최 결정! - prtimes.jp",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BMnlYNkluUmI3cVJwWTNBSDdZa2E1eWNOMU12QVZCV3JLbFpwemZoZWw3U0oyQ0J1cDlUSUpkbnpxVmF0bUJzSzhiTHhJWlB3Z1BFLU9pQ2xuTjVpMElDR3ZZQWRCcUpEWEE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1272,17 +1272,17 @@
    "ts": 1786690800
   },
   {
-   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - 17173",
-   "title_ko": "\"매직 더 개더링\" 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - 17173",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZ1N1VWI0VllQUHV1SXpRZmhrVVFiUU1scy13VzAwdUx6OFc0WERyTDFjakkyaG53SmJiWjRTVFRIVkxlbmp1OXpLRTlDTURYNmE3Ukk4bFM2NWdMNWtwQmxweXM?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
+   "title": "Secret Lair Commander Deck: Hatsune Miku Decklist - Magic: The Gathering",
+   "title_ko": "Secret Lair Commander 덱: 하츠네 미쿠 덱목록 - Magic: The Gathering",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NlZFkzUEhXSEhpOE9jd1p1U2xGS2J0TXdfN1BUNm5GREdqTUEzUHBMckdoa2tPRU9ITzBMcGVyYXNsalBkdXQzYW5PT2czM3VPRVc3dTFKM25DWExLcWJtRzROTHQyZXNHWXlPTGpZQTRoMGNoemJfdlRMU2otSlFrY0V5bDNRUW9hcktDYmRoU3pjb3FnQTExeEk?oc=5",
+   "source": "Google News 英",
+   "region": "global",
    "category": "goods",
    "type": "news",
-   "lang": "zh-CN",
+   "lang": "en",
    "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785913200
+   "date": "2026-08-04",
+   "ts": 1785826800
   }
  ]
 }
