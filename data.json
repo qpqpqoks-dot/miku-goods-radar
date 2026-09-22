@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-22T16:13:57+00:00",
+ "updated": "2026-09-22T20:52:07+00:00",
  "count": 98,
  "news": 60,
  "shop": 38,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7301},\"items\":[{\"gcode\":\"FIGURE-208480\",\"gname\":\"Nendoroid Character Vocal Series 01 Hatsune Miku: Katsushika Hokusai Collaboration Ver. (Rella)\",\"thumb_url\":\"/images/product/main/263/FIGURE-208480.jpg\",\"thumb_alt\":\"FIGURE-208480.jpg\",\"thumb_title\":\"Nendoroid Character Vocal Series 01 Hatsune Miku: Katsushika Hokusai Collaboration Ver. (Rella)\",\"min_price\":7650,\"max_price\":7650,\"c_price_taxed\":8500,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available",
-  "amiami": "http200/39648/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -557,9 +557,9 @@
    "ts": 1789938603
   },
   {
-   "title": "【開幕】印刷博物館ミニ展示『Polaris ―時代を超えた アイコンと絵師―』 時代を超えて響きあう北斎と初音ミク 文化の継承を象徴 2027年1月11日まで - 美術展ナビ",
-   "title_ko": "【개막】인쇄 박물관 미니 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」 시대를 넘어 울리는 호쿠사이와 하츠네 미쿠 문화의 계승을 상징 2027년 1월 11일까지 - 미술전 내비게이션",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9menJYQU9KUDk4dGFILW10MUs2aFJaR2YyYlFQWE4xWE93aFFBRWJBWlZ6S0NHRUxfQ0dfcXA3Sm1nQVNjdDVXS29Xc01BVVAxajU0TmpoVXRNTDBYdldiQVBxRm1KTzV3?oc=5",
+   "title": "北斎×初音ミクがコラボ！ 企画展示「Polaris ―時代を超えたアイコンと絵師―」が9月19日より開催 (リアルサウンド) - Yahoo!ニュース",
+   "title_ko": "호쿠사이×하츠네 미쿠가 콜라보레이션! 기획 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」가 9월 19일부터 개최 (리얼 사운드) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1NqSnJ5dlU1dUloZDVLR180RW5CLTc0V0RrUzFhcHFvR0l4VjRGbEpMNk5sSG5tTjN3YTVpdml5NzdEWkduTmdhSFZvU29abkpmOWJUTEZybllZMUtsMURvaUhhWGNhWE4wRjg3cUdQN21vVzBiQWo4eTgtUkJRTjh0TlhzS2xjenFheHFR?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -567,20 +567,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-09-18",
-   "ts": 1789757040
-  },
-  {
-   "title": "フリュー プライズ『初音ミク Flower Fairy -ほおずき Color Change-ぬーどるストッパーフィギュア』初春の息吹を感じる翠緑カラーで登場！ - 玩具人 TOY PEOPLE",
-   "title_ko": "프류 프라이즈 「하츠네 미쿠 Flower Fairy -호오즈키 Color Change-누드루 스토퍼 피규어」초봄의 숨결을 느끼는 옥록 컬러로 등장! - 장난감 사람 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MalJVLXBia005MmhyM3MxbUFtbERCSnJaeFJqdnBud3MyRnlJSVFEQ21iZnFDZ09YamNoUEdrdGp1T0VwcDh2dXFkeDJ3V0Vj?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-18",
-   "ts": 1789743613
+   "ts": 1789745547
   },
   {
    "title": "FuRyu Unveils New Hatsune Miku Flower Fairy -Hozuki Color Change- Noodle Stopper Figure in Emerald Green! - 玩具人 TOY PEOPLE",
@@ -596,19 +583,6 @@
    "ts": 1789743613
   },
   {
-   "title": "北斎×初音ミクがコラボ！ 企画展示「Polaris ―時代を超えたアイコンと絵師―」が9月19日より開催（リアルサウンド） - Yahoo!ニュース",
-   "title_ko": "호쿠사이×하츠네 미쿠가 콜라보레이션! 기획 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」가 9월 19일부터 개최(리얼 사운드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kOWt6RDl2S2JQTkFXaWhuQWhPcEp2ejRkc1JpTEtCQ0x4Zmg5MFI4LTlPLUdQeWpUU1E1YUV5eXB1bWVhNFVFd2FDdkNxV1MtY1VrZXctZFA2WksxYUhZS0U3RUFNQjByZTVuX29RbDJReWpZcDlOUjRJWXFXRFk?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "goods",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-18",
-   "ts": 1789741824
-  },
-  {
    "title": "Hatsune Miku/Hokusai exhibition in Tokyo lets you make your own Miku woodblock print - SoraNews24",
    "title_ko": "도쿄의 하츠네 미쿠/호쿠사이 전시회를 통해 자신만의 미쿠 목판화를 만들 수 있습니다 - SoraNews24",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUtJbkw2NTNIbTE0dW5DSE9lUWh4ZGpRSHdoUGEtSFRrT3h4WHFZSTZrek5taWFoQmY4M1JtMDIxSFFodVhTSkhhLVV5c0VaVUpPQWFueWoxb0Rjc0VkQzNLYUpZcWYzT2ZrUE5HYUxxbGVYWjRKMlp4UnNEQXRZTmlna2hBdW93NkxNZjRhR04zZWVuVGRLZzd0QVVJY1JmbVBWT0FLZkJhRDc0TEV3d1FCdC1IandpRTlN0gHAAUFVX3lxTE8wV0RMc2hhVzBZUGl2NV82YnVsTFN4akxwSjVBWEJiTFhVa2stOE1IUC1Qc0UtY2hLMHl4VGRpc090cFQyLVhMaVdRalRVeEF1VkRERVd0dThJeUE1THBfWThvaWJUQmxqZV9NYTJtTkhvSkpXd3BQYkdCTFh0LUhvNHg3NzlDdXdMYnA2RmpFaVpNM29oTEhMalBTZGtMTEJjZlR0YWRKNkVEOG9ncHBzSV9ReXlrRzBwUEVJM0JmTA?oc=5",
@@ -620,6 +594,19 @@
    "thumb": null,
    "date": "2026-09-18",
    "ts": 1789736420
+  },
+  {
+   "title": "北斎×初音ミクがコラボ！ 企画展示「Polaris ―時代を超えたアイコンと絵師―」が9月19日より開催 - リアルサウンド",
+   "title_ko": "호쿠사이×하츠네 미쿠가 콜라보레이션! 기획 전시 「Polaris ―시대를 넘은 아이콘과 그림사―」가 9월 19일부터 개최 - 리얼 사운드",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sNkxaRFl3R2tPck51YzAyZ2JyTHlPeU91ekh0WFlqUTNra0p4X3R1eWtFRVFJeDY1ZHR4MHVIZkdKX0Q3MzV6SVFaMHA2c2lnMFVtc0dWeGJ5NnktUGp0OdIBZkFVX3lxTE84YWZjendIMjJTaVdrSVIyMGdydnFzTlhQOUlGN2gzczJYYWt3bXZJVVhGLXJ1LUphYldQMC1QanJfZ0t6NWNXVUNrUnNIcng1ZWx5RGRUa09yRkZnRWoxbWNNWVhoQQ?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-18",
+   "ts": 1789733943
   },
   {
    "title": "『初音ミク』×『涼宮ハルヒ』コラボのビジュアルが公開。いとうのいぢ氏による描き下ろし - 電ファミニコゲーマー",
@@ -724,6 +711,19 @@
    "thumb": null,
    "date": "2026-09-16",
    "ts": 1789596232
+  },
+  {
+   "title": "粘土人「初音ミク 葛飾北斎 合作Ver.(Rella)」 更多细节图公开 最后一张是GSC预定特典：Rella插图贴纸两张 #初音未来# ​ - 手机新浪网",
+   "title_ko": "넨도로이드 \"카츠시카 미쿠 카츠시카 키타쿠사 콜라보레이션 Ver.(렐라)\" 더욱 자세한 사진이 공개되었습니다. 마지막은 GSC 사전예약 특전: Rella 일러스트 스티커 2개 #半妖# - Mobile Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcG51Wm53akNpZXBBX0tlNjY2dndZUG04LXQyd1RXMTd2dHZFUE1ZdXJzRVJiNlFnclgtd251c3l2Nmt4S0pqN3Ntdk10cXZfTkRVb0lzUXYza3J0SFh4WTltSQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "figure",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-09-16",
+   "ts": 1789567920
   },
   {
    "title": "彩色原型首次公开！ 初音未来 黏土人 葛饰北斋 联名Ver.（#Rella） 日本预计9月18日起开始预订！ ——追加设计图~！ ​ - 手机新浪网",
@@ -882,8 +882,8 @@
    "ts": 1789023600
   },
   {
-   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby Watch",
-   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby Watch",
+   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby.watch.impress.co.jp",
+   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby.watch.impress.co.jp",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbUJ6TG95QVM4bFB4clVobTM1QkY4bXp2M3hMZFdJTzRQWkRrSk56bGtzUFRlZTZ4NFExNkppeUc2X29NcGV2c1NubDEwSnVlVmhqeDBoVFpidmNUWnp1cTVRaWozcGc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1116,6 +1116,19 @@
    "ts": 1787814000
   },
   {
+   "title": "初音ミク「マジカルミライ2026」モデルの初音ミクと「ミクダヨー」のホロモデル新発売＆ブース内販売予定商品のラインナップ公開 - PR TIMES",
+   "title_ko": "하츠네 미쿠 「마법의 미라이 2026」모델의 하츠네 미쿠와 「미쿠다요」의 홀로 모델 신발매 & 부스 내 판매 예정 상품의 라인업 공개 - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xYmJEVl96OGZMUEZDRUUwR0hleUljSk5mZjJEQlhJeGhoQ2g1c29oNHZHX2JpYmZWX1dNWXZHdlhjbVFVYzdXbmVvQURtNjNGV2gybmUzWjhqXzZscUNEbFJVU0tfTHlqcFE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-27",
+   "ts": 1787814000
+  },
+  {
    "title": "「ギークス ルール」× 初音ミク × AiobahnのトリプルコラボTシャツ発売 「DIVA (feat. 初音ミク)」の印象的なジャケットをプリント - Yahoo!ニュース",
    "title_ko": "「기크스 룰」×하츠네 미쿠 × Aiobahn의 트리플 콜라보레이션 T셔츠 발매 「DIVA(feat. 하츠네 미쿠)」의 인상적인 재킷을 프린트 - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mUEw3X3d5TDdKSXFaS2JHbWpIaXhqZTZGVTVNTEhjWi1wQTFVX3pKeEY2T1JMQXk3Q0o2Qk11MTVQcUxVV3JNaWEtLWZTTTBMUEpoQ2Q4NnBxaVg0WmM1X1lxUjV0WFh6QnFlRk83V2dxUVdLZjNVRC15U0I5cms?oc=5",
@@ -1155,8 +1168,21 @@
    "ts": 1787727600
   },
   {
+   "title": "「ふるさと納税から、札幌を好きになる。」札幌市×雪ミクが今年もコラボ！札幌市出身・ちほ氏描き下ろしの新イラストを公開 - PR TIMES",
+   "title_ko": "「고향 납세로부터, 삿포로를 좋아하게 된다.」삿포로시×유키미쿠가 올해도 콜라보레이션! 삿포로시 출신·치호씨 신작의 신 일러스트를 공개 - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ncWFKSmlXYXNBcThVU2xfY3h5ZG9yVnZ2NGt0d1VmNGdpRERuWFRlQWtzYWoya2Z2OGhOTXhiNTNXSWdac1NyYVBOQ0RFSURNMFp2djZwVUl4aVI3SnZsRlNuTnhUQXRrQ0E?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-26",
+   "ts": 1787727600
+  },
+  {
    "title": "「初音ミクとEko iXimaのミクストメディア展」が開催中！ 初音ミクたちピアプロキャラクターズのパッケージなどを手掛けるEko iXima初の個展 - eeo",
-   "title_ko": "“하츠네 미쿠와 Eko iXima 혼합 미디어전”이 현재 개최 중입니다! 하츠네 미쿠와 기타 피아프로 캐릭터의 포장을 다루는 Eko iXima의 첫 개인전 - eeo",
+   "title_ko": "「하츠네 미쿠와 Eko iXima의 믹스트 미디어전」이 개최중! 하츠네 미쿠들 피어프로 캐릭터즈 패키지 등을 다루는 Eko iXima 첫 개인전 - eeo",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2dk9zbU1Bcm9INGxQVVM5SXgtV05DeEtrYUlwMnNnaFNzeVJhWEtZTUV0anB1Q3BxdmtXZG1QRG5lZ3ExOXVKY0xYYndrQnQwVzZwMg?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1257,32 +1283,6 @@
    "thumb": null,
    "date": "2026-08-05",
    "ts": 1785913200
-  },
-  {
-   "title": "Magic 下一款 Secret Lair 指挥官套牌正是传闻已久的 Hatsune Miku 联动 - 17173",
-   "title_ko": "매직의 다음 Secret Lair Commander 덱은 바로 오랫동안 소문이 자자했던 하츠네 미쿠 크로스오버인 17173입니다.",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdUx3TXVicWllUUFFaFhuUm9CdmcyUHJ5TkRfUUNvd2hUUmEtbTdyN2RWZnB1YXM4LWlFR0Z5OFVpSkNHcWNNcjhSa2MxNHNJTmZmeUF0RkNrczcyaGdUcGhxTUM?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785913200
-  },
-  {
-   "title": "Secret Lair Commander Deck: Hatsune Miku Decklist - Magic: The Gathering",
-   "title_ko": "Secret Lair Commander 덱: 하츠네 미쿠 덱목록 - Magic: The Gathering",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU3NlZFkzUEhXSEhpOE9jd1p1U2xGS2J0TXdfN1BUNm5GREdqTUEzUHBMckdoa2tPRU9ITzBMcGVyYXNsalBkdXQzYW5PT2czM3VPRVc3dTFKM25DWExLcWJtRzROTHQyZXNHWXlPTGpZQTRoMGNoemJfdlRMU2otSlFrY0V5bDNRUW9hcktDYmRoU3pjb3FnQTExeEk?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-08-04",
-   "ts": 1785826800
   }
  ]
 }
