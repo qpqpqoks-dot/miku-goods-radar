@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T11:53:11+00:00",
+ "updated": "2026-09-30T17:36:16+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
@@ -363,7 +363,7 @@
   },
   {
    "title": "[Exclusive Sale] Lucrea Mobile Suit Gundam 45th Anniversary x Hatsune Miku Hatsune Miku x 00 Gundam 1/7 Complete Figure",
-   "title_ko": "[독점 세일] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
+   "title_ko": "[한정판매] 루크아 기동전사 건담 45주년 x 하츠네 미쿠 하츠네 미쿠 x 00 건담 1/7 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-192189",
    "source": "AmiAmi",
    "region": "jp",
@@ -441,7 +441,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -544,9 +544,9 @@
    "ts": 1790765162
   },
   {
-   "title": "『HATSUNE MIKU EXPO』の初音ミク カチクリ☆シールの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて - PR TIMES",
-   "title_ko": "『HATSUNE MIKU EXPO』의 하츠네 미쿠 카치쿠리☆씰의 수주를 개시! ! 애니메이션・만화의 오리지널 상품을 판매하는 「AMNIBUS」에서 - PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUzFqMjlqMHBLUkxLWXpxWGt1RnRCNE5qOVVfQ3pKRjZZOHc0QTIyV3RXZFVyeGpvN3JIRzYwaXNVZGtSOFhpenhteVBYeXZJR18wdWxLWlZhcm12NnBjamlxWjBWRkJ0RUE?oc=5",
+   "title": "『HATSUNE MIKU EXPO』の初音ミク カチクリ☆シールの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて - 時事ドットコム",
+   "title_ko": "『HATSUNE MIKU EXPO』의 하츠네 미쿠 카치쿠리☆씰의 수주를 개시! ! 애니메이션・만화의 오리지널 상품을 판매하는 「AMNIBUS」에서 - 시사닷컴",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nbGtOcE1uN3BUaHFybExQajhiZ08zNVMzRUU1ZXpMb1RUUFJWbDlubEEyb3laYzJQSHljam5xODJNRVZlV0RrYjBETDZ1bmRBVHBHQWZxSGdRMHBaODAzSlZUYk9RUHNOMlpB?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -554,7 +554,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-09-30",
-   "ts": 1790731673
+   "ts": 1790739960
   },
   {
    "title": "2021年度初音ミクGTプロジェクト専用キャラクター「レーシングミク 2021 Private Ver.」が1/7スケールフィギュアで再登場！ - Hobby JAPAN Web",
@@ -584,7 +584,7 @@
   },
   {
    "title": "タイトーのプライズフィギュア「雪ミク AMP＋」シリーズより、かにビーム氏とポップキュン氏デザイン「雪ミク」が2026年9月下旬に登場！ - 電撃ホビーウェブ",
-   "title_ko": "타이토의 프라이즈 피규어 「유키 미쿠 AMP＋」시리즈보다, 게빔 씨와 팝쿤씨 디자인 「유키 미쿠」가 2026년 9월 하순에 등장! - 전격 취미 웹",
+   "title_ko": "타이토의 프라이즈 피규어 「유키 미쿠 AMP＋」시리즈보다, 게빔 씨와 팝큐 씨 디자인 「유키 미쿠」가 2026년 9월 하순에 등장! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SbE5sQkpwT1hFMFIzTkkxS0ZWNGpfci1mN3c3U3JmUVBwVTVPb0JfS2pMZlQ1NUJ3NTNNVTlUb2dQLWpxb0V0UjdMNmZKOHhF?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -620,19 +620,6 @@
    "thumb": null,
    "date": "2026-09-28",
    "ts": 1790586300
-  },
-  {
-   "title": "DECO*27氏仕様の「初音ミク」がポッパレデビュー！デコミク（ライトネス）とデコミク（ダークネス）のデュオが「POP UP PARADE」L sizeシリーズに登場!! - 電撃ホビーウェブ",
-   "title_ko": "DECO*27씨 사양의 「하츠네 미쿠」가 뽀빠레데뷔! 데코믹(라이트니스)과 데코믹(다크니스)의 듀오가 「POP UP PARADE」L size 시리즈에 등장!! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RNnF0WUhZNVpRZWNKU0NTUnFLOFhuMXdEU0k4VF8tN1otQWpBVlBTYnNONVBMS1JoUVZBb2c3ZTdqa3VhTGNWeGdnMGRaWW5F?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-28",
-   "ts": 1790564400
   },
   {
    "title": "【初音ミク】ヴィランver.ぬーどるストッパーフィギュアが再登場！ 本田ロアロ氏デザイン - 電撃オンライン",
@@ -675,7 +662,7 @@
   },
   {
    "title": "Grimes、slayr、Frost Childrenらが初音ミクとコラボした国際ボカロプロジェクトEP配信 - ナタリー",
-   "title_ko": "Grimes, slayr, Frost Children 등이 하츠네 미쿠와 협업한 국제 보카로 프로젝트 EP 전달 - 나탈리",
+   "title_ko": "Grimes, slayr, Frost Children 등이 하츠네 미쿠와 콜라보한 국제 보카로 프로젝트 EP 전달 - 나탈리",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EQ2NPbi1FMC1xZjVzOXJBaFRkWlItODFHVkpjUnNMT0E0UG5vT2luUl9zMXZINGdxZnlFUDQyX0VJZGlROHdZLXVHQ04?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -700,6 +687,19 @@
    "ts": 1790388000
   },
   {
+   "title": "宙を泳ぐ金魚と舞うミク！初音ミク 金魚Ver. 1/7スケールフィギュア - Dtimes",
+   "title_ko": "공중을 수영하는 금붕어와 춤추는 미쿠! 하츠네 미쿠 금붕어 Ver. 1/7 스케일 피규어 - Dtimes",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iYlNsWkkzSWx6YW5UZTFRVElweGp0QURzNkdiSDJlUU42YmZ6NkttS2xPay1ReXJveGdadkNCd05GanJUaHc?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-25",
+   "ts": 1790367378
+  },
+  {
    "title": "레이싱 미쿠, 역동적이고 볼륨감 넘치는 디자인의 GiGO 한정 경품 피규어로 등장 - haveagood-holiday.com",
    "title_ko": null,
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWh5cGsxa0ZqU3FZTHRsTWo4Q0tNd1pVdi1BYWFyaVlJWDZBdHk3RThkcm81N09EeVk4ekVaQWtFb29fTm1ZR19UXzJJcGtWTDFMVW5LOXFQZkE1SlJxcjE4cGxtbzg0NWZKTUxRMENnUm9vb1VUZ00teW8zd2k2U3dnNnk1UGNJMlpfY2xScw?oc=5",
@@ -713,9 +713,9 @@
    "ts": 1790350623
   },
   {
-   "title": "桜色の装いがかわいすぎる！「初音ミク 新学期 フィギュア」【あみあみ展示撮り下ろし】 (HOBBY Watch) - Yahoo!ニュース",
-   "title_ko": "벚꽃의 옷차림이 너무 귀엽다! 「하츠네 미쿠 신학기 피규어」【아미아미 전시 촬영】 (HOBBY Watch) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN29iZTlsVGN1Mk1WSm96RS1FMXhYTlFTTlNBZTRLOU1tWUxmN3lvb1YtdHl0dDlGd1V4WDJWaXh3T3VnMUN1SUV3RXJtNVdiV2phRXJocW42S1Vsel80VG1YU2FMS09fWDRFZE83d1otZGhFSnY3Wks2MUJydDRWa1JsRzA2Q2tTYWRCMThB?oc=5",
+   "title": "桜色の装いがかわいすぎる！「初音ミク 新学期 フィギュア」【あみあみ展示撮り下ろし】 - hobby Watch",
+   "title_ko": "벚꽃의 옷차림이 너무 귀엽다! 「하츠네 미쿠 신학기 피규어」【아미아미 전시 촬영】 - hobby Watch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iQWxsR0ZqYXpka1BoVkM5elNEbjFHUXZfTTVBZmh3YTQzWGtiN2dTSE9YTkpyYWZSYURVSlNYckI0MncxWmo3VkM4akw5Z0ZQa3RpTkc5QmxsS2hEVXRNcTVoNlVEQ2YtYWVV?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -726,9 +726,9 @@
    "ts": 1790348400
   },
   {
-   "title": "桜色の装いがかわいすぎる！「初音ミク 新学期 フィギュア」【あみあみ展示撮り下ろし】 - hobby.watch.impress.co.jp",
-   "title_ko": "벚꽃의 옷차림이 너무 귀엽다! 「하츠네 미쿠 신학기 피규어」【아미아미 전시 촬영】 - hobby.watch.impress.co.jp",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iQWxsR0ZqYXpka1BoVkM5elNEbjFHUXZfTTVBZmh3YTQzWGtiN2dTSE9YTkpyYWZSYURVSlNYckI0MncxWmo3VkM4akw5Z0ZQa3RpTkc5QmxsS2hEVXRNcTVoNlVEQ2YtYWVV?oc=5",
+   "title": "桜色の装いがかわいすぎる！「初音ミク 新学期 フィギュア」【あみあみ展示撮り下ろし】 (HOBBY Watch) - Yahoo!ニュース",
+   "title_ko": "벚꽃의 옷차림이 너무 귀엽다! 「하츠네 미쿠 신학기 피규어」【아미아미 전시 촬영】 (HOBBY Watch) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN29iZTlsVGN1Mk1WSm96RS1FMXhYTlFTTlNBZTRLOU1tWUxmN3lvb1YtdHl0dDlGd1V4WDJWaXh3T3VnMUN1SUV3RXJtNVdiV2phRXJocW42S1Vsel80VG1YU2FMS09fWDRFZE83d1otZGhFSnY3Wks2MUJydDRWa1JsRzA2Q2tTYWRCMThB?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -791,9 +791,9 @@
    "ts": 1790316903
   },
   {
-   "title": "儚げな初音ミクが魅力的！フィギュア「G.S.Collection 桜ミク グッスマイラコンVer.」が予約開始 (インサイド) - Yahoo!ニュース",
-   "title_ko": "바쁜 하츠네 미쿠가 매력적! 피규어 「G.S.Collection 사쿠라 미쿠 굿스마이 라콘 Ver.」가 예약 개시 (인사이드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3FSVWdEcHdVc2VHOFVCWmtRTnJXU05DMEh5UHVxWkdIdUpBOGZzMmxic05zUUlxZFg1bkl0bzlGNFRiU2JyMjM1MFBuaUdLVlZiVHRzNXVPanp1MTZrSi1YU1otOE8ybl9zS1I5Q0hyMDF3cndKZWJEQVRYei1BTlJadjBsT3k5bHFRcnRR?oc=5",
+   "title": "儚げな初音ミクが魅力的！フィギュア「G.S.Collection 桜ミク グッスマイラコンVer.」が予約開始（インサイド） - Yahoo!ニュース",
+   "title_ko": "바쁜 하츠네 미쿠가 매력적! 피규어 「G.S.Collection 사쿠라 미쿠 굿스마이 라콘 Ver.」가 예약 개시(인사이드) - Yahoo!뉴스",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yRUN6YVVaSVJ6aFp3TFBFbnd3Rm9HeXAwczFyUlVqUG13b1owcXhpQ1hrYVFlZzdYSVhFRFdXZDNQMzB6andHTkNVaHlqQ3F4QmhQa0E1dGVKeE5SSXZuOUc0Z2daNFlxUXJrV0FnRHlnSldxS1ZYR2h1bzdCTFk?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -830,8 +830,21 @@
    "ts": 1790316903
   },
   {
+   "title": "人気イラストレーターATDan氏と「Hanasa」氏の描く『初音ミク 金魚Ver.』が 1/7スケールフィギュアに！ - PR TIMES",
+   "title_ko": "인기 일러스트레이터 ATDan씨와 「Hanasa」씨가 그리는 「하츠네 미쿠 금붕어 Ver.」가 1/7스케일 피규어에! - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CR3VsdFp6bWdRQlNfNF96RHVXbG9lTlV6aFlUelBjR1IzS1hKVkVVUVdWQUx0SlFwYU9MSW9ueUpVNExSa2pvc3ZYY05XUjRrSmZNejZmWlVMNVQzaWRGbEFHVG5Wb3B6QUE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-09-25",
+   "ts": 1790301392
+  },
+  {
    "title": "名爵应用_游戏资讯_黄牛炒作依旧猖獗!万智牌×初音未来联动卡牌价格翻倍 - womenofchina.com",
-   "title_ko": "MG앱_게임뉴스_스캘퍼(Scalper) 과대광고가 아직도 만연해요! 매직 × 하츠네 미쿠 연계 카드 가격이 두 배로 올랐습니다 - womenofchina.com",
+   "title_ko": "MG앱_게임뉴스_스캘퍼 과대광고가 아직도 만연해요! 매직 × 하츠네 미쿠 연계 카드 가격이 두 배로 올랐습니다 - womenofchina.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42dVRnQXpmUjQzNFhRbFgtM2JobDRTbHVtXy1mckJ3d1lvUTJUdzZqVzJ2dW9KSnBTM1pwMXdtTEk0c3hXSFBDcDdmRExiT0ZQaURkMFJIMGNVUQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
@@ -909,7 +922,7 @@
   },
   {
    "title": "セーラー衣装がカワイイ「初音ミク」フィギュアにドキッ！イラストレーターの米白粕先生がデザイン（インサイド） - Yahoo!ニュース",
-   "title_ko": "세일러 의상이 예쁜 「하츠네 미쿠」피겨에 드킷! 일러스트레이터의 쌀 하쿠바 선생님이 디자인(인사이드) - Yahoo!뉴스",
+   "title_ko": "세일러 의상이 귀여운 \"하츠네 미쿠\"피규어에 드킷! 일러스트 레이터의 쌀 하쿠 미사 선생님이 디자인 (인사이드) - Yahoo!",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zTGkyUXppZF83dFJNOWtNbC1BU1U2dVNWcFAwaW43eEg0c1hZUTRMUFkxVFROMktqcTJ5d0c4Y2ZIUzhVd1hodXZkSDl5QzZ0YUpPaUt3SUM1TVQzb3R1LWtFQkRUeldGNU1hVlhxcEM1ZzdLSG1nQ2lIckZBQnM?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -960,19 +973,6 @@
    "ts": 1789714800
   },
   {
-   "title": "葛飾北斎×初音ミク！Rella氏による浮世絵とのコラボレーションデザインで「初音ミク」がねんどろいど化！2027年4月発売予定！ - 電撃ホビーウェブ",
-   "title_ko": "카츠 시카 호쿠사이 × 하츠네 미쿠! Rella씨에 의한 우키요에와의 콜라보레이션 디자인으로 「하츠네 미쿠」가 넨 드로이드화! 2027년 4월 발매 예정! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZNG9ncGF2bzh3U3RGQkdRUXlmVzhiTFlLRTBrN2pyQkpfUG5UMWRBNWRYajlORmxYV3JJODlaTExPd2J2V2xiVzNWVWd4Rjgz?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-09-18",
-   "ts": 1789714800
-  },
-  {
    "title": "Hatsune Miku/Hokusai exhibition in Tokyo lets you make your own Miku woodblock print - SoraNews24",
    "title_ko": "도쿄의 하츠네 미쿠/호쿠사이 전시회를 통해 자신만의 미쿠 목판화를 만들 수 있습니다 - SoraNews24",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUtJbkw2NTNIbTE0dW5DSE9lUWh4ZGpRSHdoUGEtSFRrT3h4WHFZSTZrek5taWFoQmY4M1JtMDIxSFFodVhTSkhhLVV5c0VaVUpPQWFueWoxb0Rjc0VkQzNLYUpZcWYzT2ZrUE5HYUxxbGVYWjRKMlp4UnNEQXRZTmlna2hBdW93NkxNZjRhR04zZWVuVGRLZzd0QVVJY1JmbVBWT0FLZkJhRDc0TEV3d1FCdC1IandpRTlN0gHAAUFVX3lxTE8wV0RMc2hhVzBZUGl2NV82YnVsTFN4akxwSjVBWEJiTFhVa2stOE1IUC1Qc0UtY2hLMHl4VGRpc090cFQyLVhMaVdRalRVeEF1VkRERVd0dThJeUE1THBfWThvaWJUQmxqZV9NYTJtTkhvSkpXd3BQYkdCTFh0LUhvNHg3NzlDdXdMYnA2RmpFaVpNM29oTEhMalBTZGtMTEJjZlR0YWRKNkVEOG9ncHBzSV9ReXlrRzBwUEVJM0JmTA?oc=5",
@@ -986,8 +986,8 @@
    "ts": 1789714800
   },
   {
-   "title": "初音ミクが沖縄に！『CHURA MIKU STREET 2026』イベント情報 第2弾 - the-miyanichi.co.jp",
-   "title_ko": "하츠네 미쿠가 오키나와에! 「CHURA MIKU STREET 2026」이벤트 정보 제2탄 - the-miyanichi.co.jp",
+   "title": "初音ミクが沖縄に！『CHURA MIKU STREET 2026』イベント情報 第2弾 - 宮崎日日新聞DIGITAL",
+   "title_ko": "하츠네 미쿠가 오키나와에! 「CHURA MIKU STREET 2026」이벤트 정보 제2탄 - 미야자키 일일 신문 DIGITAL",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16VGNZNGcyMzJTbkdfbFRhWmhVbDJXV3BJN0tpc3RCamNoTDR5UTlIZUJHTFBpbEpRWGtIOUhPM0NkNVhLWWdTLV9yanFyR20tWm0yRnVrQmd4cVBPcEtBZmF0ZFVMdEttay1SbEQyR2V2ckU?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1000,7 +1000,7 @@
   },
   {
    "title": "タイトー、プライズフィギュア「雪ミク（初音ミク）」×「AMP＋」大型企画第3弾、第4弾の彩色原型を公開（HOBBY Watch） - Yahoo!ニュース",
-   "title_ko": "타이토, 프라이즈 피규어 「유키 미쿠(하츠네 미쿠)」×「AMP+」대형 기획 제3탄, 제4탄의 채색 원형을 공개(HOBBY Watch) - Yahoo!뉴스",
+   "title_ko": "타이토, 프라이즈 피겨 「유키 미쿠(하츠네 미쿠)」×「AMP+」대형 기획 제3탄, 제4탄의 채색 원형을 공개(HOBBY Watch) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aS1VNdVdxZGNLNU9mS3k2a0ZIeFFZZXNIdy05SjE3NmY4N3NYeUpaSFpDN0xpWk9wVDVQLWVRcFRVMDE2OFZJSlAyVFM2cDFuRzIwcVMwTzRvWk1pWGVGaHh4ckpMd0l0T2pOaXBSeUQ2UjNSakRjTTA4T0Z3UXc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1038,6 +1038,19 @@
    "ts": 1789455600
   },
   {
+   "title": "初音ミク×AOZORAGEAR コラボ第2弾 アウトドアグッズ11月発売! - コラボカフェ",
+   "title_ko": "하츠네 미쿠×AOZORAGEAR 코라 2권 아이타루타가 11월 발매 예정! - 코라타",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWI3SmoxcVc0U0NvMDhfVTdwb0FZOEpvMUdGZ081T0h2LU5NTENZaUIzSDB3LUhQZTRIU2lzRk94Y3V1OEJ6Uk1EX2NhanRuTEF6TTFQbnFIZ2hSa3FBS3BfYVdrTlE4THhlWmRTTk1FbzZCSjQ0ZUNjOWR5cExuNFo5T3pKR0lNeEZWR0t0OEN5V0dkQlFSeDMwNXlfNjNfTmZ4cVpwR2VXamNxYnc?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-09-14",
+   "ts": 1789369200
+  },
+  {
    "title": "하츠네 미쿠 심포니: 10주년 기념 Ver. 1/7 스케일 피규어, 아미아미에서 예약 판매 시작 - haveagood-holiday.com",
    "title_ko": null,
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZG1DdHpVOTZTczFuRGZBajU2ckFyMTJCZlRuSTRnWWpjajVOWlVHRjBCd0NIb3lBMGNWOG9DTWtwYl9vckk4SUNBcTJCcnJOUVVIbEVoUF8xb2ZmVmRLU1FSY2tueEgzV19RWTl2Z0lJcXRVNUxPSGdoa2NyREF2TXpsd0NnWHhJeWZlaUNTNlV0aDVyTHFoOEMwSWlqS1k?oc=5",
@@ -1064,8 +1077,8 @@
    "ts": 1789023600
   },
   {
-   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby.watch.impress.co.jp",
-   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby.watch.impress.co.jp",
+   "title": "「POP UP PARADE 初音ミク シナモロールコラボVer. L size」本日出荷開始！ - hobby Watch",
+   "title_ko": "「POP UP PARADE 하츠네 미쿠 시나모롤 콜라보레이션 Ver. L size」오늘 출하 개시! - hobby Watch",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbUJ6TG95QVM4bFB4clVobTM1QkY4bXp2M3hMZFdJTzRQWkRrSk56bGtzUFRlZTZ4NFExNkppeUc2X29NcGV2c1NubDEwSnVlVmhqeDBoVFpidmNUWnp1cTVRaWozcGc?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1143,7 +1156,7 @@
   },
   {
    "title": "Desktop Fairy Hatsune Miku Wonderland Figure Feels Dynamic - Siliconera",
-   "title_ko": "데스크탑 요정 하츠네 미쿠 원더랜드 피규어가 역동적으로 느껴집니다 - Siliconra",
+   "title_ko": "역동적인 느낌을 주는 데스크탑 요정 하츠네 미쿠 원더랜드 피규어 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0VCSFQtUlJ2NEQtZ19ERktFZkx4akdRNml0QnFrNTFpRzl2NVQzZGdwVUZsOFdNZEszNkZRYVlvZlA4Q21iSWlEMWI4cGd2Q3hkM1cyMkszM0NOdFBvMV9STVFxTHZRdUtQdnk4Z25HN1NCbDhYdTFfN0stNmNkbWQwWVlid090MUJtYXVUZw?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1208,7 +1221,7 @@
   },
   {
    "title": "Pokémon feat. Hatsune Miku: Project Voltage live performance getting Blu-ray release (UPDATE) - GoNintendo",
-   "title_ko": "포켓몬스터 위업. 하츠네 미쿠: 프로젝트 전압 라이브 공연, 블루레이 출시 예정(업데이트) - GoNintendo",
+   "title_ko": "포켓몬 위업. 하츠네 미쿠: 프로젝트 전압 라이브 공연, 블루레이 출시 예정(업데이트) - GoNintendo",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjJjNFFCa1h2d2UzWEdoSEhrNGVkVmR0Q2RpeDhhX2FjQXdtN2dDMHFPSDVJUEFHZl90MllHYThFaHRiam5xd3RnYzAyQlRLUDZ3cTc4UUpvdHZSLVR1R0FlVFJUbE1sZ1JuS3FLYVhaeHd3OEU1TnkyclBpUjRWNTFtMFh4dmQ3YWgzS0lpOUtMMW93VHFGZG94UEFMdW9LZ2NUcHlkOHQ3ZkF5R2VnRWU3TGNnNENyc0ZYMA?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1218,32 +1231,6 @@
    "thumb": null,
    "date": "2026-08-14",
    "ts": 1786690800
-  },
-  {
-   "title": "《万智牌》秘室珍品系列推新品 初音未来强势参战 - 17173",
-   "title_ko": "\"매직 더 개더링\" 비밀의 방 보물 시리즈 신제품 출시, 하츠네 미쿠가 강력하게 전투에 합류 - 17173",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOZ1N1VWI0VllQUHV1SXpRZmhrVVFiUU1scy13VzAwdUx6OFc0WERyTDFjakkyaG53SmJiWjRTVFRIVkxlbmp1OXpLRTlDTURYNmE3Ukk4bFM2NWdMNWtwQmxweXM?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785913200
-  },
-  {
-   "title": "Magic 下一款 Secret Lair 指挥官套牌正是传闻已久的 Hatsune Miku 联动 - 17173",
-   "title_ko": "매직의 다음 Secret Lair Commander 덱은 바로 오랫동안 소문이 자자했던 하츠네 미쿠 크로스오버인 17173입니다.",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wdUx3TXVicWllUUFFaFhuUm9CdmcyUHJ5TkRfUUNvd2hUUmEtbTdyN2RWZnB1YXM4LWlFR0Z5OFVpSkNHcWNNcjhSa2MxNHNJTmZmeUF0RkNrczcyaGdUcGhxTUM?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-08-05",
-   "ts": 1785913200
   },
   {
    "title": "'프로젝트 세카이 컬러풀 스테이지! feat. 하츠네 미쿠' 온리 샵, 페어, 그라떼 2026년 8월 개최 - 디스이즈게임",
@@ -1273,7 +1260,7 @@
   },
   {
    "title": "Hatsune Miku: Colorful Stage! Heads Back to Animate Stores This August With New Fair and Collab - GamerBraves",
-   "title_ko": "하츠네 미쿠: 다채로운 무대! 올 8월 새로운 박람회 및 콜라보를 통해 Animate 매장으로 돌아갑니다 - GamerBraves",
+   "title_ko": "하츠네 미쿠: 다채로운 무대! 올 8월 새로운 박람회와 콜라보를 통해 Animate 매장으로 돌아갑니다 - GamerBraves",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnotVFlyc2wtbC1nWndmUXpoWi1jeklVak1PMFB2dkJBNUxwYUptXzlPRDY5OFRsUExDeWZfdU8tdl9XWDhkdmFEQzNHRDRjbjZTWUZ2bEpQM0NDY3BUNFRrbEFYaGhJYkViWG11UWU0dVY3QUVHQnBYQndwSTZZbjBNUHRYSDV4QWdkeExHZEdvV0Y5R3RpQzEtMF9CX1IzOXEzaXpTNkpvN0xPbGMtUDZzZXo2QTV6NTVOZ3RhTQ?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -1296,6 +1283,19 @@
    "thumb": null,
    "date": "2026-07-30",
    "ts": 1785394800
+  },
+  {
+   "title": "抱えるほどビッグサイズ！「初音ミク」1/3スケールフィギュアが、圧倒的なボリューム感 - インサイド",
+   "title_ko": "안을 정도로 빅 사이즈! 하츠네 미쿠 1/3 스케일 피규어가 압도적인 볼륨감 - 인사이드",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdW15RWd3ZEVTNFhRTEVMQjkyZ0dIQmZLVW1MQVRrVFg4LUg3R0k1aG5KRnhZRHJtbzRoTTdUdy1PeDE4QkdlUEo1MEQtSzMzbTVhVGhxaVhSWjFiQ0RzVGxyREJ2cnIxU2NRenJ3VmZpOEQ1Z2dTQV9KYnRZVm4wMGNNYw?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-07-26",
+   "ts": 1785049200
   }
  ]
 }
