@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:12:58+00:00",
+ "updated": "2026-10-10T04:13:32+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
@@ -77,7 +77,7 @@
   },
   {
    "title": "POP UP PARADE Character Vocal Series 01 Hatsune Miku: Rabbit Hole Ver. L Size Complete Figure",
-   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 컴플리트 피규어",
+   "title_ko": "POP UP PARADE 캐릭터 보컬 시리즈 01 하츠네 미쿠: 래빗홀 Ver. L 사이즈 완성품 피규어",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-200916",
    "source": "AmiAmi",
    "region": "jp",
@@ -518,8 +518,21 @@
    "ts": 1791433392
   },
   {
+   "title": "「日清焼そばU.F.O.50周年記念 U.F.O.×初音ミク」楽曲コンテスト受賞作を紹介 - ｄメニューニュース",
+   "title_ko": "‘닛신야키소바 U.F.O.50주년 기념 U.F.O.×하츠네 미쿠’ 악곡 콘테스트 수상작 소개",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSkZKakJIdVlLSmVaNDVLdVlDQTNGSC1ZQ0JKRjhjTUkyVVdPbnAzNzZnR3EzLXF4SzZDSmhadVVacVF4RlR2dkpIemNzbUd1NzJBN2J2N0gySkFHdHRTa1RfbVN5U3R1b24tRVhjX2MwN0ItdnM4VjRKeGdYeXZZN0ZLc2oxamtub0FDQTQ1MEhyekZoOTdDWVhWVmhLRlJJUkt5NjBLNE1KZGxxTEpIOVRpU2cwTGI0ZDl2aS1JWG11TEtsczZ6VVVyZnE5S3BF0gGAAUFVX3lxTFBuTkM5OFFMOEVnT09EUFJvcGFDSzlvMDN0b3daVHlEbk9jY3gyUkNyS1lfeFNWY0JWcUhra1lVNWFsVWtLRXNIUHVfdElZUVQwZnpYLUdWQVNIbHdrTXNmcWs2bEJMbzBQSGdfc2ZrYVA0SWJlLTlqUmI5SXdDZWtk?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-10-09",
+   "ts": 1791579300
+  },
+  {
    "title": "【初音ミクGTプロジェクト レーシングミク2026 アクリルスタンド・マーカー】発売のお知らせ - ニコニコニュース",
-   "title_ko": "【하츠네 미쿠 GT 프로젝트 레이싱 미쿠 2026 아크릴 스탠드 마커】 출시 알림 - 니코 니코 뉴스",
+   "title_ko": "【하츠네 미쿠 GT 프로젝트 레이싱 미쿠 2026 아크릴 스탠드 마커】 발매 알림 - 니코 니코 뉴스",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SYlFTaWFfWDh3bVZMOWItNlQ3dEJPcHBtM05KZU1sVjJWT3F3aE45UFQwd0dFVTBkRnBxcmJwS0paWWxVOENxaFRXbmFIRlZ3S2JQVnBJMjliUGFndFVHVnE1RWM5bnJmZWlHXy1ySXJsSC1jdUg5MWNIaw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -545,7 +558,7 @@
   },
   {
    "title": "『初音ミク V6』が「VOCALOID7」に対応へ―既存ユーザーへ日英ボイスバンクを無償提供予定（インサイド） - Yahoo!ニュース",
-   "title_ko": "「하츠네 미쿠 V6」가 「VOCALOID7」에 대응에―기존 유저에게 일영 보이스 뱅크를 무상 제공 예정(인사이드) - Yahoo!뉴스",
+   "title_ko": "「하츠네 미쿠 V6」가 「VOCALOID7」에 대응에―기존 유저에게 일영 보이스뱅크를 무상 제공 예정(인사이드) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GLVNhVXFBczJubXlNN3hremI0b0lXaXFzMGZBSVM3UDNpUnFjQXdZM2RfWk9PRDhRS1U3VjAwSjktMHBBbHBsZmlMdExJbUpZVFVFRjIybEh2bi1PY2N5Vzl5T1VwbmQtMTdWQVVfQW1GSEtIX25zUFJEMlhJbHM?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -596,6 +609,19 @@
    "ts": 1791532800
   },
   {
+   "title": "『初音ミク』デコミク2種がPOP UP PARADE Lサイズに！あみあみで予約受付中・2027年4月発売予定 - にじめん",
+   "title_ko": "「하츠네 미쿠」데코미쿠 2종이 POP UP PARADE L사이즈에! 아미아미에서 예약 접수 중 · 2027 년 4 월 발매 예정 - Nijimen",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41UW5YN19rQm5GdkdZcG14TlFtQXB4b2RSVnlRV19TQUozbHFsR0FyOFN4OEVOYU5VVF9SQzFWLWJLUkdDYUtLMG1heXB3QlpqYUI3S3ltMA?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-10-08",
+   "ts": 1791460920
+  },
+  {
    "title": "軽やかでポップな姿を再現！杜本氏が描く「チアリーディング」テーマの『初音ミク』フィギュアがAmazonで予約受付中！ - 電撃ホビーウェブ",
    "title_ko": "경쾌하고 팝적인 모습을 재현! 모리모토씨가 그리는 「치어 리딩」테마의 「하츠네 미쿠」피겨가 아마존에서 예약 접수중! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hNkVyNjVlcVcwemJwWGt3WVlYVXhPRHRRbFk4U2gyYVp3NEdrT1dPLUd6d19IZFRtU3VXNkJhNkFPa0lPT3Y3R0VGTTFNMU1p?oc=5",
@@ -609,34 +635,8 @@
    "ts": 1791444600
   },
   {
-   "title": "冬を元気いっぱい楽しむ雪ミクさん！フィギュア「雪ミク 2016ver.」の彩色原型が公開（インサイド） - Yahoo!ニュース",
-   "title_ko": "겨울을 건강 가득 즐기는 눈 미쿠 씨! 피규어 「유키 미쿠 2016ver.」의 채색 원형이 공개(인사이드) - Yahoo!뉴스",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MaU1raE5HUFBXTjJVOHlzaS14Smo2OEMyNm1idFFGVTFkOFVRM1dGUG9PV3AtR0RNbDBnY0FXNDlXSXY4SVRvMlZlaHcyYnZMVzJMTWdxOWp4b25kd3pSaGctUTBMREF0MUwyVUhJTjBRU1p3MU1qSEtidV9mcFk?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-10-08",
-   "ts": 1791432003
-  },
-  {
-   "title": "初音未来把抹茶麻糬含在嘴里，这手办配色太治愈了|初音未来|furyu|tirol 巧克力|moya 老师_新浪新闻 - 手机新浪网",
-   "title_ko": "하츠네 미쿠는 말차 떡을 입에 물고 있습니다. 이 그림의 색상이 너무 치유됩니다 | 하츠네 미쿠 | 후류 | 티롤 초콜릿 | 모야선생님_시나소식 - 모바일시나",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Z2xVQ2FDbDhPRDJIaVFNZFZ5OTF6MjhXQjlPM3dVVHVpdE1lMU9XNFUycWh1aHNfekhlRVNud1JSbVVxd2x1Rmw3dW5QVnQ1Y0dWWGEwMnNKMjJtNkJtMTJjTQ?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-10-08",
-   "ts": 1791431700
-  },
-  {
    "title": "イコモチさん描き下ろしのキュートなミクさんフィギュア！「FIGURIZMα ‐初音ミク‐ afternoon」のイラストと原型画像が公開 - インサイド",
-   "title_ko": "이코모치 씨 신작의 귀여운 미쿠 씨 피규어! \"FIGURIZMα - 하츠네 미쿠 - afternoon\"의 일러스트와 원형 이미지 공개 - 인사이드",
+   "title_ko": "이코모치 씨 신작의 귀여운 미쿠 씨 피규어! 「FIGURIZMα - 하츠네 미쿠 - afternoon」의 일러스트와 원형 이미지 공개 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRDNIRW9MMXVmLUdDXzROQmlLcmxackx6TUpscThuS0drcnZxYW9OZ0pnSU5HUWUtS25HNE0tWHpBb2JoZ2M5cDJiT09LSU85YmYzVWFONXZpaHZBVXU1Q0FOZFVDRDh5c2c?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -805,7 +805,7 @@
   },
   {
    "title": "【コスプレ】まるでフィギュアのようなスレンダーな「初音ミク」が可愛すぎ！美女レイヤーが魅せる120％みっくみくな姿にメロメロ【写真9枚】 1枚目の写真・画像 - インサイド",
-   "title_ko": "【코스프레】 마치 피규어와 같은 날씬한 「하츠네 미쿠」가 너무 귀엽다! 미녀 레이어가 매료하는 120% 미쿠미쿠나 모습에 멜로멜로 【사진 9장】 1장째의 사진・이미지",
+   "title_ko": "【코스프레】 마치 피규어와 같은 날씬한 「하츠네 미쿠」가 너무 귀엽다! 미녀 레이어가 매료시키는 120% 미쿠미쿠나 모습에 멜로멜로 【사진 9장】 1장째의 사진・이미지",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uaV9oR0cwbGhlT1oyQ0wxVnVfUWt1LVlqb2RjOGlQbllzT0U2NEpzUmlIQ0FjYnlORTBMMzh0Wko0SzlqRU9FdzdIZWZxa0NzR056X3h4LWFCaWN5VDAzTW4teF92LUhZSFVRZkVvZjB5UndJcjBkMDZR?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -818,7 +818,7 @@
   },
   {
    "title": "【コスプレ】まるでフィギュアのようなスレンダーな「初音ミク」が可愛すぎ！美女レイヤーが魅せる120％みっくみくな姿にメロメロ【写真9枚】（インサイド） - Yahoo!ニュース",
-   "title_ko": "【코스프레】 마치 피규어와 같은 날씬한 「하츠네 미쿠」가 너무 귀엽다! 미녀 레이어가 매료시키는 120% 미쿠미쿠나 모습에 멜로멜로【사진 9장】(인사이드) - Yahoo!뉴스",
+   "title_ko": "【코스프레】 마치 피규어와 같은 날씬한 「하츠네 미쿠」가 너무 귀엽다! 미녀 레이어가 매료하는 120% 미쿠미쿠나 모습에 멜로 멜로【사진 9장】(인사이드) - Yahoo!뉴스",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvUnJhTUptbDFuM1Jyd2NBMWhzVUJLY2RJb3RXSjIxbUZ2MjB3SW91bGs3eHAtVVZDY05OZGR0VEtIUWNiQ1RDMjY3dG1jS29obGNJTG1YU1NPS0h3VmtZRFlFVk5zMjdTeHd5UU1vNWZnNHRmbEtOSWRHNXA1TUE?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -974,7 +974,7 @@
   },
   {
    "title": "儚げな初音ミクが魅力的！フィギュア「G.S.Collection 桜ミク グッスマイラコンVer.」が予約開始 - インサイド",
-   "title_ko": "바쁜 하츠네 미쿠가 매력적! 피규어 「G.S.Collection 사쿠라 미쿠 굿스마이 라콘 Ver.」가 예약 개시 - 인사이드",
+   "title_ko": "어리석은 하츠네 미쿠가 매력적! 피규어 「G.S.Collection 사쿠라 미쿠 굿스마이 라콘 Ver.」가 예약 개시 - 인사이드",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa2RER2pGNVpad21pYTBJZVdlUTlzXzJGU25LNF91T3J4cDBoZmlKSTdZVVBzb0ZZV01Pbm5iWXhEN3dpT3FfWWdIV015RWtUUks4dUlEM01SZXQwLU5heWRyaFVtLWU0Z1o1RUdTWHo2RkhNbWlBZHYxU3BTZEZVdVFycw?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -999,21 +999,8 @@
    "ts": 1790319600
   },
   {
-   "title": "레이싱 미쿠, 역동적이고 볼륨감 넘치는 디자인의 GiGO 한정 경품 피규어로 등장 - www.haveagood-holiday.com",
-   "title_ko": null,
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWh5cGsxa0ZqU3FZTHRsTWo4Q0tNd1pVdi1BYWFyaVlJWDZBdHk3RThkcm81N09EeVk4ekVaQWtFb29fTm1ZR19UXzJJcGtWTDFMVW5LOXFQZkE1SlJxcjE4cGxtbzg0NWZKTUxRMENnUm9vb1VUZ00teW8zd2k2U3dnNnk1UGNJMlpfY2xScw?oc=5",
-   "source": "Google News 韓",
-   "region": "kr",
-   "category": "figure",
-   "type": "news",
-   "lang": "ko",
-   "thumb": null,
-   "date": "2026-09-25",
-   "ts": 1790319600
-  },
-  {
    "title": "セーラー衣装がカワイイ「初音ミク」フィギュアにドキッ！イラストレーターの米白粕先生がデザイン - インサイド",
-   "title_ko": "세일러 의상이 귀여운 \"하츠네 미쿠\"피규어에 드킷! 일러스트 레이터의 쌀 흰 쌀 선생님 디자인 - 내부",
+   "title_ko": "세일러 의상이 예쁜 「하츠네 미쿠」피겨에 드킷! 일러스트 레이터의 쌀 흰 쌀 선생님 디자인 - 내부",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlljbGRCM2NSb0NPMlIyYzhlM19GTUZCNUFPRVhWLXNlNU1pT1BpaTlHY09ZOUNYcUVkcHJWRU80Y0t6UVpVeXBuRjF2LVVNNmMyaFdURHVzRVJBRFJFVFRtQnV4SDNnWGVyRUJGVEN6cDVvQXhiaWZfM01WcTN1dQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1209,7 +1196,7 @@
   {
    "title": "グッスマ最高峰ラインの「初音ミク」フィギュア！オーロラコート加工やパール塗装、クリアパーツを組み合わせて美麗ビジュアルを再現 - インサイド",
    "title_ko": "굿스마 최고봉 라인의 「하츠네 미쿠」피규어! 오로라 코트 가공이나 펄 도장, 클리어 파트를 조합해 미려 비주얼을 재현 - 인사이드",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSElzTHVLZXl1ZVlEaDUwamRYUExEZUdlMVByaWNvblV3blJBR2hjTk5uSGJsZThtT0ZZS2NXTFhPbWd0LUpqS3luQzBXblViSlYxYy05VWVSSExTbGhZeGdFN3lFOVNZakVDaktkSENDS0RtMklDTHRIdzVIZXM4UW44SkQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUM2TUIzYlRBSGZmd2haVEJlRVRTTnFGTXUyT01qelVkZm96a0JHZWdlWmxxNExIa0JoVUY0c0Nvc1JiTTFkQWx1dU5YejRMdGhRSlhJa0ExTkNfLTZQQ0ZSOE1DYmNjc1BhZEpXM045dDYxOEdvQWVhS21nOG5hVw?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -1247,7 +1234,7 @@
   },
   {
    "title": "デフォルメフィギュア「ねんどろいど」より、初音ミク V6、雪ミク Snow Metamorph Ver.の彩色見本が公開！ - 電撃ホビーウェブ",
-   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 눈 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
+   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 유키 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02WkhmUDl2Ukp1bEQ1R1d1V0E3M3FzNVVoUHl6bjhVZlVlVmxTeTR5RGcxdUplcFFwbmtvMXhkU1E2cUk4bExoY1hkVGo1ZU9v?oc=5",
    "source": "Google News 日",
    "region": "jp",
@@ -1296,6 +1283,19 @@
    "thumb": null,
    "date": "2026-08-25",
    "ts": 1787640852
+  },
+  {
+   "title": "iXima个人首展“初音未来与iXima混合媒介展”在池袋PARCO开幕 - www.haveagood-holiday.com",
+   "title_ko": "iXima의 첫 개인전 \"하츠네 미쿠와 iXima 혼합 미디어 전시회\"가 이케부쿠로 PARCO에서 개막 - www.haveagood-holiday.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVB5dmhNSjJBcTF2NjBGeVpHNG9UMEEzMGNrN0ZJYS1LUGdSZVh1X3ctc3ppNHN3aU95T2RCS0JwUm9yMXVTUUxuQUwtbnlfN3RHQ1ZReW02emV5MkJwdm52V0FxOXpIZnZlS2ZYeFRmMmdBa3NrZmVLdjBtbW5pVU1JcENUVXMxYmlWakJIM2o1c0x4c2RaMjNYRlBfYUV5NUc3aE13amxTNVdpanpB?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-08-24",
+   "ts": 1787554800
   }
  ]
 }
