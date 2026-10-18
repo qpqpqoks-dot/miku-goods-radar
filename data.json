@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-18T02:55:45+00:00",
+ "updated": "2026-10-18T10:21:09+00:00",
  "count": 99,
  "news": 60,
  "shop": 39,
- "shop_reused": false,
+ "shop_reused": true,
  "sample": false,
  "debug": {
-  "amiami_body": "{\"RSuccess\":true,\"RValue\":null,\"RMessage\":\"OK\",\"search_result\":{\"total_results\":7524},\"items\":[{\"gcode\":\"FIGURE-208480\",\"gname\":\"Nendoroid Character Vocal Series 01 Hatsune Miku: Katsushika Hokusai Collaboration Ver. (Rella)\",\"thumb_url\":\"/images/product/main/263/FIGURE-208480.jpg\",\"thumb_alt\":\"FIGURE-208480.jpg\",\"thumb_title\":\"Nendoroid Character Vocal Series 01 Hatsune Miku: Katsushika Hokusai Collaboration Ver. (Rella)\",\"min_price\":7650,\"max_price\":7650,\"c_price_taxed\":8500,\"maker_name\":\"Good Smile Company\",\"saleitem\":0,\"condition_flg\":0,\"list_preorder_available\":1,\"list_backorder_available",
-  "amiami": "http200/39634/curlTrue -> 40"
+  "amiami_body": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" conten",
+  "amiami": "err:Expecting value: line 1 column 1 (char 0) -> 0"
  },
  "items": [
   {
@@ -518,6 +518,19 @@
    "ts": 1792292132
   },
   {
+   "title": "まん丸ヒップあらわな大胆すぎる衣装に釘付け！『NIKKE』『アズレン』『ウマ娘』などのフィギュアが秋葉原で展示！ - 電撃ホビーウェブ",
+   "title_ko": "만마루힙 과감한 대담한 의상에 못박아! 「NIKKE」 「아즈렌」 「말 딸」등의 피규어가 아키하바라에서 전시! - 전격 취미 웹",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BSEdBZzZ6bTgtVkdzbnU3RDJqTU9WRGRDODV4a2lRX1JxMkJ2bWtqWDZlQS1RUWJaTEkxaXBOaTFBWkM0ZGR1alRrd0ZaZ0FE?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-10-18",
+   "ts": 1792292400
+  },
+  {
    "title": "悠久の星空に手を伸ばすCosmic衣装の「初音ミク」がプライズフィギュア化！その瞳には星の輝きが宿る！ - 電撃ホビーウェブ",
    "title_ko": "유구의 밤하늘에 손을 뻗는 Cosmic 의상의 「하츠네 미쿠」가 프라이즈 피규어화! 그 눈동자에는 별의 빛이 담긴다! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mMmpuN0Q4Yk9xRVFiVWlFZnJLdmlaWXhMdUpfdkVWY0tDRDVjX3NRdHE2UUhtQnJhOHJheVVYQmIydXZoMWhDV01QU29ONmFz?oc=5",
@@ -542,32 +555,6 @@
    "thumb": null,
    "date": "2026-10-16",
    "ts": 1792193006
-  },
-  {
-   "title": "Last Get赏“初音未来×Tirol巧克力—咖啡牛轧糖・金色ver.—手办” 原型公开~ #初音未来# ​ - 手机新浪网",
-   "title_ko": "라스트겟프라이즈 \"하츠네 미쿠×티롤 초콜릿-커피 누가・골드 ver.-피규어\" 프로토타입 공개~ #半妖# ​ - Mobile Sina.com",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tSG1DQmxTRUZhNWE3elhPSVZxN0IyVllFN0stX002OGhFSTAwbzdNNWZSdERmc3JuQ3Ntbk5EbllwblBsQl9fdVkyZUhmMFpjTUFzSktON3VXQS1vVnk1UjBEYw?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "figure",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-10-16",
-   "ts": 1792152900
-  },
-  {
-   "title": "「POP UP PARADE 初音ミクシンフォニー 2020Ver. L size」が登場！クリアパーツで繊細な衣装を表現 - 玩具人 TOY PEOPLE",
-   "title_ko": "「POP UP PARADE 하츠네 미쿠 심포니 2020Ver. L size」가 등장! 클리어 파츠로 섬세한 의상을 표현 - 완구인 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlMEhyRDIwV2pVaThSQVhpbk9DbE9OaUxWQzJqUFVfRjZZQkJyOXZCODZsc1c0ajJEVlRCdXB6LUVFbWp2aUVXVkNTclB4bTdi?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-10-16",
-   "ts": 1792138678
   },
   {
    "title": "POP UP PARADE Hatsune Miku Symphony: 2020 Ver. L Size Shines With Translucent Dress Details - 玩具人 TOY PEOPLE",
@@ -752,9 +739,9 @@
    "ts": 1791948000
   },
   {
-   "title": "奏の森リゾート × 初音ミク 2026winter HIS公式日帰りバス・鉄道ツアー発売 | 株式会社エイチ・アイ・エスのプレスリリース - PR TIMES",
-   "title_ko": "연주의 숲 리조트 × 하츠네 미쿠 2026winter HIS 공식 당일치기 버스·철도 투어 발매 | 주식회사 에이치·아이·에스의 보도자료 - PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43RWxnZUU0V25HamFjUWhrd1pmQ0duQ2lUWk5uXzFHOGtDVk95TF81ZGtYLWVCbU85YUQ4YVMzNjBvcUwtVjhCOHpJZmRiTkI2bnAxZEdsRk5TS1E0UEJFUDItWDhMSnFsSGc?oc=5",
+   "title": "奏の森リゾート × 初音ミク 2026winter HIS公式日帰りバス・鉄道ツアー発売 - https://www.his.co.jp/",
+   "title_ko": "연주의 숲 리조트 × 하츠네 미쿠 2026winter HIS 공식 당일치기 버스·철도 투어 발매 - https://www.his.co.jp/",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5c2xQd1drTEE1ZUFwSkl3NzY0TWc2c3M0M3JMeUtVb0wyZm5wY3ZyLXdLenJtTFd2Z0pzNndtT09jVXppUXhyQkNOaEgtUQ?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "goods",
@@ -762,7 +749,7 @@
    "lang": "ja",
    "thumb": null,
    "date": "2026-10-14",
-   "ts": 1791946802
+   "ts": 1791946990
   },
   {
    "title": "【ココス】ココスと「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」のコラボ！「ココスへようこそ！カラフルなおいしさをあなたに♪キャンペーン」を10月21日（水）より開催！ | 株式会社ゼンショーホールディングスのプレスリリース - PR TIMES",
@@ -921,6 +908,19 @@
    "ts": 1791183600
   },
   {
+   "title": "《世界计划》6周年纪念感谢祭周边商品将于10月13日在Animate发售并举办联动促销活动 - www.haveagood-holiday.com",
+   "title_ko": "'월드 프로젝트' 6주년 감사회 주변기기 제공 10월 13일 애니메이트에서 판매 및 공동 프로모션 진행 예정 - www.haveagood-holiday.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV1VZT2RLZ1pTZTNreTd5NFZ0ZEo3LXdJZTAwYVdKRHhRaUQzX3F2OXBFeFllSXNEcFNuQkZWWkRmemVWaUFRaElraU9NZFRpM3hoQWZTRk1RRUpfdndyUGJFZnpfZlY4NnJyblN1RjFEVDQtYl8yNExfUUwxUlQ1ZV9pR1hEVTZrV3ZsYXRsNXNhYUxyZVhyZVF2dnEzdw?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-10-05",
+   "ts": 1791183600
+  },
+  {
    "title": "Wonder Festival 2026 Shanghai: Good Smile Company Reveals New Like a Dragon, Blue Archive, and Hatsune Miku Nendoroids - 玩具人 TOY PEOPLE",
    "title_ko": "원더 페스티벌 2026 상하이: Good Smile Company, 새로운 Like a Dragon, Blue Archive 및 하츠네 미쿠 넨도로이드 공개 - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mbjFRRlBfTHEyRjV0a0ttTVlrUU4zQlpKTHNnMXJ5VW1TVGlHRmhvRkk1Vzg5UFV2RVp5aXkyb3Zjc0wwQmJBeDBkSlc0SDhL?oc=5",
@@ -975,7 +975,7 @@
   {
    "title": "儚げな初音ミクが魅力的！フィギュア「G.S.Collection 桜ミク グッスマイラコンVer.」が予約開始 - インサイド",
    "title_ko": "바쁜 하츠네 미쿠가 매력적! 피규어 「G.S.Collection 사쿠라 미쿠 굿스마이 라콘 Ver.」가 예약 개시 - 인사이드",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDRXTFhWdnlMUEFYTjE5T1dmTHhhTjJ6TjU5ck14M0l3Tk83Y2JrbDFPS2ZKRklCanhUSE5hVGx6Z2dFZmJZeVlWRWpYN0FUMlZwdnRSSFBjV1FkaHlkUGhoMmpsam1wUG5oMkpQd1pRTEZ4M0ZGUlJhdkMyWU5RYVF4TXM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Vl9vS01GNkhQZm9YeGZHZHBGblJwUVlxSlhKdUxoWmk2M3BvcDQ3SUh3SDRuNHBIMnhzazNFTE4waldobFl2LUluOElSQ21ZeW1nQV9KYU1kcVFVbzFlS2hqbWZqYXZlRXc?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
@@ -1064,17 +1064,30 @@
    "ts": 1790233200
   },
   {
-   "title": "なんという太もも！トリダモノ氏による「レーシングミク 2023Ver.」フィギュアが再販予約締切迫る - インサイド",
-   "title_ko": "무슨 허벅지! Tridamono의 \"레이싱 미쿠 2023Ver.\"피규어 재판매 예약 마감",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54SnFweDJCU2RvS1FSUVlGYmJSTnBwVzJYWllLREpkbU9RNkRtQ3MtOE00OWtMcTN5MVhKYUZlamNVS0E2RHpWYnlEeFNCTWFRYzN3dmE0UVRHeUdld0NGNWVPZ0pVNWQ0SUE?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
+   "title": "初音未来联名Naisnow 咖啡周边分享_新浪新闻 - 手机新浪网",
+   "title_ko": "하츠네 미쿠 공동 브랜드 Naisnow 커피 주변기기 공유_Sina News - Mobile Sina",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JRnpQMTRhVHBjSDd2ZWs4MWNwcHo3T1JhSk11RGhoRXZjVHFSRmlKaDV3QVVFLUMyLWIzU3pJdHhnSDdnY3VLNkxBR0FaYXNWZTBUZHc0b1Fyb0V2VkV3bnhDUQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
    "type": "news",
-   "lang": "ja",
+   "lang": "zh-CN",
    "thumb": null,
-   "date": "2026-09-21",
-   "ts": 1789974000
+   "date": "2026-09-24",
+   "ts": 1790233200
+  },
+  {
+   "title": "已经到...这个年纪了吗...... ​ - 新浪网",
+   "title_ko": "이 나이에 도달하셨나요... - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rSm5JVzdscnJqTUJwSkdiSkJhUS1FLWNKSjBlOVdZNmQ3NFN6WXRRaTRNTFVvS005TExvTmItbm11MEx1SjBST1dSR2tfVmNsWmw3NllFdEozdmg1aDZBVzczUQ?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-09-22",
+   "ts": 1790060400
   },
   {
    "title": "#megahouse# #手办# #初音未来# #初音未来[超话]# 「Lookup」 初音未来再版官方建议零售价：4,200日元（不含税）预计发售时间：2027年4月经过初版发售获得好评以后，初音未来再次在「Lookup」系列中登场！经典的二头身Q版造型精致可爱的还原了角色的形象特点 - 手机新浪网",
@@ -1090,17 +1103,17 @@
    "ts": 1789974000
   },
   {
-   "title": "开订 GSC 粘土人 初音未来 葛饰北斋 Rella 手办 2027年4月份发售 http://t.cn/AXOYE0Yt ​ - 手机新浪网",
-   "title_ko": "GSC 넨도로이드 하츠네 미쿠 카츠시카 호쿠사이 렐라 피규어 공개 주문, 2027년 4월 출시 예정 http://t.cn/AXOYE0Yt - Mobile Sina",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyUmlXZzRNRjhaOC1Od1FrY2dNRWl0Y3NEcGtkV3ZuWTJGdUc5NlRVMFp1My1PU0JQQjR6VkM3c2NtRGJaaWUyYkhBZExHYmgyUW9rTmEyWnlZRFdOQjB0eExIYw?oc=5",
+   "title": "初音未来×凉宫春日联动视觉图 第一弹，作画：伊东杂音 - 虎扑体育",
+   "title_ko": "하츠네 미쿠×스즈미야 하루히 콜라보레이션 비주얼, 첫 번째 작품, Ito Murmur가 그린 - Hupu Sports",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92bEpGYkZ4VVNhczloQlViRjRvbFJUNktQd1ZJb2tVa3VUSXFxano4MnRKcXVYZ3lONlZtTk9VNThNMXQtTlBYdV8xOXZLUQ?oc=5",
    "source": "Google News 中",
    "region": "cn",
-   "category": "figure",
+   "category": "goods",
    "type": "news",
    "lang": "zh-CN",
    "thumb": null,
    "date": "2026-09-20",
-   "ts": 1789887600
+   "ts": 1789911069
   },
   {
    "title": "TAITO 初音未来 赛车 A赏 2026 手办景品 开订 399人民币 2027年1月出货 - 手机新浪网",
@@ -1153,6 +1166,19 @@
    "thumb": null,
    "date": "2026-09-18",
    "ts": 1789714800
+  },
+  {
+   "title": "(4K) [Vlog] 하츠네 미쿠 신작 피규어 정리!! 마지미라 2026 도쿄 기획전🌻 - YouTube",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vZEVtdmVMTW40aDNNZURQNXdPdFZQcDhfWFBPNjlRMTlWWVVIVXRrOHhKbGdpUXlfcnpjTl9iNWlzdWJTbEd3N0FMZmV2bWM5a3laREJ1cHZ2Rm4x?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "figure",
+   "type": "news",
+   "lang": "ko",
+   "thumb": null,
+   "date": "2026-09-17",
+   "ts": 1789628400
   },
   {
    "title": "하츠네 미쿠 x 닛신 야키소바 U.F.O. 콜라보레이션 영상 9월 19일 공개 - haveagood-holiday.com",
@@ -1259,43 +1285,17 @@
    "ts": 1789455600
   },
   {
-   "title": "Nendoroid Hatsune Miku KATSUSHIKA HOKUSAI Collaboration Ver. (Rella) Painted Prototype Revealed, Blending \"The Great Wave off Kanagawa\" into a Cute Design! - 玩具人 TOY PEOPLE",
-   "title_ko": "넨도로이드 하츠네 미쿠 카츠시카 호쿠사이 콜라보 Ver. (Rella) \"가나가와의 대파도\"를 귀여운 디자인으로 융합한 도색 프로토타입 공개! - 玩具人 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DRnRpaGtONkg3Rlo2WmhQdmh6c3k5YVdVbjhqREVWVlp0NkI1YlE4eE5rdzI2UFZWc0RHWUNlNnFlN1lnSFhrSE5rOHpJY1lY?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-09-15",
-   "ts": 1789455600
-  },
-  {
-   "title": "하츠네 미쿠 심포니: 10주년 기념 Ver. 1/7 스케일 피규어, 아미아미에서 예약 판매 시작 - www.haveagood-holiday.com",
-   "title_ko": null,
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZG1DdHpVOTZTczFuRGZBajU2ckFyMTJCZlRuSTRnWWpjajVOWlVHRjBCd0NIb3lBMGNWOG9DTWtwYl9vckk4SUNBcTJCcnJOUVVIbEVoUF8xb2ZmVmRLU1FSY2tueEgzV19RWTl2Z0lJcXRVNUxPSGdoa2NyREF2TXpsd0NnWHhJeWZlaUNTNlV0aDVyTHFoOEMwSWlqS1k?oc=5",
-   "source": "Google News 韓",
-   "region": "kr",
-   "category": "figure",
-   "type": "news",
-   "lang": "ko",
-   "thumb": null,
-   "date": "2026-09-11",
-   "ts": 1789110000
-  },
-  {
-   "title": "你木助哥属实难抽 - 手机新浪网",
-   "title_ko": "무제님 담배 피우기 너무 힘들어요 - 시나모바일",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10LWt3TVVfS1BhWUdzZFBPd3pOd1gxUGU3WUNVTXh0bHJTQTNXRlJiME9NU3Y2bDhDNnNTV1hyR21zRWxtS3A1emliOE96OHZNLUZqb1czVHZ2bjVsTElabU9CRQ?oc=5",
+   "title": "《节奏裂隙：初音未来音乐包2》上架Steam - 搜狐网",
+   "title_ko": "\"리듬 리프트: 하츠네 미쿠 음악 팩 2\"가 Steam에서 출시되었습니다 - Sohu.com",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fUDRjMGlKZWhSb2hQNkdDMnZxckpKZFB0RkpwLUFLRHF3TS1UUS1FRVllSGljUDcxTlVaWHBQSHdsUWNwTGVVODBKdlNUWXVRMlpz?oc=5",
    "source": "Google News 中",
    "region": "cn",
    "category": "goods",
    "type": "news",
    "lang": "zh-CN",
    "thumb": null,
-   "date": "2026-09-11",
-   "ts": 1789099320
+   "date": "2026-09-15",
+   "ts": 1789455600
   }
  ]
 }
