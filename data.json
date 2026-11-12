@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:00:17+00:00",
+ "updated": "2026-11-12T06:59:53+00:00",
  "count": 100,
  "news": 60,
  "shop": 40,
@@ -415,7 +415,7 @@
   },
   {
    "title": "[Exclusive Sale] PLAMATEA Character Vocal Series 01 Hatsune Miku Happy 16th Birthday Ver.",
-   "title_ko": "[단독 세일] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
+   "title_ko": "[단독 판매] PLAMATEA 캐릭터 보컬 시리즈 01 하츠네 미쿠 16번째 생일 축하 Ver.",
    "link": "https://www.amiami.com/eng/detail/?gcode=FIGURE-199799",
    "source": "AmiAmi",
    "region": "jp",
@@ -583,19 +583,6 @@
    "ts": 1794301255
   },
   {
-   "title": "Gothic Lolita Hatsune Miku Vintage Doll Figure Returns in Black Dress - Siliconera",
-   "title_ko": "고딕 로리타 하츠네 미쿠 빈티지 인형 피규어가 검은 드레스로 돌아옵니다 - Siliconra",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTm1idkRjVmJ3SlNwdV84NURYME5qV3JrWk8zQ1ZVVGFwOU9lXzFNLXRmNXltaXpqaW9CTDZQS3RUS3VqUER0ODFzYm5HeWUybGxHSWx1TXRZcmVxOHYtQ09iVHMxNjZ1dzQ5am0wZ1hSVzZLQlpXOGltZXp6Y3FpSXVlUklmeHJpY0ZQbEtlanRVbkcwRFc4bFE3R1hsdw?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-11-09",
-   "ts": 1794247200
-  },
-  {
    "title": "タイトー、『超かぐや姫！』の新作プライズフィギュアを展示【#AMEXPO2026】 - hobby Watch",
    "title_ko": "타이토, 「슈퍼 카구야 공주! '의 신작 프라이즈 피규어를 전시 [#AMEXPO2026] - hobby Watch",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85RjAxdzFfdnUtTWlyeEhMSFhYSnpQVTg2M3NKQjd0UTZ4RW9IemFIMW9TUzFTelVqTFkzZjVtdmJrRExSYlppM1JXNG1GREJnRDVwMjZydTdTdkxGa0N4MVExbVotV00?oc=5",
@@ -674,34 +661,8 @@
    "ts": 1794193597
   },
   {
-   "title": "Hatsune Miku Finally Reunites With Cinnamoroll for First Official Worldwide Release - Comic Book Resources",
-   "title_ko": "하츠네 미쿠가 마침내 Cinnamoroll과 재회하여 첫 번째 공식 전세계 출시 - 만화책 자료",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWR1cHJuejctTTZLeFZaUVhPbVJHOWQxZHk3dlNRV18ySEN1bFJndm9yNTdvNVA4cF9tZTcwZFdLQXZOdEJKTXhCci1aX2R4d2cybXdDemdfUHkweTJzQTFNd2pvWktyZmpLYUFKSURUY1FpREx6dUwyTWxrajROb1hla0RWUkZEZlJVN0k5NA?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "goods",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-11-07",
-   "ts": 1794088812
-  },
-  {
-   "title": "初音ミク「UWAふわふわ可愛い笑顔バッグ」シリーズの新作がフリューの「TENITOL」に登場！愛らしい表情のデフォルメフィギュアと猫耳と八重歯がキュートなフィギュアが楽天ブックスで予約受付中！ - 電撃ホビーウェブ",
-   "title_ko": "하츠네 미쿠 「UWA 푹신푹신 귀여운 웃는 가방」시리즈의 신작이 플류의 「TENITOL」에 등장! 사랑스러운 표정의 데포르메 피규어와 고양이 귀와 야중치가 귀여운 피겨가 라쿠텐 북스로 예약 접수중! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85aEJual9rdkxjdFYyWTVZcklNVEVVOEM2TjBtNlhPbll6X3IxY1U5OEFIQk0xUklHaldPbUFXb2hpVnBNMVE4UFNuT1ROWHZi?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-11-07",
-   "ts": 1794018600
-  },
-  {
    "title": "SEGA FIGURIZMα Hatsune Miku -midnight- Prize Figure Gives Miku a Strikingly Mature Punk Makeover - 玩具人 TOY PEOPLE",
-   "title_ko": "SEGA 피규어즈Mα 하츠네 미쿠 -midnight- 상금 피규어로 미쿠가 눈에 띄게 성숙한 펑크 변신을 하게 되었습니다 - 玩具人 TOY PEOPLE",
+   "title_ko": "SEGA 피규어즈Mα 하츠네 미쿠 -midnight- 상금 피규어, 미쿠를 눈에 띄게 성숙한 펑크 변신으로 변신 - 玩具人 TOY PEOPLE",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SOElxNzN4MXZfTTZJX1MwS1c4T2pMWDFIZldGMFNnaG9sOTR2Ym43Q3VUUTA4c2k5U2tlc3UtVkFnbS1CR1VBN3l1dVVMZktz?oc=5",
    "source": "Google News 英",
    "region": "global",
@@ -739,6 +700,19 @@
    "ts": 1792566000
   },
   {
+   "title": "Hatsune Miku Cotton Candy Melffy Figure Appears Alongside Wallpaper and Art - Siliconera",
+   "title_ko": "하츠네 미쿠 솜사탕 멜피 피규어가 벽지와 예술품과 함께 나타납니다 - Siliconra",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHRoaVQzVUJqVXZKeE8zZzlMWEs2eXdWTzNjTGd2Vno3WXEwRjhLdnVvZGpNYktpTXE0UFJFcTZNTEVpcHdNZXZ1ekhESGpXOHc4T2xSQTFBUi03YU5DNEZVYjZqS3pHYUFHRG5VU0lZcmFaakFwSWdpbFV2OExFZm05SUNVWm5rOXlsTW9MVHpRQTItRW95Rk10X3FFUjdaeTlFTVFR?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "figure",
+   "type": "news",
+   "lang": "en",
+   "thumb": null,
+   "date": "2026-10-19",
+   "ts": 1792393200
+  },
+  {
    "title": "Christmas 2026 Hatsune Miku Figure and Plush Debut in November - Siliconera",
    "title_ko": "2026년 크리스마스 하츠네 미쿠 피규어와 봉제 인형이 11월에 데뷔합니다 - Siliconra",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOckxhWTdzQmx4c1d6UkVnRUtVYkkxbHA4dUJ1Yy1qXzlocVo3T0l0UUlwcWxucVZhZk1SQTlDdXpVN3ZHcTEzcmlhWVlLTGxkMUpObmhPanlyTV91ZEFWTndPS3lxZEhvVk04bXBaODNJUHVQZ204bTF4M0x4bXAzYVR0dXRiWkNVSndmQ1VsZGVfdnJS?oc=5",
@@ -763,19 +737,6 @@
    "thumb": null,
    "date": "2026-10-14",
    "ts": 1791957997
-  },
-  {
-   "title": "可愛すぎるチアリーディング姿の初音ミクのフィギュアや歴代レーシングミクのデフォルメフィギュアが秋葉原で展示！ - 電撃ホビーウェブ",
-   "title_ko": "너무 귀여운 치어 리딩 모습의 하츠네 미쿠의 피규어와 역대 레이싱 미쿠의 데포르메 피규어가 아키하바라에서 전시! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90ZURscjFCTC1VMTY2WXdvak55Y0xleDdOSmZBLVhBcFNQRnRJLWdyakxIYUo2cmxIMDZiMlpPNmxtdFRoa1BJM2tJVktEZ2ZK?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-10-10",
-   "ts": 1791615600
   },
   {
    "title": "하츠네 미쿠 아트 프로젝트 'ART OF MIKU', 서울 홍대에서 팝업 스토어 개최 - www.haveagood-holiday.com",
@@ -815,19 +776,6 @@
    "thumb": null,
    "date": "2026-09-29",
    "ts": 1790675822
-  },
-  {
-   "title": "Good Smile Company Unveils Adorable Nendoroid Hatsune Miku KATSUSHIKA HOKUSAI Collaboration Ver. (Rella), Inspired by \"The Great Wave\"! - 玩具人 TOY PEOPLE",
-   "title_ko": "굿 스마일 컴퍼니, 사랑스러운 넨도로이드 하츠네 미쿠 카츠시카 호쿠사이 콜라보레이션 Ver. 공개 (Rella), \"The Great Wave\"에서 영감을 얻었습니다! - 玩具人 TOY PEOPLE",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00X0lOSkk5bmV5ZmFucmVhR3Rxc0t5M0oxdXZUVUMyNE1iYVpfRlRVeEhZTGxwaVkzZVpjUE1OTGNsMXlZRElwWEtENmFXWlJF?oc=5",
-   "source": "Google News 英",
-   "region": "global",
-   "category": "figure",
-   "type": "news",
-   "lang": "en",
-   "thumb": null,
-   "date": "2026-09-17",
-   "ts": 1789628400
   },
   {
    "title": "하츠네 미쿠 심포니: 10주년 기념 Ver. 1/7 스케일 피규어, 아미아미에서 예약 판매 시작 - www.haveagood-holiday.com",
@@ -882,19 +830,6 @@
    "ts": 1788410314
   },
   {
-   "title": "「初音ミク V6」がねんどろいどで立体化！「スタンドマイク」や「ハートエフェクト」が付属!! - 電撃ホビーウェブ",
-   "title_ko": "「하츠네 미쿠 V6」가 넨 드로이드로 입체화! 「스탠드 마이크」나 「하트 이펙트」가 부속!! - 전격 취미 웹",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5NWZFaWdUaEwxMmdpVDZva2xxRXVlcTBIeFBkZ19YUjIzR1BLcGxRZ1pfZFZ5dHk5V0Jldl95SzJXM3RBOFJmMjJ5U1dIQkFQ?oc=5",
-   "source": "Google News 日",
-   "region": "jp",
-   "category": "figure",
-   "type": "news",
-   "lang": "ja",
-   "thumb": null,
-   "date": "2026-08-31",
-   "ts": 1788159600
-  },
-  {
    "title": "GEEKS RULE Presses Aiobahn's Viral “DIVA” Artwork Into a Hatsune Miku Triple-Collab T-Shirt - Hypebeast",
    "title_ko": "GEEKS RULE, Aiobahn의 바이럴 “DIVA” 아트웍을 하츠네 미쿠 트리플 콜라보 티셔츠로 제작 - Hypebeast",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0p1REtqdFBFOTdsSm45TV9ndlhwY0N2enFxU05kbWV3Nmo1aUE2dnFiUFFPQTZOV2hObVRDYnFWVHZxdXljeXdVOVRkdzRJNUZJT2Y1cDNpNlQ0NnhHenlHeUx1NHBXVGdDcUQycVJ2U2x2ZUU4WmY5c2dUa3BBUks1bVM2dlppR0RjNV9IZw?oc=5",
@@ -909,11 +844,24 @@
   },
   {
    "title": "デフォルメフィギュア「ねんどろいど」より、初音ミク V6、雪ミク Snow Metamorph Ver.の彩色見本が公開！ - 電撃ホビーウェブ",
-   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 눈 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
+   "title_ko": "데포르메 피규어 「넨도로이드」보다 하츠네 미쿠 V6, 유키 미쿠 Snow Metamorph Ver.의 채색 견본이 공개! - 전격 취미 웹",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02WkhmUDl2Ukp1bEQ1R1d1V0E3M3FzNVVoUHl6bjhVZlVlVmxTeTR5RGcxdUplcFFwbmtvMXhkU1E2cUk4bExoY1hkVGo1ZU9v?oc=5",
    "source": "Google News 日",
    "region": "jp",
    "category": "figure",
+   "type": "news",
+   "lang": "ja",
+   "thumb": null,
+   "date": "2026-08-28",
+   "ts": 1787900400
+  },
+  {
+   "title": "初音ミクカラーで「SILVA TRAINER」が完全復刻！ 9月1日から先行予約がスタート - eeo",
+   "title_ko": "하츠네 미쿠 컬러로 \"SILVA TRAINER\"가 완전 복각! 9월 1일부터 선행예약 시작 - eeo",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sMmVhUW9vSlpwaS1pOFZiSEdWamoxSW5BQ1dBN0lINEdEM1NtUFJMYUVtcHl0RTRwdGVUdWZaR2xabHFTMTJBZ2YzeFQ5YXdLRFI1OQ?oc=5",
+   "source": "Google News 日",
+   "region": "jp",
+   "category": "goods",
    "type": "news",
    "lang": "ja",
    "thumb": null,
@@ -1142,19 +1090,6 @@
    "ts": 1783321200
   },
   {
-   "title": "日企 TANITA（百利达）推出初音未来联名血压计，首发语音指导功能 - 新浪财经",
-   "title_ko": "일본 회사 TANITA, 최초의 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - Sina Finance",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10cFdOeXEwQkFCaFRWQUZteVpLeEFBR2Y4Um5sc1p1X1QyZ1BkWjRRYWczR1JYaFZzOUdJNWpaRWFMVEUwNzh1SjVibmhRaElRSEl3WHZEcXcyZ25kcDEya3JmZ1hWdnVNT3FTOUtPdXVTNS1nRWJXUFh5VTRzUlU?oc=5",
-   "source": "Google News 中",
-   "region": "cn",
-   "category": "goods",
-   "type": "news",
-   "lang": "zh-CN",
-   "thumb": null,
-   "date": "2026-07-06",
-   "ts": 1783321200
-  },
-  {
    "title": "日企 TANITA 推出初音未来联名血压计，首发语音指导功能 - 凤凰网",
    "title_ko": "일본 회사 TANITA, 최초로 음성 안내 기능을 갖춘 하츠네 미쿠 공동 브랜드 혈압계 출시 - ifeng.com",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmMTgwRzl2d2RzY00xMlNmTllxWWhoNU0yU01nU0tOb2IzRkZoQmNfaXZxU0c1TEh0VERkZGQ1QkRncFJmQW1Lbw?oc=5",
@@ -1189,6 +1124,32 @@
    "category": "goods",
    "type": "news",
    "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-04",
+   "ts": 1783148400
+  },
+  {
+   "title": "奥特曼初音未来联动_新浪新闻 - 新浪网",
+   "title_ko": "울트라맨 하츠네 미쿠 콜라보레이션_Sina News - Sina.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4V2hkaXVOVUNGZGxWLTdDOEdRTVBVSGpGYzBKRzk2ZnlXSmlQNWNHTkxIOXk2VVJzcEFjWXZQRmUybmN1WXJab0pUZTFBdmlLdVhQOTFzSWg5YkpRdzR1d3hRMA?oc=5",
+   "source": "Google News 中",
+   "region": "cn",
+   "category": "goods",
+   "type": "news",
+   "lang": "zh-CN",
+   "thumb": null,
+   "date": "2026-07-04",
+   "ts": 1783148400
+  },
+  {
+   "title": "Hatsune Miku Nendoroid Starry Party Game Announced for Switch 2, PC - Anime News Network",
+   "title_ko": "하츠네 미쿠 넨도로이드 스타리 파티 게임이 스위치 2, PC용으로 발표되었습니다 - 애니메이션 뉴스 네트워크",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFA3R2pwTmJDZTF2Z3BBUUhscURKQVlkSGxZRGFNUF93S19abWZHcy1MOGN6SWRPczdaOHhHRTE3SXdtYjNjdm83M0IxVTVZMHVqQ2k0dWQzdVNBck8zcFlJQ3V0d01GNlA3ZmRlcDYwd28taWVCVEJoYS1nc3RGODlleTZFR0dYRzFPN1ZqS1VzVk9UeV9mdHRBNk5JTnNiUzR0VGJNWXlYMmo3V2JyNkhjMkF3Wk5MOEFoZXVDR2s?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "figure",
+   "type": "news",
+   "lang": "en",
    "thumb": null,
    "date": "2026-07-04",
    "ts": 1783148400
@@ -1309,6 +1270,45 @@
    "thumb": null,
    "date": "2026-06-12",
    "ts": 1781247600
+  },
+  {
+   "title": "Good Smile Company Unveils Nendoroid Hatsune Miku Mezmarizer Ver. – The Hypnotic Fast Food Cutie! - 玩具人 TOY PEOPLE",
+   "title_ko": "굿스마일컴퍼니, 넨도로이드 하츠네 미쿠 메즈마리저 Ver. 공개 – 최면에 걸린 패스트푸드 귀염둥이! - 玩具人 TOY PEOPLE",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sVk9na054LVExQjd6ci15TnNTcHhjcDM5YlBjcXZfSXBCZlRoYl8xMzBDdHpFVW5mOU5rbVRHUDdZUjF1RTdxNFFpVUF6a3V0?oc=5",
+   "source": "Google News 英",
+   "region": "global",
+   "category": "figure",
+   "type": "news",
+   "lang": "en",
+   "thumb": null,
+   "date": "2026-06-11",
+   "ts": 1781161200
+  },
+  {
+   "title": "하츠네 미쿠 \"Smile × Future Ver.\" 1/7 스케일 피규어 예약 판매 시작, SOLWA 콜라보레이션 피규어 재판매 결정 - www.haveagood-holiday.com",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkcyeE8tdktNNW9xcHFtUXAxWVlzbHhCY2ZJSnN5a25GbGhKTGJ2THV4bW9ZS2tzVDJwU2xOcXM5NWlBMlQwWFdoY1czZHZjX2tyN2NxUU9IM1hWMDFvYU56TTV1amhUVjJ6dUo4WF8zOGtWcXdNaFE1UWpXTVdKakQtOUZoOXc5OU9WSzlPWlViSzYzZ21HSnZ1OHk?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "figure",
+   "type": "news",
+   "lang": "ko",
+   "thumb": null,
+   "date": "2026-05-30",
+   "ts": 1780124400
+  },
+  {
+   "title": "하츠네 미쿠 × 노래방의 철인 콜라보레이션, 일본 전국 8개 매장에서 개최 - haveagood-holiday.com",
+   "title_ko": null,
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWFOS2R2X2I5eW92a1VGQlN4ZUM1LVQzcld4R280R29ZZnV4M2hkRnFRa1daaEczZ1ZxV2pCMXBqa3lIRFVaVFdfZk5odHY0eGF2dUU1UE5ZbUQ0S1VmTnJlWkRYSFlJcVNiTWhhX2otY2dIXzVsMEFUWjctUEFheVZKR1MzTmU4MTZiUFpXeWVablNvQUJZNzllcnRKUQ?oc=5",
+   "source": "Google News 韓",
+   "region": "kr",
+   "category": "goods",
+   "type": "news",
+   "lang": "ko",
+   "thumb": null,
+   "date": "2026-05-27",
+   "ts": 1779865200
   }
  ]
 }
